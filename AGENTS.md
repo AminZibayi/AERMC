@@ -53,10 +53,12 @@ This document defines the **structured procedure** for conducting risk research 
 | `edgartools_edgar_notes`       | Drill into financial statement notes          | Phase 6–9                |
 | `edgartools_edgar_text_search` | Full-text search across all filings           | Phase 4–5, 11            |
 | `edgartools_edgar_trends`      | Time-series financial data with growth rates  | Phase 6                  |
-| `edgartools_edgar_ownership`   | Insider trading and institutional holdings    | Phase 10 (if relevant)   |
+| `edgartools_edgar_ownership`   | Insider trading and institutional holdings    | Phase 10 (optional)      |
 | `edgartools_edgar_compare`     | Peer comparison                               | Phase 6 (optional)       |
 | `edgartools_edgar_screen`      | Screen companies by industry/exchange/state   | Phase 1 (batch research) |
-| `websearch`                    | Current events, macro shocks, market data     | Phase 10–11              |
+| `yahoo-finance_yfinance_get_ticker_info` | Market Cap, stock price, and 52-week range | Phase 10              |
+| `yahoo-finance_yfinance_get_holders` | Institutional ownership context             | Phase 10                 |
+| `yahoo-finance_yfinance_get_ticker_news` | Recent risk events, macro shocks context    | Phase 11                 |
 
 ### Filing Priority Order
 
@@ -87,13 +89,13 @@ This document defines the **structured procedure** for conducting risk research 
 | SIC Code & Description | SEC reference data                     | 6022 — National Commercial Banks |
 | Exchange               | SEC reference data                     | NYSE                             |
 | State of Incorporation | SEC reference data                     | Delaware                         |
-| Market Cap             | `websearch` or financial data provider | ~$680B (May 2026)                |
+| Market Cap             | `yahoo-finance` or financial data provider | ~$680B (May 2026)                |
 | Employees              | 10-K Item 1 or proxy                   | ~320,000                         |
 
 ### Market Cap Research Method
 
 ```
-websearch("[company ticker] market cap [current year]")
+yahoo-finance_yfinance_get_ticker_info(symbol="[ticker]")
 ```
 
 If no reliable figure found, state: _"Market cap not available via SEC filings; requires external data source."_
@@ -225,7 +227,7 @@ Each risk factor must follow this structure:
 2. edgartools_edgar_read(accession_number="[proxy_acc#]", sections=["governance", "compensation"])
    → Look for: "Risk Committee", "Board Risk Committee", "risk oversight"
 3. edgartools_edgar_text_search(query="Risk Committee meetings held risk oversight board", identifier="[ticker]", forms=["DEF 14A"])
-4. If proxy truncated, use websearch for补充: "[company] risk committee charter [year]"
+4. If proxy truncated, use web search for: "[company] risk committee charter [year]"
 ```
 
 ### Required Outputs
@@ -236,7 +238,7 @@ Each risk factor must follow this structure:
 | Committee name                   | Proxy                               |
 | Number of meetings (fiscal year) | Proxy, Corporate Governance section |
 | Committee chair                  | Proxy                               |
-| Chief Risk Officer               | 10-K, proxy, websearch              |
+| Chief Risk Officer               | 10-K, proxy, web search              |
 | Three Lines Model adoption       | Item 1A, proxy                      |
 
 > **Caption:** Risk governance data extracted from DEF 14A proxy statement and Item 1A.
@@ -438,23 +440,24 @@ xychart-beta
 ### Steps
 
 ```
-1. websearch("[ticker] market cap [current year]")
-2. websearch("[company] stock price [current date]")
-3. edgartools_edgar_ownership(identifier="[CIK]", analysis_type="fund_portfolio", limit=10)
+1. yahoo-finance_yfinance_get_ticker_info(symbol="[ticker]")
+   → Extract marketCap, currentPrice, fiftyTwoWeekRange
+2. yahoo-finance_yfinance_get_holders(symbol="[ticker]")
    → Top institutional holders for context
+3. (Optional) web search for credit ratings if needed, as these are not always included in yfinance
 ```
 
 ### Required Outputs
 
 | Output                        | Source                               |
 | ----------------------------- | ------------------------------------ |
-| Market capitalization         | Web search / financial data provider |
-| Stock price (current)         | Web search                           |
-| Top 5 institutional holders   | 13F via `edgar_ownership`            |
-| 52-week price range           | Web search                           |
+| Market capitalization         | `yfinance_get_ticker_info`           |
+| Stock price (current)         | `yfinance_get_ticker_info`           |
+| Top 5 institutional holders   | `yfinance_get_holders`               |
+| 52-week price range           | `yfinance_get_ticker_info`           |
 | Credit ratings (if available) | Web search or 10-K references        |
 
-> **Caption:** Market data requires external financial data provider. Must cite source and access date.
+> **Caption:** Market data requires external financial data provider (`yahoo-finance`). Must cite source and access date.
 
 ---
 
@@ -463,10 +466,9 @@ xychart-beta
 ### Steps
 
 ```
-1. websearch("[company] risk impact [current year] [recent event]")
-   → Example: "JPMorgan risk impact 2026 Iran US war"
-   → Example: "JPMorgan provision credit losses 2026 macro"
-2. websearch("[industry] risk outlook [current year] [macro event]")
+1. yahoo-finance_yfinance_get_ticker_news(symbol="[ticker]")
+   → Extract recent news articles and press releases impacting the company
+2. (Optional) web search("[industry] risk outlook [current year] [macro event]") for broader industry context
 3. edgartools_edgar_text_search(query="[macro event keyword]", identifier="[ticker]", forms=["8-K", "10-Q"], start_date="[recent date]")
 4. edgartools_edgar_monitor(form="8-K", limit=20)
    → Check for material event filings
@@ -474,24 +476,24 @@ xychart-beta
 
 ### Recent Macro Shock Checklist (2026)
 
-| Event                         | Search Query                         | Expected Impact on Financials                                             |
+| Event                         | Search Focus / Keyword               | Expected Impact on Financials                                             |
 | ----------------------------- | ------------------------------------ | ------------------------------------------------------------------------- |
-| Iran-US Conflict (Mar 2026)   | "[ticker] Iran war impact provision" | Elevated credit provisions, energy price pass-through, sanctions exposure |
-| Interest Rate Volatility      | "[ticker] interest rate risk 2026"   | NIM compression/expansion, trading losses                                 |
-| Tariff/Trade War Escalation   | "[ticker] tariff trade war 2026"     | Supply chain disruption, sector concentration risk                        |
-| AI Disruption                 | "[ticker] AI competition 2026"       | Strategic risk, technology investment                                     |
-| Commercial Real Estate Stress | "[ticker] CRE exposure 2026"         | Credit risk, real estate concentration                                    |
+| Iran-US Conflict (Mar 2026)   | Iran war, geopolitical, supply chain | Elevated credit provisions, energy price pass-through, sanctions exposure |
+| Interest Rate Volatility      | interest rate, fed, inflation        | NIM compression/expansion, trading losses                                 |
+| Tariff/Trade War Escalation   | tariff, trade war, supply chain      | Supply chain disruption, sector concentration risk                        |
+| AI Disruption                 | artificial intelligence, AI          | Strategic risk, technology investment                                     |
+| Commercial Real Estate Stress | commercial real estate, CRE          | Credit risk, real estate concentration                                    |
 
 ### Required Outputs
 
 | Output                                      | Source                                                                                       |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Recent risk events identified               | Web search, 8-K filings                                                                      |
-| Financial impact (if quantified in filings) | 10-Q, 8-K, web search                                                                        |
+| Recent risk events identified               | `yfinance_get_ticker_news`, 8-K filings                                                      |
+| Financial impact (if quantified in filings) | 10-Q, 8-K, `yfinance`                                                                        |
 | Management commentary on recent events      | MD&A, 8-K earnings                                                                           |
 | **If no impact found**                      | State: "No material impact from [event] identified in most recent SEC filings as of [date]." |
 
-> **Caption:** Recent risk event impact requires web search and 8-K monitoring. Must cite source and date.
+> **Caption:** Recent risk event impact requires `yahoo-finance` news analysis and 8-K monitoring. Must cite source and date.
 
 ---
 
@@ -699,7 +701,7 @@ Before starting any risk research session, verify:
 
 ```
 □ EdgarTools MCP server is connected and available
-□ websearch tool is available (for market data + macro context)
+□ yahoo-finance tools are available (for market data + macro context)
 □ Target company ticker/CIK is known
 □ Output directory is specified
 □ User has specified scope (10-K only, or 10-K + 10-Q + proxy)
