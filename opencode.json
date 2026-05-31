@@ -1,0 +1,27 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "edgartools": {
+      "type": "local",
+      "command": ["python", "-m", "edgar.ai"],
+      "environment": {
+        "EDGAR_IDENTITY": "John Ruckfelar john.r97@gmail.com"
+      },
+      "enabled": true
+    }
+  },
+  "permission": {
+    "bash": {
+      "*": "allow",
+      "websearch": "allow",
+      "codesearch": "allow",
+      "question": "allow",
+      "Stop-Process*": "ask",
+      "Kill-Process*": "ask",
+      "taskkill*": "ask",
+      "*-Force*": "ask",
+      "rm*": "ask",
+      "Get-Process*": "ask"
+    }
+  }
+}
