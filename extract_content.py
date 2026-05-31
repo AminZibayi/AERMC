@@ -1,6 +1,6 @@
 """
 Document Content Extraction Script
-Uses Docling for parsing (tables, images, layout) + EasyOCR for OCR with GPU acceleration.
+Uses Docling for parsing (tables, images, layout) + native Docling OCR.
 Implements memory-efficient page-level chunking for large PDFs + token-level chunking for RAG.
 """
 
@@ -12,12 +12,14 @@ from pathlib import Path
 from typing import Optional
 
 import cv2
-import easyocr
 import numpy as np
 
 # Docling imports
 from docling.datamodel.base_models import InputFormat
-from docling.datamodel.pipeline_options import PdfPipelineOptions, AcceleratorOptions, smolvlm_picture_description
+from docling.datamodel.pipeline_options import (
+    PdfPipelineOptions, AcceleratorOptions, smolvlm_picture_description,
+    OcrEngine, EasyOcrOptions, TesseractOcrOptions, RapidOcrOptions
+)
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling_core.types.doc import ImageRefMode, PictureItem, TableItem
 from docling_core.types.doc.base import Size
@@ -40,22 +42,25 @@ log = logging.getLogger(__name__)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Hardware / Processing
-USE_GPU                = True             # Enables GPU for both Docling and EasyOCR
+USE_GPU                = True             # Enables GPU for Docling
 DOCLING_THREADS        = 4                # Number of CPU threads for Docling
-PAGES_PER_CHUNK        = 10               # Memory management: process PDF N pages at a time
+PAGES_PER_CHUNK        = 15               # Memory management: process PDF N pages at a time
 
-# EasyOCR (for extracting text from pictures)
-USE_EASYOCR            = True
-OCR_LANGS              = ["en", "fa"]
-OCR_BATCH_SIZE         = 16               # Batch size for EasyOCR inference
+# OCR (Docling native — no separate EasyOCR needed)
+DOCLING_OCR_ENGINE     = "easyocr"        # Options: "auto", "easyocr", "tesseract", "tesseract_cli", "rapidocr"
+DOCLING_OCR_LANGS      = ["en", "fa"]     # OCR languages
+DOCLING_OCR_USE_GPU    = True             # GPU for Docling's built-in EasyOCR
 
 # Vision Extraction
-IMAGE_RESOLUTION_SCALE = 2.0              # 2.0 = High res image extraction
+IMAGE_RESOLUTION_SCALE = 1.5              # 1.5 = Balanced (2.0 = High res but slower)
 EXPORT_PAGE_IMAGES     = True             # Save full page images
 EXPORT_PICTURES        = True             # Save extracted figures/pictures
 EXPORT_TABLE_IMAGES    = False            # Save extracted tables as images
 ENRICH_PICTURES        = True             # Enrich pictures using VLM
-CHART_EXTRACTION       = False             # Enable chart extraction
+CHART_EXTRACTION       = False            # Enable chart extraction
+
+# Export options
+EXPORT_CHUNK_JSON      = False            # Export per-chunk JSON (disable to speed up)
 
 # Token Chunking (LLM / RAG prep)
 CHUNK_SIZE_TOKENS      = 512              # Max tokens per chunk
@@ -75,8 +80,6 @@ SUPPORTED_EXTENSIONS   = (
 #  internals — no need to touch below
 # ═══════════════════════════════════════════════════════════════════════════════
 
-_ocr_reader: Optional[easyocr.Reader] = None
-
 
 def get_pdf_page_count(pdf_path: Path) -> Optional[int]:
     """Try to detect total pages using pypdf to allow batching."""
@@ -91,59 +94,45 @@ def get_pdf_page_count(pdf_path: Path) -> Optional[int]:
         return None
 
 
-def _get_ocr_reader() -> easyocr.Reader:
-    global _ocr_reader
-    if _ocr_reader is None:
-        log.info("Initializing EasyOCR (langs=%s, gpu=%s)", OCR_LANGS, USE_GPU)
-        _ocr_reader = easyocr.Reader(
-            lang_list=OCR_LANGS,
-            gpu=USE_GPU,
-            quantize=True,
-            cudnn_benchmark=True,
-            verbose=False,
-        )
-    return _ocr_reader
-
-
-def _ocr_images_batch(images: list[np.ndarray], batch_size: int) -> list[list[dict]]:
-    if not images or not USE_EASYOCR:
-        return []
-    reader = _get_ocr_reader()
-    all_results: list[list[dict]] = []
-    for i in range(0, len(images), batch_size):
-        batch = images[i : i + batch_size]
-        target_h = max(img.shape[0] for img in batch)
-        target_w = max(img.shape[1] for img in batch)
-        resized = [
-            cv2.resize(img, (target_w, target_h), interpolation=cv2.INTER_AREA)
-            if img.shape[:2] != (target_h, target_w) else img
-            for img in batch
-        ]
-        raw = reader.readtext_batched(resized, batch_size=batch_size, detail=1, output_format="standard")
-        for page_results in raw:
-            all_results.append([{"text": t, "bbox": b, "confidence": c} for b, t, c in page_results])
-        del resized
-        gc.collect()
-    return all_results
+def _build_ocr_options():
+    """Build OCR options based on DOCLING_OCR_ENGINE config."""
+    engine = DOCLING_OCR_ENGINE.lower()
+    if engine == "easyocr":
+        return EasyOcrOptions(lang=DOCLING_OCR_LANGS, use_gpu=DOCLING_OCR_USE_GPU)
+    elif engine == "tesseract":
+        return TesseractOcrOptions(lang=DOCLING_OCR_LANGS)
+    elif engine == "tesseract_cli":
+        from docling.datamodel.pipeline_options import TesseractCliOcrOptions
+        return TesseractCliOcrOptions(lang=DOCLING_OCR_LANGS)
+    elif engine == "rapidocr":
+        return RapidOcrOptions(lang=DOCLING_OCR_LANGS)
+    else:
+        # "auto" or unknown — use defaults
+        from docling.datamodel.pipeline_options import OcrAutoOptions
+        return OcrAutoOptions(lang=DOCLING_OCR_LANGS)
 
 
 def _build_converter() -> DocumentConverter:
     device = "cuda" if USE_GPU else "cpu"
-    
-    # Configure specific PDF Pipeline options
+
     pipeline_options = PdfPipelineOptions()
     pipeline_options.accelerator_options = AcceleratorOptions(device=device, num_threads=DOCLING_THREADS)
-    
-    # Enable robust table and image extraction
+
+    # OCR
+    pipeline_options.do_ocr = True
+    pipeline_options.ocr_options = _build_ocr_options()
+
+    # Table and image extraction
     pipeline_options.do_table_structure = True
     pipeline_options.table_structure_options.do_cell_matching = True
     pipeline_options.images_scale = IMAGE_RESOLUTION_SCALE
     pipeline_options.generate_page_images = EXPORT_PAGE_IMAGES
     pipeline_options.generate_picture_images = EXPORT_PICTURES
 
-    # Enable chart extraction
+    # Chart extraction
     pipeline_options.do_chart_extraction = CHART_EXTRACTION
 
+    # Picture enrichment via VLM
     if ENRICH_PICTURES:
         pipeline_options.do_picture_description = True
         pipeline_options.picture_description_options = smolvlm_picture_description
@@ -163,7 +152,7 @@ def _build_chunker() -> HybridChunker:
 def extract_document(source: str | Path) -> dict:
     source = Path(source).expanduser().resolve()
     base_name = source.stem
-    
+
     # Prepare directories
     out_dir = Path(OUTPUT_DIR) / f"{base_name}_extracted"
     pics_dir = out_dir / "pictures"
@@ -175,7 +164,7 @@ def extract_document(source: str | Path) -> dict:
         d.mkdir(parents=True, exist_ok=True)
 
     log.info("Processing: %s", source)
-    
+
     # Determine page ranges (only for PDFs)
     page_ranges = []
     total_pages = get_pdf_page_count(source) if source.suffix.lower() == ".pdf" else None
@@ -185,7 +174,7 @@ def extract_document(source: str | Path) -> dict:
             end = min(start + PAGES_PER_CHUNK - 1, total_pages)
             page_ranges.append((start, end))
     else:
-        page_ranges.append(None) # Process entire document at once
+        page_ranges.append(None)  # Process entire document at once
 
     converter = _build_converter()
     chunker = _build_chunker()
@@ -196,14 +185,13 @@ def extract_document(source: str | Path) -> dict:
     global_pic_counter = 0
     global_table_counter = 0
     failed_ranges = []
-    
+
     all_hybrid_chunks = []
-    all_ocr_results = []
 
     for rng in page_ranges:
         if rng:
             log.info("Processing pages %d-%d ...", rng[0], rng[1])
-        
+
         try:
             kwargs = {"page_range": rng} if rng else {}
             result = converter.convert(str(source), raises_on_error=False, **kwargs)
@@ -230,8 +218,7 @@ def extract_document(source: str | Path) -> dict:
                     with page_img_path.open("wb") as fp:
                         page.image.pil_image.save(fp, format="PNG")
 
-        # 2. Extract Figures and Tables, and set image URIs for Markdown references
-        pic_images = []
+        # 2. Extract Figures and Tables, set image URIs for Markdown references
         for element, _level in doc.iterate_items():
             if isinstance(element, TableItem):
                 global_table_counter += 1
@@ -241,7 +228,6 @@ def extract_document(source: str | Path) -> dict:
                     tbl_img_path = tables_dir / tbl_filename
                     with tbl_img_path.open("wb") as fp:
                         pil_img.save(fp, "PNG")
-                    # Set image URI relative to the output directory for Markdown references
                     if element.image is None:
                         element.image = ImageRef(
                             mimetype="image/png",
@@ -260,7 +246,6 @@ def extract_document(source: str | Path) -> dict:
                     pic_img_path = pics_dir / pic_filename
                     with pic_img_path.open("wb") as fp:
                         pil_img.save(fp, "PNG")
-                    # Set image URI relative to the output directory for Markdown references
                     if element.image is None:
                         element.image = ImageRef(
                             mimetype="image/png",
@@ -270,22 +255,8 @@ def extract_document(source: str | Path) -> dict:
                         )
                     else:
                         element.image.uri = Path(f"pictures/{pic_filename}")
-                    # Queue for EasyOCR
-                    img_cv2 = cv2.cvtColor(np.array(pil_img), cv2.COLOR_RGB2BGR)
-                    pic_images.append((global_pic_counter, img_cv2))
 
-        # 3. EasyOCR on extracted pictures
-        if pic_images and USE_EASYOCR:
-            log.info("Running EasyOCR on %d picture(s) in this chunk", len(pic_images))
-            raw_cv2_imgs = [img for _, img in pic_images]
-            ocr_res = _ocr_images_batch(raw_cv2_imgs, OCR_BATCH_SIZE)
-            for (pic_id, _), page_ocr in zip(pic_images, ocr_res):
-                all_ocr_results.append({
-                    "picture_id": pic_id,
-                    "text": " ".join(r["text"] for r in page_ocr)
-                })
-        
-        # 4. Hybrid Token Chunking (for RAG)
+        # 3. Hybrid Token Chunking (for RAG)
         doc_chunks = list(chunker.chunk(doc))
         chunk_data = [
             {
@@ -299,21 +270,22 @@ def extract_document(source: str | Path) -> dict:
         ]
         all_hybrid_chunks.extend(chunk_data)
 
-        # 5. Export Markdown & JSON for this chunk
+        # 4. Export Markdown for this chunk
         rng_suffix = f".p{rng[0]:05d}-p{rng[1]:05d}" if rng else ""
-        
+
         chunk_md = doc.export_to_markdown(image_mode=ImageRefMode.REFERENCED)
         chunk_md_path = chunks_dir / f"{base_name}{rng_suffix}.md"
         chunk_md_path.write_text(chunk_md, encoding="utf-8")
-        
-        chunk_json_path = chunks_dir / f"{base_name}{rng_suffix}.json"
-        chunk_json_path.write_text(json.dumps(doc.export_to_dict(), indent=2), encoding="utf-8")
+
+        if EXPORT_CHUNK_JSON:
+            chunk_json_path = chunks_dir / f"{base_name}{rng_suffix}.json"
+            chunk_json_path.write_text(json.dumps(doc.export_to_dict(), indent=2), encoding="utf-8")
 
         # Append to merged Markdown
         if rng:
             merged_md_file.write(f"\n\n<!-- pages {rng[0]}-{rng[1]} -->\n\n")
         merged_md_file.write(chunk_md)
-        
+
         gc.collect()
 
     merged_md_file.close()
@@ -326,18 +298,17 @@ def extract_document(source: str | Path) -> dict:
                 f.write(f"{err}\n")
         log.warning("Some chunks failed. See: %s", failures_path)
 
-    # Save master hybrid chunks & OCR text
+    # Save master hybrid chunks
     master_json = out_dir / f"{base_name}.hybrid_chunks.json"
     master_data = {
         "hybrid_chunks": all_hybrid_chunks,
-        "ocr_results": all_ocr_results,
         "total_pictures": global_pic_counter,
         "total_tables": global_table_counter
     }
     master_json.write_text(json.dumps(master_data, indent=2, ensure_ascii=False), encoding="utf-8")
 
     log.info("Merged Markdown: %s", merged_md_path)
-    log.info("Total Pictures: %d | Total Tables: %d | Total Chunks: %d", 
+    log.info("Total Pictures: %d | Total Tables: %d | Total Chunks: %d",
              global_pic_counter, global_table_counter, len(all_hybrid_chunks))
 
     return master_data
