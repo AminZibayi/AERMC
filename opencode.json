@@ -8,6 +8,11 @@
         "EDGAR_IDENTITY": "John Ruckfelar john.r97@gmail.com"
       },
       "enabled": true
+    },
+    "yahoo-finance": {
+      "type": "local",
+      "command": ["uvx", "yfmcp@latest"],
+      "enabled": true
     }
   },
   "permission": {
