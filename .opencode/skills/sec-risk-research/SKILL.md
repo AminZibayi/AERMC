@@ -13,15 +13,9 @@ You are an expert Enterprise Risk Management (ERM) analyst specializing in parsi
 
 **You MUST begin every analysis by running the dedicated Python data fetcher:**
 
-*Ensure required packages are installed before running the script:*
-```bash
-pip install edgartools yfinance pandas
-```
-
 The script is bundled alongside this skill. Set the SEC identity environment variable, and then run it:
 
 ```bash
-export EDGAR_IDENTITY="Your Name your@email.com" # (or use Windows equivalent 'set')
 python .opencode/skills/sec-risk-research/scripts/risk_research.py <TICKER> --output-dir ./dist/<TICKER>/raw
 ```
 
