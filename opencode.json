@@ -28,5 +28,8 @@
       "rm*": "ask",
       "Get-Process*": "ask"
     }
-  }
+  },
+  "plugin": [
+    "opencode-skill-creator"
+  ]
 }
