@@ -1,0 +1,14 @@
+[
+  {"query": "Do a full ERM risk analysis on JPM", "should_trigger": true},
+  {"query": "What are the material risk factors for Apple? Do a SEC filing analysis", "should_trigger": true},
+  {"query": "credit risk assessment for Microsoft based on SEC filings", "should_trigger": true},
+  {"query": "I need to understand the enterprise risks facing Tesla", "should_trigger": true},
+  {"query": "risk analysis on TSLA — I want to know their top SEC filing risks", "should_trigger": true},
+  {"query": "Do an ERM report on Bank of America", "should_trigger": true},
+  {"query": "research the risks of Goldman Sachs using their 10-K", "should_trigger": true},
+  {"query": "Can you do enterprise risk management for Wells Fargo?", "should_trigger": true},
+  {"query": "read the file AGENTS.md and summarize it", "should_trigger": false},
+  {"query": "What's the weather in New York today?", "should_trigger": false},
+  {"query": "Write a Python function to sort a list", "should_trigger": false},
+  {"query": "What did JPMorgan say about AI in their latest earnings call?", "should_trigger": false}
+]
