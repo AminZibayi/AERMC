@@ -17,12 +17,11 @@ import sys
 from datetime import datetime
 
 def setup_identity():
-    from edgar import set_identity
-    from edgar.storage import use_local_storage
+    from edgar import set_identity, set_cache_directory
     identity = os.environ.get("EDGAR_IDENTITY", "RiskResearchBot research@example.com")
     set_identity(identity)
     os.makedirs("./edgar_cache", exist_ok=True)
-    use_local_storage("./edgar_cache")
+    set_cache_directory("./edgar_cache")
 
 def safe_import_yfinance():
     try:
