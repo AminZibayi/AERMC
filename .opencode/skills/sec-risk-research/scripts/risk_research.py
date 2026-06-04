@@ -136,10 +136,10 @@ def fetch_raw_data(ticker: str, output_dir: str):
     try:
         proxies = company.get_filings(form="DEF 14A").head(1)
         if proxies:
-            proxy = proxies[0].obj()
-            text = str(proxy)
+            proxy_filing = proxies[0]
+            text = proxy_filing.text()
             import re
-            gov_chunks = re.findall(r'.{0,500}risk committee.{0,3000}', text, re.IGNORECASE | re.DOTALL)
+            gov_chunks = re.findall(r'.{0,500}risk\s+committee.{0,3000}', text, re.IGNORECASE | re.DOTALL)
             with open(os.path.join(output_dir, "proxy_governance.txt"), "w", encoding="utf-8") as f:
                 if gov_chunks:
                     f.write("--- Extracted 'Risk Committee' Snippets ---\n")
