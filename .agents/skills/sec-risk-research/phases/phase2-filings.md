@@ -9,6 +9,7 @@
 6. Write "Filing Overview" table to report.
 
 ## Required Outputs
+
 | Output | Source |
 |--------|--------|
 | 10-K Accession Number | metadata.json |

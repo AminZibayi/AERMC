@@ -2,7 +2,9 @@
 
 ## Purpose
 
-This mandatory validation phase must be completed BEFORE writing the final report output (Phase 14). Catches the most common accuracy errors found in prior outputs: mismatched financials, unverified proxy data, missing citations, and arithmetic inconsistencies.
+This mandatory validation phase must be completed BEFORE writing the final report output. Catches the most common accuracy errors: mismatched financials, unverified proxy data, missing citations, and arithmetic inconsistencies.
+
+**CRITICAL:** ALL validation results MUST be logged to terminal output only. Do NOT embed the validation checklist, validation tables, or any validation pass/fail details in the final `ERM_Report.md`. The report must be clean and polished — validation mechanics stay in the terminal session.
 
 ## Required Validation Checks
 
@@ -28,8 +30,9 @@ Scan the draft report for these patterns — every instance MUST have a `[^n]` i
 - [ ] Every governance structure (Board Risk Committee, CRO name)
 - [ ] Every risk factor category heading
 - [ ] Every reference to a specific note (Note 4, Note 37, etc.)
-- [ ] Every peer comparison number
 - [ ] Every institutional holder statistic
+
+Target: >95% of factual claims have an inline citation.
 
 ### Proxy Governance Check
 
@@ -61,20 +64,26 @@ For every data item that could NOT be retrieved:
 
 ### Arithmetic Verification Log
 
-Record any recalculated figures in this format:
+Record any recalculated figures in this format (terminal output only):
 
 ```
 RECALC: ROE FY2025 → $57,048M / $362,438M = 15.73% [source: financial_statements.txt, 10-K Item 8]
 ```
 
-## Required Outputs
+## Terminal Output Format
 
-| Check                                             | Status              |
-| ------------------------------------------------- | ------------------- |
-| Financials verified (all derived metrics)         | PASS / RECALCULATED |
-| Citation completeness (>95% factual claims cited) | PASS / FLAGGED      |
-| Proxy governance complete                         | PASS / FLAGGED      |
-| Litigation data complete                          | PASS / FLAGGED      |
-| Cyber data complete                               | PASS / FLAGGED      |
-| Data Gaps section written                         | YES / NO            |
-| Arithmetic Verification Log present               | YES / NO            |
+After completing all checks, output a concise summary to the terminal:
+
+```
+=== PHASE 15: VALIDATION GATE ===
+Financial Arithmetic:    PASS | RECALCULATED
+Citation Completeness:   PASS | FLAGGED
+Proxy Governance:        PASS | FLAGGED
+Cyber Data:              PASS | FLAGGED
+Data Gaps Logged:        YES | NO
+Arithmetic Logs:         YES | NO
+GATE STATUS:             CLEARED | BLOCKED
+=== END PHASE 15 ===
+```
+
+Do NOT write this table into the report body.

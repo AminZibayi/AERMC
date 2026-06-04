@@ -1,7 +1,8 @@
 # Phase 14 — Data Gaps & Limitations (Structured Gap Tracking)
 
 ## Purpose
-This phase produces a structured, machine-readable log of every data item that could NOT be fully retrieved, replacing the informal "Data Gaps" section with a rigorous tracking system.
+
+This phase produces a structured, machine-readable log of every data item that could NOT be fully retrieved.
 
 ## Steps
 
@@ -24,9 +25,12 @@ This phase produces a structured, machine-readable log of every data item that c
 ```
 
 4. **Also write a "Filled Data" section** for items that were successfully retrieved:
-   | Data Item | Source | Reference |
-   |---|---|---|
-   | [Item name] | retrieval command | [^n] |
+
+| Data Item | Source | Reference |
+| --------- | ------ | --------- |
+| [Item name] | retrieval command | [^n] |
+
+5. Additionally, write the data gap tracking to `./dist/<TICKER>/artifacts/data_gaps.csv` as a structured artifact with columns: Gap_ID, Data_Item, Location, Priority, Action_Required. Reference this artifact path in the report.
 
 ## Required Outputs
 
@@ -34,6 +38,7 @@ This phase produces a structured, machine-readable log of every data item that c
 |--------|--------|
 | Data Gaps Table | Markdown table in report |
 | Filled Data Table | Markdown table in report |
+| Data Gaps CSV | `./dist/<TICKER>/artifacts/data_gaps.csv` |
 | Gap ID count | Log for Phase 16 check |
 
 ## Critical Rules

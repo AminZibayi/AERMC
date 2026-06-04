@@ -1,6 +1,6 @@
 # Professional Report Structure Template
 
-Use this as the canonical section structure for `ERM_Report.md`.
+Use this as the guiding architecture for `ERM_Report.md`. It covers all 17 phases in a unified, readable flow. The agent has creative latitude to embed Markdown tables and Mermaid diagrams inline where they serve readability, and to write long structured datasets to `./dist/<TICKER>/artifacts/` as separate files when the data volume warrants it. Do NOT shatter the reading experience with file-path references for every small table — only lengthy raw datasets (full risk registers, full credit tables, full peer comparisons) belong in artifacts.
 
 ---
 
@@ -15,161 +15,163 @@ Use this as the canonical section structure for `ERM_Report.md`.
 
 ## Executive Summary
 
-[One paragraph: company description, key financials, most significant risks, and key emerging risks. No citations needed here — facts come from §1 and §5.]
+[A tight, citation-dense paragraph: what the company does, where it stands financially (key figures), its most significant material risks, and the most important emerging/forward-looking risks. Ground everything in retrieved data.]
 
 ---
 
-## 1. Industry Context & Key Players
+## 1. Business & Industry Context
 
-### 1.1 Industry Overview
+### 1.1 Company Overview
 
-[Paragraph describing the sector, its economic importance, regulatory bodies, and current trends.]
+[Who the company is, what it does, regulatory status (BHC/FHC status, primary regulators — Fed/OCC/FDIC), geographic footprint, employee count.]
 
-### 1.2 Key Global Players
+### 1.2 Industry & Competitive Position
 
-- **[Company Name]** — Fortune 500 Rank #[X], Revenue $XX.XB, [primary business]
-- [Peer 1] — Fortune 500 Rank #[X]...
-- [Peer 2]...
-
-### 1.3 Market Structure & Competitive Landscape
-
-[Description of market concentration, competitive dynamics, and barriers to entry.]
+[Industry structure, key competitors, the company's relative position (market share, asset rank, revenue rank). Pull from Item 1 and peer comparison data. Note any material industry trends.]
 
 ---
 
-## 2. Risk Governance Comparison
+## 2. Enterprise Risk Framework & Governance
 
-| شرکت / Company | ارزش بازار / Market Cap | کمیته ریسک / Risk Committee | متولی ریسک / CRO | تعداد جلسات / Meetings | دارایی‌ها / Assets | درآمد / Revenue | سود خالص / Net Income |
-| -------------- | ----------------------- | --------------------------- | ---------------- | ---------------------- | ------------------ | --------------- | --------------------- |
-| [Company A]    | $XXX.XB                 | Yes / [Name]                | [Name]           | [X]                    | $XX.XB             | $XX.XB          | $X.XB                 |
-| [Company B]    | ...                     | ...                         | ...              | ...                    | ...                | ...             | ...                   |
+### 2.1 ERM Framework
 
-_Source: 10-K Item 1 / 7A; Proxy Statement (DEF 14A); Financial Statements. [^n]_
+[Which framework(s) the company uses (COSO, Basel III, NIST, OCC Heightened Standards). Quote verbatim. Flag where evidence is implicit rather than explicit.]
 
-[Optional: additional operational, trade, and financial KPI rows below the primary table.]
+### 2.2 Governance Structure
 
----
+[Board oversight architecture: Board → Risk Committee → CRO. Include the Risk Committee name, CRO identity, and meeting frequency where retrievable. Flag gaps transparently.]
 
-## 3. Risk Register
+### 2.3 Regulatory Capital & Compliance Posture
 
-### 3.1 Risk Factor Summary
-
-| Risk Category        | Primary Risk Title | Key Sub-Risk (Verbatim) | Source Section | Source Item/Note |
-| -------------------- | ------------------ | ----------------------- | -------------- | ---------------- |
-| Legal and Regulatory | ...                | "exact quote..."        | 10-K           | Item 1A          |
-| Market               | ...                | "exact quote..."        | 10-K           | Item 1A          |
-| ...                  | ...                | ...                     | ...            | ...              |
-
-### 3.2 Detailed Risk Register (CSV)
-
-_Source: 10-K, Item 1A — Risk Factors [^n]_
-
-```csv
-Risk_Category,Risk_Factor_Title,Verbatim_Excerpt
-Legal and Regulatory,Regulatory Changes,"exact phrase ""..."" from Item 1A"
-Political,Macroeconomic Uncertainty,"exact phrase ""..."" from Item 1A"
-...
-```
+[CET1 ratio, SCB, CCAR, Basel III endgame exposure, consent orders or enforcement matters. Ground in Item 1 and Item 7A.]
 
 ---
 
-## 4. Emerging Risk Scenarios
+## 3. Principal Risk Factors
 
-### Scenario 1: [Title]
+Present the material risk factor categories extracted from Item 1A. For each category, provide a concise narrative summary (2–4 sentences) grounded in verbatim quotes, then list the key sub-factors.
 
-**Trigger:** [External event]
-
-**Mechanism:** [Causal chain]
-
-**Impact:** [Firm-specific consequence]
-
-**Source anchors:** [^n], [^m]
-
-### Scenario 2: [Title]
-
-...
-
-### Scenario 3: [Title]
-
-...
-
-**Cross-Scenario Synthesis:**
-
-| Scenario | Trigger                 | Primary Risk Channel | Severity | Primary Source |
-| -------- | ----------------------- | -------------------- | -------- | -------------- |
-| S1       | Geopolitical escalation | Credit → Capital     | High     | [^n]           |
-| S2       | AI cyber disruption     | Cyber → Operational  | High     | [^n]           |
-| S3       | CRE systemic stress     | Credit → Earnings    | Medium   | [^n]           |
+> **Embedding guidance:** For companies with many risk sub-factors (e.g., JPM's 30+ RF-IDs), embed the detailed register table directly below each category heading rather than sending the reader to an artifact file. Reserve artifact files for extraordinarily long registers (50+ items) or when the report is intended as a data product for downstream processing.
 
 ---
 
-## 5. Enterprise Risk Framework & Governance
+## 4. Financial & Credit Risk Profile
 
-[ERM framework discussion, COSO/Basel/NIST detection, Three Lines model]
+### 4.1 Financial Performance — Three-Year Trend
 
-### 5.1 Risk Governance Map
+[Revenue, net income, NII, PCL, EPS, ROE, efficiency ratio — presented as a concise Markdown table with YoY change column. Include a brief narrative on the trend direction and what's driving it.]
 
-[Mermaid `graph TD` or `flowchart LR` showing Board → Committee → CRO → Lines of Defense]
+> **Mermaid:** Embed a `xychart-beta` showing Revenue and Net Income over the 3-year period directly inline if it adds visual clarity. If the chart is complex (multiple series), write to `./dist/<TICKER>/artifacts/financial_trend.mermaid` and reference it.
+
+### 4.2 Credit Concentrations (Note 4)
+
+[Top 5–10 sector concentrations with on-balance-sheet and off-balance-sheet amounts. Highlight any single-name or sector concentrations above 5–10% of total exposure. Note any pending acquisitions or transactions that would materially alter concentrations (e.g., Apple Card).]
+
+> **Embedding guidance:** Embed the full top-10 table directly. For very large peer-bank reports where the full 20+ sector table is needed for completeness, write to `./dist/<TICKER>/artifacts/credit_concentrations.csv` and embed the Top 5 summary table inline.
+> **Mermaid:** Embed a concise `pie` chart for the top 5 exposures inline.
+
+### 4.3 Allowance for Credit Losses
+
+[Allowance for loan losses, allowance for lending-related commitments, total ACL. Show the roll-forward beginning → provision → charge-offs → ending. Compute ACL/Total Credit Exposure ratio.]
+
+---
+
+## 5. Operational, Cyber & Litigation Risk
+
+### 5.1 Cybersecurity & Third-Party Risk
+
+[Note 37 disclosure summary (mandatory for FY ending on/after Jan 15, 2025). AI/technology risk exposure, third-party/vendor risk language, recent 8-K cyber incidents. Cite Item 106 and Item 1A verbatim quotes.]
+
+### 5.2 Litigation & Contingencies (Item 3 / Note 30)
+
+[Material proceedings: name, jurisdiction, status, estimated loss ranges. ASC 450 classification. Aggregate reasonably possible loss range.]
+
+### 5.3 Model & Data Risk
+
+[Model risk governance, data management, control environment deficiencies — drawn from Item 1A operational risk factors and any available Note.]
 
 ---
 
 ## 6. Macroeconomic Shocks & Interconnections
 
-[Current macro risks, Fed policy, geopolitical events, interconnection analysis]
+### 6.1 Key Macro Risk Drivers
+
+[Current macro environment: interest rate path, geopolitical flashpoints (Iran, Russia, China), tariff/trade policy, CRE stress, AI disruption. Connect each macro theme to the firm's specific disclosed exposures.]
+
+### 6.2 Risk Cascade Map
+
+[Write 1–3 cascade narratives describing how macro shocks propagate through the firm's risk architecture. E.g., "Rate spike → NIM compression → earnings haircut → dividend coverage pressure → capital constraint."]
+
+> **Mermaid:** Embed a `graph TD` or `graph LR` risk cascade diagram inline if it has ≤15–20 well-labeled nodes (as in the JPM example). Write larger/more complex diagrams to `./dist/<TICKER>/artifacts/risk_cascade.mermaid` and reference it with a descriptive caption.
 
 ---
 
-## 7. Financial & Credit Risk Profile
+## 7. Emerging Risk Scenarios
 
-### 7.1 Financial Indicators
+Present 3–5 forward-looking scenario narratives. Each scenario must be anchored in at least 2 verifiable sources from the 10-K, proxy, or 8-K filings.
 
-_Source: 10-K, Financial Statements [^n]_
+### Required scenario types (include those applicable):
 
-```csv
-Metric,FY2023,FY2024,FY2025,Unit,Source
-Total_Revenue,158104,177556,182447,$M,10-K Income Statement
-Net_Income,49552,58471,57048,$M,10-K Income Statement
-...
-```
+1. **Geopolitical / Trade Shock** — sanctions, tariffs, military escalation
+2. **Technology Disruption** — AI, quantum computing, fintech
+3. **Regulatory / Capital Rule Change**
+4. **Climate / Physical Risk** (if applicable)
+5. **Systemic Credit Cycle** — recession, counterparty failure
 
-### 7.2 Credit Risk Concentrations
-
-_Source: 10-K, Note 4 — Credit Risk [^n]_
-
-```csv
-Sector,FY2025_M,FY2024_M,YoY_Change_M,Pct_Total
-Credit Card,1425563,1234171,191392,41.7%
-...
-```
+> **Format:** Write the cross-scenario synthesis table inline (5 rows, 5 columns). Write a CSV with the full scenario register to `./dist/<TICKER>/artifacts/scenario_synthesis.csv` if the narratives are extensive.
 
 ---
 
-## 8. Operational, Cyber & Litigation Risk
+## 8. Market & Ownership Snapshot
 
-[Cyber disclosures, Note 37, litigation proceedings, ASC 450 classification]
+[Current price, bid/ask, 52-week range, market cap, beta, P/E, P/B, dividend yield. Top 5 institutional holders with concentration analysis.]
 
 ---
 
-## 9. References
+## 9. Data Gaps & Limitations
 
-[^1]: JPMorgan Chase & Co. (2026). _Form 10-K for the Fiscal Year Ended December 31, 2025_ (Accession No. 0001628280-26-008131). U.S. Securities and Exchange Commission. Item 1: Business and Supervision and Regulation.
+[Tables are acceptable here — this is the designated gap-tracking section. Include both Gap IDs and a Filled Data table.]
 
-[^2]: JPMorgan Chase & Co. (2026). _Form 10-K, Item 1A — Risk Factors_.
+> Write to `./dist/<TICKER>/artifacts/data_gaps.csv` if the gap list exceeds 10 items or if this report is part of a multi-report batch.
 
-[^3]:
+---
+
+## 10. References
+
+All `[^n]` numbers used in the report body MUST appear here. Use the academic filing format established in `references/citation-standards.md`.
+
+[^1]: [Company Name] (2026). _Form 10-K for the Fiscal Year Ended [DATE]_ (Accession No. [ACCESSION]). U.S. Securities and Exchange Commission. Item 1: Business and Supervision and Regulation.
+
+[^2]:
+    [Company Name] (2026). _Form 10-K, Item 1A — Risk Factors_.
     ...
-    ...
 
 ---
 
-## Data Gaps & Limitations
+## Appendix: Structured Data Artifacts
 
-| Gap ID  | Data Item | Location | Priority | Action Required |
-| ------- | --------- | -------- | -------- | --------------- |
-| GAP-001 | ...       | ...      | HIGH     | ...             |
+All structured data artifacts for this report are stored in `./dist/<TICKER>/artifacts/`.
 
-## Filled Data (this update)
+| Artifact                         | Path                                                    |
+| -------------------------------- | ------------------------------------------------------- |
+| Risk Factor Register (full CSV)  | `./dist/<TICKER>/artifacts/risk_register.csv`           |
+| Financial Indicators (CSV)       | `./dist/<TICKER>/artifacts/financial_indicators.csv`    |
+| Credit Concentrations (full CSV) | `./dist/<TICKER>/artifacts/credit_concentrations.csv`   |
+| Peer Comparison (CSV)            | `./dist/<TICKER>/artifacts/peer_comparison.csv`         |
+| Risk Cascade Diagram             | `./dist/<TICKER>/artifacts/risk_cascade.mermaid`        |
+| Governance Risk Map              | `./dist/<TICKER>/artifacts/governance_risk_map.mermaid` |
+| Financial Trend Chart            | `./dist/<TICKER>/artifacts/financial_trend.mermaid`     |
+| Credit Pie Chart                 | `./dist/<TICKER>/artifacts/credit_pie.mermaid`          |
+| Scenario Synthesis (CSV)         | `./dist/<TICKER>/artifacts/scenario_synthesis.csv`      |
+| Data Gaps (CSV)                  | `./dist/<TICKER>/artifacts/data_gaps.csv`               |
 
-| Data Item | Source | Reference |
-| --------- | ------ | --------- |
-| ...       | ...    | [^n]      |
+---
+
+## Embedding vs. Artifact Decision Guide
+
+The agent has discretion over what goes inline and what becomes an artifact file. Use this guidance:
+
+- **Embed inline (Markdown table):** Tables with ≤15 rows; tables that the reader needs to see in context (financial summary, Top 5 concentrations, risk factor categories, market snapshot).
+- **Embed inline (Mermaid):** Diagrams with ≤20 nodes and ≤2 levels of depth; diagrams that reference specific company names and risk titles rather than generic labels.
+- **Write to artifact file:** Tables with 20+ rows; CSVs intended for spreadsheet/database import; Mermaid diagrams that are complex or need to be viewed in a dedicated renderer; the full risk factor register when the filing has 30+ sub-factors; peer comparison tables for 5+ companies.
+- **Write inline AND artifact:** For key data tables — embed a Top 5 summary inline and write the full dataset to an artifact CSV for reference.

@@ -5,62 +5,70 @@
       "id": 1,
       "name": "jpm-full-report",
       "prompt": "Do a full ERM risk analysis on JPM",
-      "expected_output": "Full 18-phase ERM report for JPM saved to ./dist/JPM/ERM_Report.md",
+      "expected_output": "Full 17-phase ERM report for JPM saved to ./dist/JPM/ERM_Report.md with artifacts in ./dist/JPM/artifacts/",
       "assertions": [
-        {"type": "file_exists", "path": "./dist/JPM/ERM_Report.md"},
-        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Enterprise Risk Management Report"},
-        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Industry Context"},
-        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Risk Governance Comparison"},
-        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Risk Register"},
-        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Emerging Risk Scenarios"},
-        {"type": "contains_table", "path": "./dist/JPM/ERM_Report.md", "headers": ["Company", "Risk Committee", "CRO", "Meeting"]},
-        {"type": "contains_mermaid", "path": "./dist/JPM/ERM_Report.md"},
-        {"type": "contains_csv", "path": "./dist/JPM/ERM_Report.md", "columns": ["Metric", "FY2023", "FY2024", "FY2025"]},
-        {"type": "contains_csv", "path": "./dist/JPM/ERM_Report.md", "columns": ["Scenario", "Trigger", "Primary Risk Channel"]},
-        {"type": "contains_data_gaps", "path": "./dist/JPM/ERM_Report.md", "text": "Data Gaps"},
-        {"type": "citation_density", "path": "./dist/JPM/ERM_Report.md", "min_citations": 30},
-        {"type": "contains_peer_comparison", "path": "./dist/JPM/ERM_Report.md", "text": "Peer Comparison"}
+        { "type": "file_exists", "path": "./dist/JPM/ERM_Report.md" },
+        { "type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Enterprise Risk Management Report" },
+        { "type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Industry Context" },
+        { "type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Risk Governance Comparison" },
+        { "type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Risk Register" },
+        { "type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Emerging Risk Scenarios" },
+        { "type": "contains_table", "path": "./dist/JPM/ERM_Report.md", "headers": ["Company", "Risk Committee", "CRO", "Meeting"] },
+        { "type": "contains_artifact_ref", "path": "./dist/JPM/ERM_Report.md", "text": "artifacts/" },
+        { "type": "artifact_exists", "path": "./dist/JPM/artifacts/risk_register.csv" },
+        { "type": "artifact_exists", "path": "./dist/JPM/artifacts/financial_indicators.csv" },
+        { "type": "artifact_exists", "path": "./dist/JPM/artifacts/risk_cascade.mermaid" },
+        { "type": "artifact_exists", "path": "./dist/JPM/artifacts/peer_comparison.csv" },
+        { "type": "artifact_exists", "path": "./dist/JPM/artifacts/data_gaps.csv" },
+        { "type": "contains_csv", "path": "./dist/JPM/artifacts/financial_indicators.csv", "columns": ["Metric", "FY2023", "FY2024", "FY2025"] },
+        { "type": "contains_csv", "path": "./dist/JPM/artifacts/risk_register.csv", "columns": ["Risk_Category", "Risk_Factor_Title", "Verbatim_Excerpt"] },
+        { "type": "contains_csv", "path": "./dist/JPM/artifacts/peer_comparison.csv", "columns": ["Company", "Revenue_2025_M", "NetIncome_2025_M"] },
+        { "type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Data Gaps" },
+        { "type": "citation_density", "path": "./dist/JPM/ERM_Report.md", "min_citations": 30 },
+        { "type": "contains_peer_comparison", "path": "./dist/JPM/ERM_Report.md", "text": "Peer Comparison" }
       ]
     },
     {
       "id": 2,
       "name": "apple-risk-factors",
       "prompt": "What are the material risk factors for Apple? Do a SEC filing analysis",
-      "expected_output": "Risk factor register extracted in report",
+      "expected_output": "Risk factor register extracted in report with artifact file",
       "assertions": [
-        {"type": "file_exists", "path": "./dist/AAPL/ERM_Report.md"},
-        {"type": "contains_section", "path": "./dist/AAPL/ERM_Report.md", "text": "Risk Factor Register"},
-        {"type": "contains_phrase", "path": "./dist/AAPL/ERM_Report.md", "text": "cyber attack"},
-        {"type": "contains_csv", "path": "./dist/AAPL/ERM_Report.md", "columns": ["Risk_Category", "Risk_Factor_Title", "Verbatim_Excerpt"]},
-        {"type": "contains_section", "path": "./dist/AAPL/ERM_Report.md", "text": "Financial Risk Indicators"}
+        { "type": "file_exists", "path": "./dist/AAPL/ERM_Report.md" },
+        { "type": "contains_section", "path": "./dist/AAPL/ERM_Report.md", "text": "Risk Factor Register" },
+        { "type": "contains_phrase", "path": "./dist/AAPL/ERM_Report.md", "text": "cyber attack" },
+        { "type": "contains_artifact_ref", "path": "./dist/AAPL/ERM_Report.md", "text": "artifacts/" },
+        { "type": "artifact_exists", "path": "./dist/AAPL/artifacts/risk_register.csv" },
+        { "type": "contains_csv", "path": "./dist/AAPL/artifacts/risk_register.csv", "columns": ["Risk_Category", "Risk_Factor_Title", "Verbatim_Excerpt"] },
+        { "type": "contains_csv", "path": "./dist/AAPL/artifacts/financial_indicators.csv", "columns": ["Metric", "FY2023", "FY2024", "FY2025"] },
+        { "type": "contains_section", "path": "./dist/AAPL/ERM_Report.md", "text": "Financial Risk Indicators" },
+        { "type": "contains_citation", "path": "./dist/AAPL/ERM_Report.md" }
       ]
     },
     {
       "id": 3,
       "name": "msft-credit-risk",
       "prompt": "credit risk assessment for Microsoft based on SEC filings",
-      "expected_output": "Report with credit risk section",
+      "expected_output": "Report with credit risk section and artifact CSV",
       "assertions": [
-        {"type": "file_exists", "path": "./dist/MSFT/ERM_Report.md"},
-        {"type": "contains_section", "path": "./dist/MSFT/ERM_Report.md", "text": "Credit Risk Profile"},
-        {"type": "contains_phrase", "path": "./dist/MSFT/ERM_Report.md", "text": "concentration"},
-        {"type": "contains_citation", "path": "./dist/MSFT/ERM_Report.md"}
+        { "type": "file_exists", "path": "./dist/MSFT/ERM_Report.md" },
+        { "type": "contains_section", "path": "./dist/MSFT/ERM_Report.md", "text": "Credit Risk Profile" },
+        { "type": "contains_phrase", "path": "./dist/MSFT/ERM_Report.md", "text": "concentration" },
+        { "type": "contains_artifact_ref", "path": "./dist/MSFT/ERM_Report.md", "text": "artifacts/" },
+        { "type": "contains_citation", "path": "./dist/MSFT/ERM_Report.md" }
       ]
     },
     {
       "id": 4,
-      "name": "batch-10-banks",
-      "prompt": "Generate 10 raw ERM reports for these banks: JPM, BAC, WFC, C, GS, MS, USB, PNC, TFC, KEY. Each report should be comprehensive and independently verified.",
-      "expected_output": "10 ERM_Report.md files in ./dist/<TICKER>/ directories plus ERM_Comparison_Matrix.md in ./dist/",
+      "name": "tsla-risk-analysis",
+      "prompt": "risk analysis on TSLA - I want to know their top SEC filing risks",
+      "expected_output": "Report with Tesla risk analysis and artifacts",
       "assertions": [
-        {"type": "file_exists", "path": "./dist/ERM_Comparison_Matrix.md"},
-        {"type": "file_exists", "path": "./dist/JPM/ERM_Report.md"},
-        {"type": "file_exists", "path": "./dist/BAC/ERM_Report.md"},
-        {"type": "file_exists", "path": "./dist/WFC/ERM_Report.md"},
-        {"type": "file_exists", "path": "./dist/C/ERM_Report.md"},
-        {"type": "file_exists", "path": "./dist/GS/ERM_Report.md"},
-        {"type": "contains_table", "path": "./dist/ERM_Comparison_Matrix.md", "headers": ["Company", "Market Cap", "Risk Committee"]},
-        {"type": "contains_csv", "path": "./dist/JPM/ERM_Report.md", "columns": ["Scenario", "Trigger", "Primary Risk Channel"]}
+        { "type": "file_exists", "path": "./dist/TSLA/ERM_Report.md" },
+        { "type": "contains_section", "path": "./dist/TSLA/ERM_Report.md", "text": "Risk Factor Register" },
+        { "type": "contains_phrase", "path": "./dist/TSLA/ERM_Report.md", "text": "operational" },
+        { "type": "artifact_exists", "path": "./dist/TSLA/artifacts/risk_register.csv" },
+        { "type": "artifact_exists", "path": "./dist/TSLA/artifacts/data_gaps.csv" }
       ]
     },
     {
@@ -69,17 +77,6 @@
       "prompt": "read the file AGENTS.md and summarize it",
       "expected_output": "Skill should NOT trigger for this",
       "assertions": []
-    },
-    {
-      "id": 6,
-      "name": "tsla-risk-analysis",
-      "prompt": "risk analysis on TSLA — I want to know their top SEC filing risks",
-      "expected_output": "Report with Tesla risk analysis",
-      "assertions": [
-        {"type": "file_exists", "path": "./dist/TSLA/ERM_Report.md"},
-        {"type": "contains_section", "path": "./dist/TSLA/ERM_Report.md", "text": "Risk Factor Register"},
-        {"type": "contains_phrase", "path": "./dist/TSLA/ERM_Report.md", "text": "operational"}
-      ]
     }
   ]
 }

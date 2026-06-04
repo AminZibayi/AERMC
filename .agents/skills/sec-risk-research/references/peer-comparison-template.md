@@ -1,10 +1,10 @@
 # Peer Comparison Table Templates
 
-Use these templates when generating peer comparison data from `edgartools_edgar_compare`.
+Use these templates when generating peer comparison data into artifact CSV files. All peer comparison data should be written to `./dist/<TICKER>/artifacts/peer_comparison.csv` and referenced by path in the report.
 
-## Template 1: Full Multi-Company Financial Comparison (5 companies)
+## Template 1: Full Multi-Company Financial Comparison
 
-_Source: 10-K Consolidated Financial Statements, FY2025 [^n]_
+Write the CSV to `./dist/<TICKER>/artifacts/peer_comparison.csv` with columns:
 
 ```csv
 Company,Revenue_2025_M,NetIncome_2025_M,TotalAssets_2025_B,ROE_2025,EfficiencyRatio_2025,ProvLosses_2025_M,MarketCap_B
@@ -16,27 +16,31 @@ Company,Revenue_2025_M,NetIncome_2025_M,TotalAssets_2025_B,ROE_2025,EfficiencyRa
 Sector_Average,,,,,,
 ```
 
-## Template 2: Target vs. Peer Averages (Narrative Table)
+**Report reference:** `### Peer Comparison (Financial) [^n]` followed by `> Full data: ./dist/<TICKER>/artifacts/peer_comparison.csv`
 
-| Metric             | [TARGET] | Peer Average | Outperformance |
+## Template 2: Target vs. Sector/Peer Average (Narrative Table)
+
+| Metric | [TARGET] | Peer Average | Outperformance |
 | ------------------ | -------- | ------------ | -------------- |
-| Revenue Growth YoY | +X.X%    | +X.X%        | +X.X pp        |
-| Net Margin         | X.X%     | X.X%         | +X.X pp        |
-| ROE                | X.X%     | X.X%         | +X.X pp        |
-| PCL / Total Loans  | X.X%     | X.X%         | +X.X pp        |
-| CET1 Ratio         | XX.X%    | XX.X%        | +X.X pp        |
+| Revenue Growth YoY | +X.X% | +X.X% | +X.X pp |
+| Net Margin | X.X% | X.X% | +X.X pp |
+| ROE | X.X% | X.X% | +X.X pp |
+| PCL / Total Loans | X.X% | X.X% | +X.X pp |
+| CET1 Ratio | XX.X% | XX.X% | +X.X pp |
+
+This narrative table may be embedded directly in the report body.
 
 ## Template 3: Governance Comparison
 
-| Company  | Market Cap ($B) | Risk Committee | CRO Named | Annual Meetings | Total Assets ($B) | Revenue ($B) | Net Income ($B) | ROE |
+| Company | Market Cap ($B) | Risk Committee | CRO Named | Annual Meetings | Total Assets ($B) | Revenue ($B) | Net Income ($B) | ROE |
 | -------- | --------------- | -------------- | --------- | --------------- | ----------------- | ------------ | --------------- | --- |
-| [TARGET] | XXX             | Yes / No       | Yes / No  | X               | XXXX              | XXX          | XX              | XX% |
-| Peer1    | ...             | ...            | ...       | ...             | ...               | ...          | ...             | ... |
+| [TARGET] | XXX | Yes / No | Yes / No | X | XXXX | XXX | XX | XX% |
+| Peer1 | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ## Critical Rules
-
 - All financial figures MUST come from `edgartools_edgar_compare` or direct 10-K notes
 - "N/A" is acceptable if a metric is not disclosed in the 10-K — do not fabricate
 - Market cap is the ONLY exception: may come from Yahoo Finance (cite with separate [^n])
 - The [TARGET] row is always first; peers follow in alphabetical or market-cap order
 - Sector Average: compute from the 4 peers, excluding the target
+- The peer comparison CSV file is `./dist/<TICKER>/artifacts/peer_comparison.csv` — reference by file path in the report

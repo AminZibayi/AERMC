@@ -6,6 +6,9 @@ This is the LAST phase before writing `ERM_Report.md`. It is a mandatory checkli
 
 ## The 16-Point Final Gate
 
+### Removal of validation log from report:
+**DO NOT write the Phase 16 Validation Checklist block to the report.** Complete all checks below, log results to terminal in Phase 15 format, then proceed directly to Phase 17. The final report must be clean with no validation tables embedded.
+
 ### Structure Completeness
 
 - [ ] Report contains an Executive Summary / Company Profile section
@@ -62,13 +65,6 @@ For EACH derived metric in the report:
 - [ ] The diagram's data source is cited in the caption
 - [ ] All node labels are readable (no truncation)
 
-### CSV Table Quality
-
-- [ ] No CSV table has redundant columns (Item, Risk_ID, Source on every row)
-- [ ] Each CSV has a `[^n]` citation in the markdown header/title
-- [ ] Numbers are formatted consistently (e.g., `$M` unit in header, no mixed formatting)
-- [ ] Totals and subtotals match the source Note
-
 ### Reference List Quality
 
 - [ ] All `[^n]` numbers used in the report body appear in the References section
@@ -81,19 +77,14 @@ For EACH derived metric in the report:
 - [ ] No typos in company names, tickers, or CIK numbers
 - [ ] All section headings use consistent capitalization
 - [ ] No emojis or casual language
-- [ ] Technical terms used consistently (e.g., "JPMorganChase" not "JPM" in body, "JPM" in tables)
+- [ ] Technical terms used consistently
 
 ### Formatting
 
-- [ ] `#` used for title, `##` for major sections, `###for subsections
+- [ ] `#` used for title, `##` for major sections, `###` for subsections
 - [ ] Tables use proper Markdown alignment (`|---|`)
 - [ ] CSV blocks use ` ```csv ` not ` ```tsv `
 - [ ] Mermaid blocks use ` ```mermaid `
-
-### Batch Mode (if applicable)
-
-- [ ] If processing multiple tickers: each report is in `./dist/<TICKER>/ERM_Report.md`
-- [ ] No data from one ticker leaked into another report
 
 ### No Fabrication Audit
 
@@ -138,25 +129,7 @@ Before writing the file:
 - [ ] Read through the entire report mentally as if you were the grader
 - [ ] Confirm: "Is every claim traceable to a source?"
 - [ ] Confirm: "Would a subject matter expert consider this accurate?"
-- [ ] Confirm: "Is this better than the prior version of JPM's report?"
-
-## Output of Phase 16
-
-Write a "Validation Checklist" block before output generation, showing which checks passed and which are flagged. Example:
-
-```markdown
-## Phase 16 — Validation Checklist (COMPLETE)
-
-| Check                        | Status     | Notes                                          |
-| ---------------------------- | ---------- | ---------------------------------------------- |
-| §1. Structure Completeness   | ✅ PASS    | All sections present                           |
-| §2. Citation Completeness    | ⚠️ FLAGGED | 3 claims missing citations in §5.2 — corrected |
-| §3. Financial Arithmetic     | ✅ PASS    | All ratios verified                            |
-| §4. Verbatim Quote Integrity | ✅ PASS    | 30 quotes verified                             |
-
-| ...
-```
 
 ## Gate Rule
 
-**Do NOT write `ERM_Report.md` until this checklist is documented as complete.**
+**Do NOT write `ERM_Report.md` until ALL checklist items are checked and validation is logged to terminal.**

@@ -4,7 +4,8 @@
 1. Load `./dist/<TICKER>/raw/metadata.json` and extract ticker, name, CIK, market cap, current price, employee count, 10k_accession, 10k_period, auditor.
 2. If SIC code, NAICS, exchange, state of incorporation are missing from metadata.json, use `edgartools_edgar_company` to retrieve them.
 3. Load `./dist/<TICKER>/raw/institutional_holders.json` if present.
-4. Write "Company Context Brief" section to report.
+4. Ensure `./dist/<TICKER>/artifacts/` directory exists.
+5. Write "Company Context Brief" section to report.
 
 ## Required Outputs
 

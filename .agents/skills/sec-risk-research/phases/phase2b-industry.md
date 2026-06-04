@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This phase generates the Industry Context section, enabling the final report to describe the bank's operating environment, competitive landscape, and market position using ONLY factual, verifiable data.
+This phase generates the Industry Context section, enabling the final report to describe the company's operating environment, competitive landscape, and market position using ONLY factual, verifiable data.
 
 ## Steps
 
@@ -31,13 +31,13 @@ This phase generates the Industry Context section, enabling the final report to 
 
 ## Required Outputs
 
-| Output                          | Source                                                 |
+| Output | Source |
 | ------------------------------- | ------------------------------------------------------ |
-| Industry Sector / Sub-sector    | Derived from SIC + metadata                            |
-| Peer Company List               | User input via `question` tool (or fallback MCP tools) |
-| Sector & Global Market Cap Rank | `yfinance_get_top` & `tavily_search`                   |
-| Sector & Global Asset Rank      | `edgar_compare` & `tavily_search`                      |
-| Sector & Global Revenue Rank    | `edgar_compare` & `tavily_search`                      |
-| Sector & Global Net Income Rank | `edgar_compare` & `tavily_search`                      |
-| Industry Overview & Competition | `item_1_business.txt` (Strictly verbatim/cited)        |
-| Regulatory Bodies               | `item_1_business.txt`                                  |
+| Industry Sector / Sub-sector | Derived from SIC + metadata |
+| Peer Company List | User input via `question` tool (or fallback MCP tools) |
+| Sector & Global Market Cap Rank | `yfinance_get_top` & `tavily_search` |
+| Sector & Global Asset Rank | `edgar_compare` & `tavily_search` |
+| Sector & Global Revenue Rank | `edgar_compare` & `tavily_search` |
+| Sector & Global Net Income Rank | `edgar_compare` & `tavily_search` |
+| Industry Overview & Competition | `item_1_business.txt` (Strictly verbatim/cited) |
+| Regulatory Bodies | `item_1_business.txt` |

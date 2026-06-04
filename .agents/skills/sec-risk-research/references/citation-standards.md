@@ -16,6 +16,10 @@
    - *Good:* JPMorgan Chase & Co. (2026). *Form 10-K, Note 30 — Litigation*.
    - *Good:* JPMorgan Chase & Co. (2026). *Schedule 14A (Proxy Statement)* (Accession No. 0000019617-26-000096). U.S. Securities and Exchange Commission.
 
+8. **Artifact Citations**: When referencing CSV or Mermaid artifact files in the report, place the `[^n]` citation in the markdown header line immediately before the artifact reference. Do NOT embed raw data in the report body. The citation anchors the data source for the entire artifact.
+   - *Good:* `### Financial Risk Indicators (3-Year Trend) [^3]` followed by `> Full data: ./dist/JPM/artifacts/financial_indicators.csv`
+   - *Good:* `### Risk Cascade Diagram [^5]` followed by `> Artifact: ./dist/JPM/artifacts/risk_cascade.mermaid`
+   - *Bad:* Embedding the raw CSV rows or Mermaid code block directly in `ERM_Report.md`
 8. **File Section in References**: When citing SEC filings, always include the specific section or item number in the reference (e.g., *Item 1A*, *Note 30*, *Controls and Procedures*). This is crucial for verifying the exact location of the information within the massive filings.
    - *Good:* Yahoo Finance. (2026, June 4). *JPMorgan Chase & Co. (JPM) Institutional Holders*. Retrieved from https://finance.yahoo.com/quote/JPM/holders.
 
