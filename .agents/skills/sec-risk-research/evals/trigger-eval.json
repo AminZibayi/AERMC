@@ -7,8 +7,16 @@
   {"query": "Do an ERM report on Bank of America", "should_trigger": true},
   {"query": "research the risks of Goldman Sachs using their 10-K", "should_trigger": true},
   {"query": "Can you do enterprise risk management for Wells Fargo?", "should_trigger": true},
+  {"query": "Generate 10 raw ERM reports for these banks: JPM, BAC, WFC", "should_trigger": true},
+  {"query": "I need risk reports for 10 banks as input data for my final thesis", "should_trigger": true},
+  {"query": "Compare JPM and BAC risk profiles using SEC filings", "should_trigger": true},
+  {"query": "Industry risk analysis for the banking sector", "should_trigger": true},
+  {"query": "risk assessment for any company with a ticker symbol", "should_trigger": true},
+  {"query": "Ticker ERM report for C (Citigroup)", "should_trigger": true},
+  {"query": "banking sector ERM report for my assignment", "should_trigger": true},
   {"query": "read the file AGENTS.md and summarize it", "should_trigger": false},
   {"query": "What's the weather in New York today?", "should_trigger": false},
   {"query": "Write a Python function to sort a list", "should_trigger": false},
-  {"query": "What did JPMorgan say about AI in their latest earnings call?", "should_trigger": false}
+  {"query": "What did JPMorgan say about AI in their latest earnings call?", "should_trigger": false},
+  {"query": "Extract the text from this 10-K PDF", "should_trigger": false}
 ]

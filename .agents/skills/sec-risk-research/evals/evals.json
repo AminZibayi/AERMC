@@ -5,13 +5,21 @@
       "id": 1,
       "name": "jpm-full-report",
       "prompt": "Do a full ERM risk analysis on JPM",
-      "expected_output": "Full 13-phase ERM report for JPM saved to ./dist/JPM/ERM_Report.md",
+      "expected_output": "Full 18-phase ERM report for JPM saved to ./dist/JPM/ERM_Report.md",
       "assertions": [
         {"type": "file_exists", "path": "./dist/JPM/ERM_Report.md"},
-        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "# Enterprise Risk Management Report"},
-        {"type": "contains_table", "path": "./dist/JPM/ERM_Report.md", "headers": ["Field", "Value", "Source"]},
+        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Enterprise Risk Management Report"},
+        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Industry Context"},
+        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Risk Governance Comparison"},
+        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Risk Register"},
+        {"type": "contains_section", "path": "./dist/JPM/ERM_Report.md", "text": "Emerging Risk Scenarios"},
+        {"type": "contains_table", "path": "./dist/JPM/ERM_Report.md", "headers": ["Company", "Risk Committee", "CRO", "Meeting"]},
         {"type": "contains_mermaid", "path": "./dist/JPM/ERM_Report.md"},
-        {"type": "contains_csv", "path": "./dist/JPM/ERM_Report.md", "columns": ["Metric", "FY2023", "FY2024", "FY2025"]}
+        {"type": "contains_csv", "path": "./dist/JPM/ERM_Report.md", "columns": ["Metric", "FY2023", "FY2024", "FY2025"]},
+        {"type": "contains_csv", "path": "./dist/JPM/ERM_Report.md", "columns": ["Scenario", "Trigger", "Primary Risk Channel"]},
+        {"type": "contains_data_gaps", "path": "./dist/JPM/ERM_Report.md", "text": "Data Gaps"},
+        {"type": "citation_density", "path": "./dist/JPM/ERM_Report.md", "min_citations": 30},
+        {"type": "contains_peer_comparison", "path": "./dist/JPM/ERM_Report.md", "text": "Peer Comparison"}
       ]
     },
     {
@@ -23,7 +31,8 @@
         {"type": "file_exists", "path": "./dist/AAPL/ERM_Report.md"},
         {"type": "contains_section", "path": "./dist/AAPL/ERM_Report.md", "text": "Risk Factor Register"},
         {"type": "contains_phrase", "path": "./dist/AAPL/ERM_Report.md", "text": "cyber attack"},
-        {"type": "contains_csv", "path": "./dist/AAPL/ERM_Report.md", "columns": ["Risk_Factor_Title", "Verbatim_Excerpt", "Filing_Source"]}
+        {"type": "contains_csv", "path": "./dist/AAPL/ERM_Report.md", "columns": ["Risk_Category", "Risk_Factor_Title", "Verbatim_Excerpt"]},
+        {"type": "contains_section", "path": "./dist/AAPL/ERM_Report.md", "text": "Financial Risk Indicators"}
       ]
     },
     {
@@ -34,17 +43,24 @@
       "assertions": [
         {"type": "file_exists", "path": "./dist/MSFT/ERM_Report.md"},
         {"type": "contains_section", "path": "./dist/MSFT/ERM_Report.md", "text": "Credit Risk Profile"},
-        {"type": "contains_phrase", "path": "./dist/MSFT/ERM_Report.md", "text": "concentration"}
+        {"type": "contains_phrase", "path": "./dist/MSFT/ERM_Report.md", "text": "concentration"},
+        {"type": "contains_citation", "path": "./dist/MSFT/ERM_Report.md"}
       ]
     },
     {
       "id": 4,
-      "name": "generic-trigger-test",
-      "prompt": "I need to understand the enterprise risks facing Tesla",
-      "expected_output": "Skill triggers and produces report",
+      "name": "batch-10-banks",
+      "prompt": "Generate 10 raw ERM reports for these banks: JPM, BAC, WFC, C, GS, MS, USB, PNC, TFC, KEY. Each report should be comprehensive and independently verified.",
+      "expected_output": "10 ERM_Report.md files in ./dist/<TICKER>/ directories plus ERM_Comparison_Matrix.md in ./dist/",
       "assertions": [
-        {"type": "file_exists", "path": "./dist/TSLA/ERM_Report.md"},
-        {"type": "contains_section", "path": "./dist/TSLA/ERM_Report.md", "text": "Company Context Brief"}
+        {"type": "file_exists", "path": "./dist/ERM_Comparison_Matrix.md"},
+        {"type": "file_exists", "path": "./dist/JPM/ERM_Report.md"},
+        {"type": "file_exists", "path": "./dist/BAC/ERM_Report.md"},
+        {"type": "file_exists", "path": "./dist/WFC/ERM_Report.md"},
+        {"type": "file_exists", "path": "./dist/C/ERM_Report.md"},
+        {"type": "file_exists", "path": "./dist/GS/ERM_Report.md"},
+        {"type": "contains_table", "path": "./dist/ERM_Comparison_Matrix.md", "headers": ["Company", "Market Cap", "Risk Committee"]},
+        {"type": "contains_csv", "path": "./dist/JPM/ERM_Report.md", "columns": ["Scenario", "Trigger", "Primary Risk Channel"]}
       ]
     },
     {
@@ -56,7 +72,7 @@
     },
     {
       "id": 6,
-      "name": "jpm-tesla-risk-analysis",
+      "name": "tsla-risk-analysis",
       "prompt": "risk analysis on TSLA — I want to know their top SEC filing risks",
       "expected_output": "Report with Tesla risk analysis",
       "assertions": [
