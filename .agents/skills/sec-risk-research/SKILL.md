@@ -26,7 +26,7 @@ Once the script completes, use your local file reading tools (`read`) to ingest 
 ## Workflow
 
 1. **Run the bulk data fetcher FIRST** (non-negotiable).
-2. **Read the raw data** files in `./dist/<TICKER>/raw/`.
+2. **Read the raw data** files in `./dist/<TICKER>/raw/`. (FULLY LOAD ALL FILES INTO CONTEXT WINDOW)
 3. **Execute the 13-phase analysis** by reading the instructions in the `phases/` directory. (Tip: You can use your `read` tool on the directory path itself, e.g., `.opencode/skills/sec-risk-research/phases`, to ingest all phase files at once for efficiency).
 4. **Generate output**: Write the final report to `./dist/<TICKER>/ERM_Report.md`. **Ensure the report is a unified, highly professional document with a cohesive narrative** (e.g., Executive Summary, Risk Framework, Macro Shocks, Financial Risks, Operational Risks), NOT just a disjointed list of "Phase 1", "Phase 2". Integrate all charts smoothly and use extremely frequent, dense academic citations `[^n]` for every factual claim.
 
@@ -68,3 +68,4 @@ Once the script completes, use your local file reading tools (`read`) to ingest 
 
 - Risk factors must reference verbatim item numbers (1A, 3, 9A) and note numbers.
 - Maintain the Reference numbering system from `references/citation-standards.md`.
+- FULLY LOAD ALL RAW DATA INTO CONTEXT before starting analysis. INCLUDING FILES GENERATED USING risk_research.py.
