@@ -102,7 +102,7 @@ Present the material risk factor categories extracted from Item 1A. For each cat
 
 [Write 1–3 cascade narratives describing how macro shocks propagate through the firm's risk architecture. E.g., "Rate spike → NIM compression → earnings haircut → dividend coverage pressure → capital constraint."]
 
-> **Mermaid:** Embed a `graph TD` or `graph LR` risk cascade diagram inline if it has ≤15–20 well-labeled nodes (as in the JPM example). Write larger/more complex diagrams to `./dist/<TICKER>/artifacts/risk_cascade.mermaid` and reference it with a descriptive caption.
+> **Mermaid:** Embed the `graph TD` or `graph LR` risk cascade diagram directly inline in the report body using ` ```mermaid ` fenced code blocks. All Mermaid diagrams are embedded inline — there are no `.mermaid` artifact files.
 
 ---
 
@@ -158,10 +158,10 @@ All structured data artifacts for this report are stored in `./dist/<TICKER>/art
 | Financial Indicators (CSV)       | `./dist/<TICKER>/artifacts/financial_indicators.csv`    |
 | Credit Concentrations (full CSV) | `./dist/<TICKER>/artifacts/credit_concentrations.csv`   |
 | Peer Comparison (CSV)            | `./dist/<TICKER>/artifacts/peer_comparison.csv`         |
-| Risk Cascade Diagram             | `./dist/<TICKER>/artifacts/risk_cascade.mermaid`        |
-| Governance Risk Map              | `./dist/<TICKER>/artifacts/governance_risk_map.mermaid` |
-| Financial Trend Chart            | `./dist/<TICKER>/artifacts/financial_trend.mermaid`     |
-| Credit Pie Chart                 | `./dist/<TICKER>/artifacts/credit_pie.mermaid`          |
+| Risk Cascade Diagram | Embedded inline in `ERM_Report.md` |
+| Governance Risk Map | Embedded inline in `ERM_Report.md` |
+| Financial Trend Chart | Embedded inline in `ERM_Report.md` |
+| Credit Pie Chart | Embedded inline in `ERM_Report.md` |
 | Scenario Synthesis (CSV)         | `./dist/<TICKER>/artifacts/scenario_synthesis.csv`      |
 | Data Gaps (CSV)                  | `./dist/<TICKER>/artifacts/data_gaps.csv`               |
 

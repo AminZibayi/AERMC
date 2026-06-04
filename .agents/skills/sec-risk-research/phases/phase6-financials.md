@@ -23,10 +23,11 @@
 
 ## Critical Rules
 
-- **ARITHMETIC VERIFICATION:** Before writing any derived ratio, recalculate from the raw numbers in the same section. If your computed ROE differs from a board-reported value by >0.5 pp, use the board-reported value and note the discrepancy.
+- **ARITHMETIC VERIFICATION:** Before writing any derived ratio, recalculate from the raw numbers in the same section. Log recalculated figures to terminal in Phase 15. If your computed ROE differs from a board-reported value by >0.5 pp, use the board-reported value and note the discrepancy.
 - All financial figures must use consistent units (convert $K → $M → $B consistently within a table)
 - FY2023 must be included even if not in `financial_statements.txt` — use `edgartools_edgar_trends` if needed
 - Net Income must be AFTER tax; differentiate from Pre-Tax Income
 - ROE formula: Net Income (annual) ÷ Average Stockholders' Equity. If average equity unavailable, use ending equity balance and label "(ending balance)"
 - For Efficiency Ratio: Total Noninterest Expense ÷ (Net Interest Income + Noninterest Income). If Noninterest Expense is missing, use "Total Noninterest Expense" line from Income Statement
 - Place the source citation `[^n]` in the markdown header line immediately before the reference. Do NOT embed the CSV data in the report body.
+- Per Critical Rule 14 (Validation), do NOT include any Phase 15/16 validation tables in `ERM_Report.md`. Embed ` ```mermaid ` diagrams directly in the report (see `references/mermaid-templates.md`).

@@ -47,7 +47,7 @@ Once the script completes, use your local file reading tools (`read`) to ingest 
 | 9   | `phases/phase9-cyber.md`             | Note 37, Item 106, 8-K cyber incidents                                                                                        |
 | 10  | `phases/phase10-market.md`           | Market cap, price, 52-wk range, holders                                                                                       |
 | 11  | `phases/phase11-macro.md`            | Macro shocks, 8-K search (6-month window), Tavily                                                                             |
-| 12  | `phases/phase12-interconnections.md` | Risk cascade + governance + financial Mermaid to artifact files                                                               |
+| 12 | `phases/phase12-interconnections.md` | Risk cascade + governance + financial Mermaid embedded inline |
 | 13  | `phases/phase13-scenarios.md`        | Scenario-based emerging risk narratives                                                                                       |
 | 14  | `phases/phase14-data-gaps.md`        | Structured gap tracking with Gap IDs                                                                                          |
 | 15  | `phases/phase15-validation.md`       | Data accuracy gate logged to terminal (NOT in report)                                                                         |
@@ -58,7 +58,7 @@ Once the script completes, use your local file reading tools (`read`) to ingest 
 
 - `references/citation-standards.md` — Reference and citation rules (CRITICAL: read before writing)
 - `references/csv-templates.md` — CSV templates for artifact files
-- `references/mermaid-templates.md` — Mermaid diagram templates for artifact files
+- `references/mermaid-templates.md` — Mermaid diagram templates for inline embedding in report
 - `references/report-structure.md` — Professional report structure template
 
 ## Scripts
@@ -85,4 +85,6 @@ Once the script completes, use your local file reading tools (`read`) to ingest 
 10. **No SEC.gov URLs.** Reference only by accession number and form type.
 11. **CSV and Mermaid artifacts go in separate files.** Do NOT embed raw CSV data or Mermaid code blocks directly in `ERM_Report.md`. Write them to `./dist/<TICKER>/artifacts/` and reference artifact file paths in the report.
 12. **Validation results go to terminal ONLY.** Validation checklists, pass/fail tables, and recalculated figures must be logged to the terminal during Phase 15. Do NOT include any validation artifacts in the final report.
-13. The final report must be **grounded, polished, and comprehensive** — suitable for direct delivery or academic submission.
+13. **Mermaid diagrams are always embedded inline in the final report.** Do NOT write `.mermaid` files under `./dist/<TICKER>/artifacts/`. Wrap each diagram in ` ```mermaid ` fenced code blocks in `ERM_Report.md` and follow it with a one-sentence plain text caption. (See `references/mermaid-templates.md` for examples.)
+14. Validation results belong in the terminal session only. Do NOT include Phase 15/16 pass/fail tables, recalculated logs, or checklist summaries in the final report.
+15. The final report must be **grounded, polished, and comprehensive** — suitable for direct delivery or academic submission.
