@@ -1,0 +1,152 @@
+=== INCOME STATEMENT ===
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                 THE BANK OF NEW YORK MELLON CORPORATION   BK PRK                                                   |
+|                                                 CONSOLIDATED STATEMENT OF INCOME                                                                   |
+|                                                 Dec 31, 2023 to Dec 31, 2025                                                                       |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                   | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 | |
+| |---------------------------------------------------------------------------------------------------+--------------+--------------+--------------| |
+| | Fee and other revenue                                                                             |              |              |              | |
+| |       Investment services fees                                                                    |      $10,211 |       $9,419 |       $8,843 | |
+| |       Investment management and performance fees                                                  |       $3,085 |       $3,139 |       $3,058 | |
+| |       Foreign exchange revenue                                                                    |         $706 |         $688 |         $631 | |
+| |       Financing-related fees                                                                      |         $231 |         $216 |         $192 | |
+| |       Distribution and servicing fees                                                             |         $146 |         $158 |         $148 | |
+| |     Total fee revenue                                                                             |      $14,379 |      $13,620 |      $12,872 | |
+| |     Investment and other revenue                                                                  |         $757 |         $687 |         $480 | |
+| |     Total fee and other revenue:                                                                  |      $15,136 |      $14,307 |      $13,352 | |
+| | Net interest income                                                                               |              |              |              | |
+| |     Interest income                                                                               |      $25,626 |      $25,607 |      $20,648 | |
+| |     Interest expense:                                                                             |      $20,682 |      $21,295 |      $16,303 | |
+| |       Bank Subsidiaries                                                                           |           $2 |          $20 |          $23 | |
+| |     Net interest income:                                                                          |       $4,944 |       $4,312 |       $4,345 | |
+| |   Total revenue                                                                                   |      $20,080 |      $18,619 |      $17,697 | |
+| |   Provision for credit losses:                                                                    |        $(32) |          $70 |         $119 | |
+| | Noninterest expense                                                                               |              |              |              | |
+| |       Staff                                                                                       |       $7,159 |       $7,130 |       $7,095 | |
+| |       Software and equipment                                                                      |       $2,147 |       $1,962 |       $1,817 | |
+| |       Professional, legal and other purchased services                                            |       $1,587 |       $1,503 |       $1,527 | |
+| |       Sub-custodian and clearing                                                                  |         $561 |         $498 |         $475 | |
+| |       Net occupancy                                                                               |         $551 |         $537 |         $542 | |
+| |       Distribution and servicing                                                                  |         $269 |         $361 |         $353 | |
+| |       Business development                                                                        |         $217 |         $188 |         $183 | |
+| |       Bank assessment charges                                                                     |          $44 |          $36 |         $788 | |
+| |       Amortization of intangible assets:                                                          |          $45 |          $50 |          $57 | |
+| |       Other                                                                                       |         $474 |         $436 |         $458 | |
+| |       Total noninterest expense                                                                   |      $13,054 |      $12,701 |      $13,295 | |
+| | Income                                                                                            |              |              |              | |
+| |     Income before income taxes                                                                    |       $7,058 |       $5,848 |       $4,283 | |
+| |     Provision for income taxes:                                                                   |       $1,475 |       $1,305 |         $979 | |
+| |     Net income:                                                                                   |       $5,583 |       $4,543 |       $3,304 | |
+| |     Net (income) attributable to noncontrolling interests related to consolidated investment      |        $(34) |        $(13) |         $(2) | |
+| | management funds:                                                                                 |              |              |              | |
+| |     Net income applicable to shareholders of The Bank of New York Mellon Corporation:             |        5,549 |        4,530 |        3,302 | |
+| |     Preferred stock dividends:                                                                    |       $(243) |       $(194) |       $(235) | |
+| |       Net income applicable to common shareholders of The Bank of New York Mellon Corporation:    |        5,306 |        4,336 |        3,067 | |
+| | Net income applicable to common shareholders of The Bank of New York Mellon Corporation used for  |              |              |              | |
+| | the earnings per share calculation                                                                |              |              |              | |
+| |       Net income applicable to common shareholders of The Bank of New York Mellon Corporation:    |        5,306 |        4,336 |        3,067 | |
+| |       Less: Earning allocated to participating securities, basic                                  |              |              |              | |
+| |       Less: Earning allocated to participating securities, diluted                                |              |              |              | |
+| |     Net income applicable to common shareholders of The Bank of New York Mellon corporation after |        5,306 |        4,336 |        3,067 | |
+| | required adjustment for the calculation of basic earnings per common share                        |              |              |              | |
+| |     Net income applicable to common shareholders of The Bank of New York Mellon corporation after |        5,306 |        4,336 |        3,067 | |
+| | required adjustment for the calculation of diluted earnings per common share                      |              |              |              | |
+| | Average common shares and equivalents outstanding of The Bank of New York Mellon Corporation      |              |              |              | |
+| |       Basic (shares)                                                                              |      710,177 |      742,588 |      784,069 | |
+| |       Common stock equivalents (shares)                                                           |        $6.54 |        $5.51 |        $3.82 | |
+| |       Less: Participating securities (shares)                                                     |              |              |      $(0.09) | |
+| |     Diluted (shares)                                                                              |      716,718 |      748,101 |      787,798 | |
+| |     Anti-dilutive securities (shares)                                                             |        $0.19 |        $0.29 |        $1.33 | |
+| | Earnings per share applicable to common shareholders of The Bank of New York Mellon Corporation   |              |              |              | |
+| |     Basic (usd per share)                                                                         |         7.47 |         5.84 |         3.91 | |
+| |     Diluted (usd per share)                                                                       |         7.40 |         5.80 |         3.89 | |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares in thousands and per share data) ----------------------------------------------------------------+
+
+
+=== BALANCE SHEET ===
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                 THE BANK OF NEW YORK MELLON CORPORATION   BK PRK                                                   |
+|                                                 CONSOLIDATED BALANCE SHEETS                                                                        |
+|                                                 Dec 31, 2024 to Dec 31, 2025                                                                       |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                                  | Dec 31, 2025 | Dec 31, 2024 | |
+| |------------------------------------------------------------------------------------------------------------------+--------------+--------------| |
+| | Assets                                                                                                           |              |              | |
+| |     Cash and due from banks, net of allowance for credit losses of $19 and $23:                                  |       $5,111 |       $4,178 | |
+| |     Interest-bearing deposits with the Federal Reserve and other central banks:                                  |     $116,009 |      $89,546 | |
+| |     Interest-bearing deposits with banks, net of allowance for credit losses of $3 and $1 (includes restricted   |      $10,397 |       $9,612 | |
+| | of $2,848 and $1,399):                                                                                           |              |              | |
+| |     Federal funds sold and securities purchased under resale agreements                                          |      $44,892 |      $41,146 | |
+| |   Securities:                                                                                                    |              |              | |
+| |       Held-to-maturity, at amortized cost, net of allowance for credit losses of less than $1 and less than $1   |      $48,094 |      $48,596 | |
+| | (fair value of $45,377 and $44,020):                                                                             |              |              | |
+| |       Available-for-sale, at fair value (amortized cost of $102,422 and $89,627, net of allowance for credit     |     $102,106 |      $88,031 | |
+| | losses of $— and $—):                                                                                            |              |              | |
+| |         Total securities:                                                                                        |     $150,200 |     $136,627 | |
+| |     Trading assets:                                                                                              |      $14,276 |      $13,981 | |
+| |       Loans:                                                                                                     |      $80,615 |      $71,570 | |
+| |       Capital call financing                                                                                     |       $5,336 |       $5,163 | |
+| |       Other loans                                                                                                |       $4,533 |       $3,666 | |
+| |       Other residential mortgages                                                                                |       $1,820 |       $1,068 | |
+| |       Total past due                                                                                             |         $159 |         $106 | |
+| |         30 to 59 Days Past Due                                                                                   |         $142 |         $103 | |
+| |         60 to 89 Days Past Due                                                                                   |          $17 |           $3 | |
+| |         Equal to Greater than 90 Days Past Due                                                                   |              |              | |
+| |       Overdrafts                                                                                                 |       $2,800 |       $3,519 | |
+| |       Margin loans                                                                                               |      $26,253 |      $19,137 | |
+| |       Financial institutions                                                                                     |      $13,309 |      $13,167 | |
+| |       Commercial                                                                                                 |       $1,748 |       $1,420 | |
+| |       Allowance for credit losses:                                                                               |       $(245) |       $(294) | |
+| |     Net loans                                                                                                    |      $80,370 |      $71,276 | |
+| |     Premises and equipment                                                                                       |       $3,581 |       $3,266 | |
+| |     Accrued interest receivable                                                                                  |       $1,435 |       $1,293 | |
+| |     Goodwill:                                                                                                    |      $16,767 |      $16,598 | |
+| |     Intangible assets:                                                                                           |       $2,822 |       $2,851 | |
+| |     Other assets, net of allowance for credit losses on accounts receivable of $3 and $2 (includes $1,666 and    |      $26,440 |      $25,690 | |
+| | $2,151, at fair value):                                                                                          |              |              | |
+| |     Total assets:                                                                                                |     $472,300 |     $416,064 | |
+| | Liabilities                                                                                                      |              |              | |
+| |   Deposits:                                                                                                      |              |              | |
+| |         Noninterest-bearing deposits (principally U.S. offices):                                                 |      $59,979 |      $58,267 | |
+| |         Interest-bearing deposits in U.S. offices                                                                |     $169,125 |     $139,109 | |
+| |         Interest-bearing deposits in non-U.S. offices                                                            |     $102,790 |      $92,148 | |
+| |         Total deposits                                                                                           |     $331,894 |     $289,524 | |
+| |     Federal funds purchased and securities sold under repurchase agreements                                      |      $18,992 |      $14,064 | |
+| |     Trading liabilities                                                                                          |       $6,135 |       $4,865 | |
+| |     Payables to customers and broker-dealers:                                                                    |      $21,872 |      $20,073 | |
+| |     Commercial paper:                                                                                            |       $2,003 |         $301 | |
+| |     Other borrowed funds                                                                                         |         $422 |         $225 | |
+| |     Accrued taxes and other expenses                                                                             |       $5,544 |       $5,270 | |
+| |     Other liabilities (including allowance for credit losses on lending-related commitments of $74 and $72, also |       $8,757 |       $9,124 | |
+| | includes $617 and $422, at fair value):                                                                          |              |              | |
+| |     Long-term debt:                                                                                              |      $31,873 |      $30,854 | |
+| |       Fixed Rate Senior Notes                                                                                    |      $28,863 |      $28,006 | |
+| |       Floating Rate Senior Notes                                                                                 |       $1,325 |       $1,226 | |
+| |       Subordinated debt                                                                                          |       $1,685 |       $1,622 | |
+| |       Total liabilities:                                                                                         |     $427,492 |     $374,300 | |
+| | Temporary equity                                                                                                 |              |              | |
+| |       Redeemable noncontrolling interests                                                                        |          $87 |          $87 | |
+| | Permanent equity                                                                                                 |              |              | |
+| |     Preferred stock – par value $0.01 per share; authorized 100,000,000 shares; issued 48,826 and 43,826 shares: |       $4,836 |       $4,343 | |
+| |       Series A Preferred Stock                                                                                   |         $500 |         $500 | |
+| |       Series F Preferred Stock                                                                                   |         $990 |         $990 | |
+| |       Series G Preferred Stock                                                                                   |              |         $990 | |
+| |       Series H Preferred Stock                                                                                   |         $576 |         $576 | |
+| |       Series I Preferred Stock                                                                                   |       $1,287 |       $1,287 | |
+| |       Series J Preferred Stock                                                                                   |         $494 |              | |
+| |       Series K Preferred Stock                                                                                   |         $494 |              | |
+| |       Series L Preferred Stock                                                                                   |         $495 |              | |
+| |     Common stock – par value $0.01 per share; authorized 3,500,000,000 shares; issued 1,416,966,905 and          |          $14 |          $14 | |
+| | 1,409,633,842 shares                                                                                             |              |              | |
+| |     Additional paid-in capital                                                                                   |      $29,907 |      $29,321 | |
+| |     Retained earnings                                                                                            |      $46,396 |      $42,537 | |
+| |     Accumulated other comprehensive loss, net of tax                                                             |     $(3,035) |     $(4,656) | |
+| |     Less: Treasury stock of 728,730,568 and 691,953,574 common shares, at cost                                   |    $(33,805) |    $(30,241) | |
+| |     Total The Bank of New York Mellon Corporation shareholders’ equity:                                          |       44,313 |       41,318 | |
+| |     Nonredeemable noncontrolling interests of consolidated investment management funds:                          |         $408 |         $359 | |
+| |       Total permanent equity:                                                                                    |      $44,721 |      $41,677 | |
+| |   Total liabilities, temporary equity and permanent equity:                                                      |     $472,300 |     $416,064 | |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) -----------------------------------------------------------------------------+

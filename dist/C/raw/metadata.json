@@ -1,0 +1,12 @@
+{
+  "ticker": "C",
+  "name": "Company(CIK=831001)",
+  "cik": "831001",
+  "extraction_date": "2026-06-05T00:35:15.630707",
+  "market_cap": 230508707840,
+  "current_price": 135.15,
+  "employees": 224000,
+  "10k_accession": "0000831001-26-000011",
+  "10k_period": "2025-12-31",
+  "auditor": "KPMG LLP"
+}

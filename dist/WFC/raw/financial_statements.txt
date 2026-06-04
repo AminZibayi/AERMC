@@ -1,0 +1,109 @@
+=== INCOME STATEMENT ===
++------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                      WELLS FARGO & COMPANY/MN   WFC/28A                                                        |
+|                                                      CONSOLIDATED STATEMENT OF INCOME                                                          |
+|                                                      Dec 31, 2023 to Dec 31, 2025                                                              |
+| +--------------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                               | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 | |
+| |-----------------------------------------------------------------------------------------------+--------------+--------------+--------------| |
+| |       Interest income                                                                         |              |              |              | |
+| |             Interest-earning deposits with banks                                              |       $5,757 |       $9,182 |       $6,973 | |
+| |             Federal funds sold and securities borrowed or purchased under resale agreements   |       $5,046 |       $4,021 |       $3,374 | |
+| |             Trading assets                                                                    |       $6,698 |       $5,541 |       $4,228 | |
+| |             Available-for-sale and held-to-maturity debt securities                           |      $13,975 |      $13,001 |      $12,320 | |
+| |             Loans                                                                             |      $54,737 |      $57,895 |      $57,155 | |
+| |             Other interest income                                                             |       $1,101 |       $1,137 |       $1,068 | |
+| |             Total interest income                                                             |      $87,314 |      $90,777 |      $85,118 | |
+| |       Interest expense                                                                        |              |              |              | |
+| |             Deposits                                                                          |      $20,449 |      $24,282 |      $16,503 | |
+| |             Federal funds purchased and securities loaned or sold under repurchase agreements |       $6,907 |       $4,766 |       $3,313 | |
+| |             Trading liabilities                                                               |       $1,042 |         $820 |         $643 | |
+| |             Long-term debt:                                                                   |      $10,268 |      $12,463 |      $11,572 | |
+| |             Other interest expense                                                            |       $1,164 |         $770 |         $712 | |
+| |             Total interest expense                                                            |      $39,830 |      $43,101 |      $32,743 | |
+| |         Net interest income:                                                                  |      $47,484 |      $47,676 |      $52,375 | |
+| |       Noninterest income                                                                      |              |              |              | |
+| |           Deposit and lending-related fees                                                    |       $6,613 |       $6,515 |       $6,140 | |
+| |           Fee income:                                                                         |      $16,081 |      $14,961 |      $12,694 | |
+| |             Investment advisory and other asset-based fees                                    |      $10,498 |       $9,775 |       $8,670 | |
+| |             Commissions and brokerage services fees                                           |       $2,556 |       $2,521 |       $2,375 | |
+| |             Investment banking fees                                                           |       $3,027 |       $2,665 |       $1,649 | |
+| |           Card fees:                                                                          |       $4,589 |       $4,342 |       $4,256 | |
+| |           Mortgage banking:                                                                   |       $1,152 |       $1,047 |         $829 | |
+| |           Net gains (losses) from trading and securities                                      |       $5,247 |       $5,516 |       $4,448 | |
+| |           Other:                                                                              |       $2,533 |       $2,239 |       $1,855 | |
+| |             Total noninterest income:                                                         |      $36,215 |      $34,620 |      $30,222 | |
+| |         Total revenue:                                                                        |      $83,699 |      $82,296 |      $82,597 | |
+| |         Provision for credit losses:                                                          |       $3,658 |       $4,334 |       $5,399 | |
+| |       Noninterest expense                                                                     |              |              |              | |
+| |           Personnel                                                                           |      $36,281 |      $35,729 |      $35,829 | |
+| |           Technology, telecommunications and equipment                                        |       $5,203 |       $4,583 |       $3,920 | |
+| |           Occupancy                                                                           |       $3,151 |       $3,052 |       $2,884 | |
+| |           Professional and outside services                                                   |       $4,540 |       $4,607 |       $5,085 | |
+| |           Advertising and promotion                                                           |       $1,094 |         $869 |         $812 | |
+| |           Other                                                                               |       $4,573 |       $5,758 |       $7,032 | |
+| |             Total noninterest expense:                                                        |      $54,842 |      $54,598 |      $55,562 | |
+| |         Income (loss) before income tax expense:                                              |      $25,199 |      $23,364 |      $21,636 | |
+| |         Income tax expense (benefit):                                                         |       $3,841 |       $3,399 |       $2,607 | |
+| |         Net income (loss) before noncontrolling interests:                                    |      $21,358 |      $19,965 |      $19,029 | |
+| |         Net income (loss) from noncontrolling interests:                                      |          $20 |         $243 |       $(113) | |
+| |           Wells Fargo net income (loss):                                                      |      $21,338 |      $19,722 |      $19,142 | |
+| |           Preferred stock dividends and other                                                 |       $1,053 |       $1,116 |       $1,160 | |
+| |         Wells Fargo net income (loss) applicable to common stock                              |      $20,285 |      $18,606 |      $17,982 | |
+| |       Per share information                                                                   |              |              |              | |
+| |           Earnings per common share (in dollars per share)                                    |         6.34 |         5.43 |         4.88 | |
+| |           Diluted earnings per common share (in dollars per share)                            |         6.26 |         5.37 |         4.83 | |
+| |           Average common shares outstanding (in shares)                                       |       32,018 |       34,261 |       36,883 | |
+| |           Diluted average common shares outstanding (in shares)                               |       32,423 |       34,676 |       37,204 | |
+| +--------------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares in scaled by 100,000 and per share data) ----------------------------------------------------+
+
+
+=== BALANCE SHEET ===
++---------------------------------------------------------------------------------------------------------------------------+
+|                                            WELLS FARGO & COMPANY/MN   WFC/28A                                             |
+|                                            CONSOLIDATED BALANCE SHEETS                                                    |
+|                                            Dec 31, 2024 to Dec 31, 2025                                                   |
+| +-----------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                         | Dec 31, 2025 | Dec 31, 2024 | |
+| |-----------------------------------------------------------------------------------------+--------------+--------------| |
+| |   Assets                                                                                |              |              | |
+| |       Cash and due from banks:                                                          |      $39,182 |      $37,080 | |
+| |       Interest-earning deposits with banks:                                             |     $135,028 |     $166,281 | |
+| |       Federal funds sold and securities borrowed or purchased under resale agreements   |     $193,929 |     $105,330 | |
+| |       Trading assets:                                                                   |     $227,935 |     $168,595 | |
+| |         Fair value option election                                                      |       $4,882 |       $3,587 | |
+| |       Available-for-sale debt securities:                                               |     $213,573 |     $162,978 | |
+| |       Held-to-maturity debt securities:                                                 |     $208,023 |     $234,948 | |
+| |         Total loans:                                                                    |     $986,167 |     $912,745 | |
+| |         Allowance for loan losses                                                       |    $(13,797) |    $(14,183) | |
+| |       Net loans                                                                         |     $972,370 |     $898,562 | |
+| |       Premises and equipment, net                                                       |      $11,395 |      $10,297 | |
+| |       Goodwill:                                                                         |      $24,967 |      $25,167 | |
+| |       Equity securities                                                                 |      $40,932 |      $41,374 | |
+| |       Other assets:                                                                     |      $81,297 |      $79,233 | |
+| |       Total assets:                                                                     |   $2,148,631 |   $1,929,845 | |
+| |   Liabilities                                                                           |              |              | |
+| |       Noninterest-bearing deposits                                                      |     $365,368 |     $383,616 | |
+| |       Interest-bearing deposits                                                         |   $1,060,839 |     $988,188 | |
+| |       Total deposits:                                                                   |   $1,426,207 |   $1,371,804 | |
+| |       Federal funds purchased and securities loaned or sold under repurchase agreements |     $232,687 |      $95,235 | |
+| |       Short-term borrowings                                                             |      $18,323 |       $2,704 | |
+| |       Trading liabilities:                                                              |      $45,468 |      $44,813 | |
+| |       Accrued expenses and other liabilities:                                           |      $68,196 |      $61,145 | |
+| |       Long-term debt:                                                                   |     $174,712 |     $173,078 | |
+| |         Total liabilities:                                                              |   $1,965,593 |   $1,748,779 | |
+| |   Equity                                                                                |              |              | |
+| |     Wells Fargo stockholders’ equity:                                                   |              |              | |
+| |         Preferred stock                                                                 |      $16,608 |      $18,608 | |
+| |         Common stock                                                                    |       $9,136 |       $9,136 | |
+| |         Additional paid-in capital                                                      |      $61,288 |      $60,817 | |
+| |         Retained earnings                                                               |     $228,873 |     $214,198 | |
+| |         Accumulated other comprehensive income (loss)                                   |     $(6,673) |    $(12,176) | |
+| |         Treasury stock, at cost                                                         |   $(128,115) |   $(111,463) | |
+| |         Total Wells Fargo stockholders’ equity:                                         |     $181,117 |     $179,120 | |
+| |       Noncontrolling interests                                                          |       $1,921 |       $1,946 | |
+| |         Total equity:                                                                   |     $183,038 |     $181,066 | |
+| |     Total liabilities and equity:                                                       |   $2,148,631 |   $1,929,845 | |
+| +-----------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) ----------------------------------------------------+

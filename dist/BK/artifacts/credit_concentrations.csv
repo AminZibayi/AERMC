@@ -1,0 +1,11 @@
+Portfolio,Total_Exposure,Per_of_Total,Credit_Quality
+Margin_Loans,26253,32.6%,Medium
+Financial_Institutions,13309,16.5%,Low
+Overdrafts,2800,3.5%,Medium
+Other_Loans,4533,5.6%,Medium
+Capital_Call_Financing,5336,6.6%,Medium
+Commercial,1748,2.2%,Medium
+Other_Residential_Mortgages,1820,2.3%,Low
+Total_Gross_Credit,80615,100.0%,N/A
+Allowance_for_Credit_Losses,-245,-0.3%,N/A
+Total_Net_Credit,80370,N/A,N/A

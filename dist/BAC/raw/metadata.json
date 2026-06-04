@@ -1,0 +1,12 @@
+{
+  "ticker": "BAC",
+  "name": "Company(CIK=70858)",
+  "cik": "70858",
+  "extraction_date": "2026-06-04T22:28:18.023701",
+  "market_cap": 383180406784,
+  "current_price": 53.995,
+  "employees": 212000,
+  "10k_accession": "0000070858-26-000157",
+  "10k_period": "2025-12-31",
+  "auditor": "PricewaterhouseCoopers, LLP"
+}

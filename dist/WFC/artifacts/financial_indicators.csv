@@ -1,0 +1,26 @@
+Metric,FY2025,FY2024,FY2023,Unit,Source
+Total_Revenue,83699,82296,82597,$M,10-K Income Statement (Accession 0000072971-26-000133)
+Net_Income_WFC,21338,19722,19142,$M,10-K Income Statement
+Net_Income_Available_to_Common,20285,18606,17982,$M,10-K Income Statement
+Pre_Tax_Income,25199,23364,21636,$M,10-K Income Statement
+EPS_Diluted,6.26,5.37,4.83,$/share,10-K Income Statement
+EPS_Basic,6.34,5.43,4.88,$/share,10-K Income Statement
+Provision_for_Credit_Losses,3658,4334,5399,$M,10-K Income Statement
+Total_Assets,2148631,1929845,1932468,$M,10-K Balance Sheet
+Stockholders_Equity,181117,179120,185735,$M,10-K Balance Sheet
+Total_Equity,183038,181066,192503,$M,10-K Balance Sheet
+Total_Deposits,1426207,1371804,N/A,$M,10-K Balance Sheet
+Total_Loans,986167,912745,916124,$M,10-K Balance Sheet
+Net_Loans,972370,898562,912745,$M,10-K Balance Sheet
+ALL,13797,14183,N/A,$M,10-K Balance Sheet
+Total_Noninterest_Expense,54842,54598,55562,$M,10-K Income Statement
+Net_Interest_Income,47484,47676,52375,$M,10-K Income Statement
+Noninterest_Income,36215,34620,30222,$M,10-K Income Statement
+Personnel_Expense,36281,35729,35829,$M,10-K Income Statement
+Technology_Expense,5203,4583,3920,$M,10-K Income Statement
+ROE_Ending_Balance,11.78%,11.02%,10.30%,Percent,Derived: Net_Income / Stockholders_Equity
+Net_Margin,25.49%,23.98%,23.14%,Percent,Derived: Net_Income / Total_Revenue
+PCL_Growth_YoY,-15.60%,-19.73%,-7.08%,Percent,Derived: (FY25-FY24)/FY24
+YoY_Asset_Growth,11.34%,-0.14%,N/A,Percent,Derived: (FY25-FY24)/FY24
+Efficiency_Ratio,65.47%,66.29%,67.28%,Percent,Derived: Noninterest_Expense / (NII + Noninterest_Income)
+NII_2025_Guidance_Implied,47700,47676,52375,$M,Reuters citing WFC Q2 2025 / 10-K NII

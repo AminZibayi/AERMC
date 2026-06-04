@@ -1,0 +1,28 @@
+Metric,FY2025,FY2024,FY2023,Unit,Source
+Total_Revenue,23099,21555,21490,$M,10-K Income Statement
+Net_Interest_Income,14410,13499,13916,$M,10-K Income Statement
+Noninterest_Income,8689,8056,7574,$M,10-K Income Statement
+Total_Noninterest_Expense,13834,13524,14012,$M,10-K Income Statement
+Provision_for_Credit_Losses,779,789,742,$M,10-K Income Statement
+Net_Income,6997,5953,5647,$M,10-K Income Statement
+Net_Income_attributable_to_common,6619,5529,5153,$M,10-K Income Statement
+Diluted_EPS,16.59,13.74,12.79,$/share,10-K Income Statement
+Basic_EPS,16.60,13.76,12.80,$/share,10-K Income Statement
+Total_Assets,573572,560038,561580,$M,10-K Balance Sheet
+Total_Loans,331481,316467,N/A,$M,10-K Balance Sheet
+Total_Deposits,440866,426738,N/A,$M,10-K Balance Sheet
+Total_Shareholders_Equity,60585,54425,51105,$M,10-K Balance Sheet
+Noncontrolling_Interests,51,44,36,$M,10-K Balance Sheet
+Total_Equity,60636,54469,N/A,$M,10-K Balance Sheet
+Net_Margin,30.3,27.6,26.3,Percent,Derived
+ROE,12.2,10.9,11.0,Percent,Derived
+Efficiency_Ratio,59.9,62.8,65.2,Percent,Derived
+Common_Dividend_per_Share,6.60,6.30,6.10,$/share,10-K Income Statement
+Total_Long_Term_Debt,57101,61673,72737,$M,10-K Balance Sheet
+Allowance_for_Loan_and_Lease_Losses,4410,4486,N/A,$M,10-K Balance Sheet
+Allowance_for_Unfunded_Commitments,818,719,N/A,$M,10-K Balance Sheet
+Total_ACL,5228,5205,N/A,$M,Derived
+Nonperforming_Loans,2218,2326,N/A,$M,10-K Balance Sheet
+Past_Due_Loans,1443,1382,N/A,$M,10-K Balance Sheet
+Accumulated_OCI,3408,6565,7712,$M,10-K Balance Sheet
+Retained_Earnings,63266,59282,56290,$M,10-K Balance Sheet

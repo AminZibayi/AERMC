@@ -1,0 +1,6 @@
+Scenario,Trigger,Primary_Risk_Channel,Severity,Source_Anchor
+S1 Geopolitical/Trade Shock,"Tariff escalation, supply chain disruption between U.S. and China","Macro to Credit to Earnings",High,[^13][^6]
+S2 AI-Enhanced Cyber Disruption,"Adversarial AI tools deployed against financial institution networks","Technology to Operational to Reputational",High,[^5][^8]
+S3 CRE Systemic Stress,"Commercial real estate debt maturity wall with prolonged elevated rates","Market/Interest Rate to Credit to Capital",High,[^3][^13]
+S4 Regulatory Capital Rule Change,"Basel III endgame finalized for Category III banks","Regulatory to Capital to Earnings",Medium,[^2][^12]
+S5 Climate Physical Risk Escalation,"Severe acute weather events (hurricanes, flooding) impacting CRE collateral in concentrated portfolios","Climate/Physical to Credit to Capital",Medium,[^7][^15]

@@ -1,0 +1,108 @@
+=== INCOME STATEMENT ===
++---------------------------------------------------------------------------------------------------------+
+|                                    JPMORGAN CHASE & CO   VYLD                                           |
+|                                    CONSOLIDATED STATEMENT OF INCOME                                     |
+|                                    Dec 31, 2023 to Dec 31, 2025                                         |
+| +-----------------------------------------------------------------------------------------------------+ |
+| |                                                        | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 | |
+| |--------------------------------------------------------+--------------+--------------+--------------| |
+| | STATEMENTS OF INCOME AND COMPREHENSIVE INCOME          |              |              |              | |
+| | Revenue                                                |              |              |              | |
+| |     Investment banking fees                            |       $9,615 |       $8,910 |       $6,519 | |
+| |     Principal transactions                             |      $27,212 |      $24,787 |      $24,460 | |
+| |     Lending- and deposit-related fees                  |       $9,093 |       $7,606 |       $7,413 | |
+| |     Asset management fees                              |      $20,327 |      $17,801 |      $15,220 | |
+| |     Commissions and other fees                         |       $8,539 |       $7,530 |       $6,836 | |
+| |     Investment securities losses                       |        $(57) |     $(1,021) |     $(3,180) | |
+| |     Mortgage fees and related income:                  |       $1,381 |       $1,401 |       $1,176 | |
+| |     Card income:                                       |       $4,720 |       $5,497 |       $4,784 | |
+| |       Interchange and merchant processing income       |      $36,222 |      $33,847 |      $31,021 | |
+| |       Reward costs and partner payments                |    $(29,720) |    $(26,784) |    $(24,601) | |
+| |       All other                                        |     $(1,782) |     $(1,566) |     $(1,636) | |
+| |     Other income                                       |       $6,174 |      $12,462 |       $5,609 | |
+| |     Noninterest revenue:                               |      $87,004 |      $84,973 |      $68,837 | |
+| |     Interest income                                    |     $193,341 |     $193,933 |     $170,588 | |
+| |     Interest expense                                   |      $97,898 |     $101,350 |      $81,321 | |
+| |     Net interest income:                               |      $95,443 |      $92,583 |      $89,267 | |
+| |       Total net revenue:                               |     $182,447 |     $177,556 |     $158,104 | |
+| |   Provision for credit losses:                         |      $14,212 |      $10,678 |       $9,320 | |
+| | Noninterest expense                                    |              |              |              | |
+| |     Compensation expense:                              |      $54,487 |      $51,357 |      $46,465 | |
+| |     Occupancy expense                                  |       $5,461 |       $5,026 |       $4,590 | |
+| |     Technology, communications and equipment expense   |      $11,029 |       $9,831 |       $9,246 | |
+| |     Professional and outside services                  |      $12,356 |      $11,057 |      $10,235 | |
+| |     Marketing                                          |       $5,531 |       $4,974 |       $4,591 | |
+| |     Other expense:                                     |       $6,776 |       $9,552 |      $12,045 | |
+| |       Total noninterest expense:                       |      $95,640 |      $91,797 |      $87,172 | |
+| |   Income/(loss) before income tax expense/(benefit):   |      $72,595 |      $75,081 |      $61,612 | |
+| |   Income tax expense:                                  |      $15,547 |      $16,610 |      $12,060 | |
+| |   Net income:                                          |      $57,048 |      $58,471 |      $49,552 | |
+| |   Basic net income applicable to common stockholders   |      $55,681 |      $56,868 |      $47,760 | |
+| |   Diluted net income applicable to common stockholders |      $55,681 |      $56,868 |      $47,760 | |
+| | Net income per common share data                       |              |              |              | |
+| |     Basic earnings per share (in dollars per share)    |        20.05 |        19.79 |        16.25 | |
+| |     Diluted earnings per share (in dollars per share)  |        20.02 |        19.75 |        16.23 | |
+| |   Weighted-average basic shares (in shares)            |       27,765 |       28,739 |       29,386 | |
+| |   Weighted-average diluted shares (in shares)          |       27,815 |       28,790 |       29,431 | |
+| +-----------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares in scaled by 100,000 and per share data) -------------+
+
+
+=== BALANCE SHEET ===
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                            JPMORGAN CHASE & CO   VYLD                                                              |
+|                                                            CONSOLIDATED BALANCE SHEETS                                                             |
+|                                                            Dec 31, 2024 to Dec 31, 2025                                                            |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                                  | Dec 31, 2025 | Dec 31, 2024 | |
+| |------------------------------------------------------------------------------------------------------------------+--------------+--------------| |
+| | BALANCE SHEETS                                                                                                   |              |              | |
+| |     Assets                                                                                                       |              |              | |
+| |         Cash and due from banks:                                                                                 |      $21,742 |      $23,372 | |
+| |         Deposits with banks:                                                                                     |     $321,596 |     $445,945 | |
+| |         Federal funds sold and securities purchased under resale agreements (included $327,018 and $286,771 at   |     $336,426 |     $295,001 | |
+| | fair value):                                                                                                     |              |              | |
+| |         Securities borrowed (included $98,111 and $83,962 at fair value)                                         |     $286,191 |     $219,546 | |
+| |         Trading assets (included assets pledged of $165,927 and $136,070):                                       |     $802,873 |     $637,784 | |
+| |           VIEs consolidated by the Firm                                                                          |       $4,835 |       $3,885 | |
+| |         Available-for-sale securities (amortized cost of $507,226 and $411,045; included assets pledged of       |     $507,198 |     $406,852 | |
+| | $7,735 and $10,162):                                                                                             |              |              | |
+| |         Held-to-maturity securities:                                                                             |     $270,134 |     $274,468 | |
+| |         Investment securities, net of allowance for credit losses:                                               |     $777,332 |     $681,320 | |
+| |         Loans (included $70,684 and $41,350 at fair value):                                                      |   $1,493,429 |   $1,347,988 | |
+| |         Allowance for loan losses:                                                                               |    $(25,765) |    $(24,345) | |
+| |         Loans, net of allowance for loan losses:                                                                 |   $1,467,664 |   $1,323,643 | |
+| |           VIEs consolidated by the Firm                                                                          |      $37,777 |      $36,510 | |
+| |         Accrued interest and accounts receivable                                                                 |     $111,599 |     $101,223 | |
+| |         Premises and equipment                                                                                   |      $36,244 |      $32,223 | |
+| |         Goodwill, MSRs and other intangible assets                                                               |      $64,458 |      $64,560 | |
+| |         Other assets (included $15,849 and $15,122 at fair value and assets pledged of $11,984 and $6,288):      |     $198,775 |     $178,197 | |
+| |           VIEs consolidated by the Firm                                                                          |         $683 |         $681 | |
+| |         Total assets:                                                                                            |   $4,424,900 |   $4,002,814 | |
+| |           VIEs consolidated by the Firm                                                                          |      $43,295 |      $41,076 | |
+| |     Liabilities                                                                                                  |              |              | |
+| |         Deposits (included $20,930 and $33,768 at fair value)                                                    |   $2,559,320 |   $2,406,032 | |
+| |         Federal funds purchased and securities loaned or sold under repurchase agreements (included $360,194 and |     $442,396 |     $296,835 | |
+| | $226,329 at fair value)                                                                                          |              |              | |
+| |         Short-term borrowings (included $32,460 and $26,521 at fair value)                                       |      $64,776 |      $52,893 | |
+| |         Trading liabilities                                                                                      |     $216,019 |     $192,883 | |
+| |         Accounts payable and other liabilities (included $6,660 and $5,893 at fair value)                        |     $316,794 |     $280,672 | |
+| |         Beneficial interests issued by consolidated VIEs (included $5 and $1 at fair value):                     |      $27,951 |      $27,323 | |
+| |           VIEs consolidated by the Firm                                                                          |      $27,951 |      $27,323 | |
+| |         Long-term debt (included $134,559 and $100,780 at fair value):                                           |     $435,206 |     $401,418 | |
+| |         All other liabilities:                                                                                   |         $691 |         $454 | |
+| |           VIEs consolidated by the Firm                                                                          |         $691 |         $454 | |
+| |         Total liabilities:                                                                                       |   $4,062,462 |   $3,658,056 | |
+| |           VIEs consolidated by the Firm                                                                          |      $28,642 |      $27,777 | |
+| |         Commitments and contingencies (refer to Notes 28, 29 and 30)                                             |              |              | |
+| |     Stockholders’ equity                                                                                         |              |              | |
+| |         Preferred stock ($1 par value; authorized 200,000,000 shares: issued 2,005,375 and 2,005,375 shares):    |      $20,045 |      $20,050 | |
+| |         Common stock ($1 par value; authorized 9,000,000,000 shares; issued 4,104,933,895 shares)                |       $4,105 |       $4,105 | |
+| |         Additional paid-in capital                                                                               |      $91,114 |      $90,911 | |
+| |         Retained earnings                                                                                        |     $416,055 |     $376,166 | |
+| |         Accumulated other comprehensive losses                                                                   |     $(4,290) |    $(12,456) | |
+| |         Treasury stock, at cost (1,408,661,319 and 1,307,313,494 shares)                                         |   $(164,591) |   $(134,018) | |
+| |         Total stockholders’ equity:                                                                              |     $362,438 |     $344,758 | |
+| |       Total liabilities and stockholders’ equity                                                                 |   $4,424,900 |   $4,002,814 | |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) -----------------------------------------------------------------------------+

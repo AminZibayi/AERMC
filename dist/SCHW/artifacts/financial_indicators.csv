@@ -1,0 +1,17 @@
+Metric,FY2025,FY2024,FY2023,Unit,Source
+Total_Net_Revenues,23921,19606,18837,$M,10-K Income Statement
+Net_Interest_Revenue,11750,9144,9427,$M,10-K Income Statement
+Noninterest_Revenue,12271,10462,9410,$M,Derived (Total - Net Interest)
+Total_Expenses_Excluding_Interest,12462,11914,12459,$M,10-K Income Statement
+Income_Before_Taxes,11459,7692,6378,$M,10-K Income Statement
+Net_Income,8852,5942,5067,$M,10-K Income Statement
+Net_Income_Available_to_Common,8417,5478,4649,$M,10-K Income Statement
+Diluted_EPS,4.65,2.99,2.54,$/share,10-K Income Statement
+Total_Assets,490995,479843,493178,$M,10-K Balance Sheet
+Stockholders_Equity,49425,48375,40958,$M,10-K Balance Sheet
+Total_Liabilities,441570,431468,452220,$M,10-K Balance Sheet
+Bank_Deposits,255747,259121,N/A,$M,10-K Balance Sheet
+Goodwill,11951,11951,11951,$M,10-K Balance Sheet
+Profit_Margin,37.0%,30.3%,26.9%,Percent,Derived
+ROE,17.9%,12.3%,12.4%,Percent,Derived (Net Income / Equity)
+Efficiency_Ratio,52.1%,60.8%,66.1%,Percent,Derived (Expenses / (NII + Noninterest Rev))

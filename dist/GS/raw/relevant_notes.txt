@@ -1,0 +1,287 @@
+
+==================================================
+--- Search Results for 'credit risk' ---
+==================================================
+No matching note found.
+
+==================================================
+--- Search Results for 'litigation' ---
+==================================================
+No matching note found.
+
+==================================================
+--- Search Results for 'cybersecurity' ---
+==================================================
+Note Title: Cybersecurity Risk Management and Strategy Disclosure
+
+None
+==================================================
+--- Search Results for 'contingencies' ---
+==================================================
+Note Title: Commitments, Contingencies and Guarantees
+
+Commitments, Contingencies and Guarantees
+
+Commitments
+
+The table below presents commitments by type.
+
+                                As of December                                  
+  $ in millions                 2025                             2024           
+  Commitment Type                                                               
+ ───────────────────────────────────────────────────────────────────────────────
+─────
+  Commercial lending:                                                           
+  Investment-grade              $                   154,598      $         
+124,001  
+  Non-investment-grade                               81,407                 
+67,755  
+  Warehouse financing                                16,349                 
+13,587  
+  Credit cards                                       70,823                 
+78,099  
+  Total lending                                     323,177                
+283,442  
+  Risk participations                                 8,435                  
+5,014  
+  Collateralized agreement                          103,188                 
+95,282  
+  Collateralized financing                           43,206                 
+49,333  
+  Investment                                          9,721                  
+5,832  
+  Other                                               9,392                  
+8,223  
+  Total commitments             $                   497,119      $         
+447,126  
+
+The table below presents commitments by expiration.
+
+                                As of December 2025                             
+                                                                      2027 -    
+2029 -                           
+  $ in millions                 2026                                  2028      
+2030                             
+  Commitment Type                                                               
+ ───────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────
+  Commercial lending:                                                           
+  Investment-grade              $                         21,573      $         
+51,812      $            75,375       5,838  
+  Non-investment-grade                                     5,884                
+22,835                   34,679      18,009  
+  Warehouse financing                                      1,525                
+8,488                    4,957       1,379  
+  Credit cards                                            70,823      –         
+–                                
+  Total lending                                           99,805                
+83,135                  115,011      25,226  
+  Risk participations           360                                             
+1,856                    6,139              
+  Collateralized agreement                               102,682      506       
+–                                
+  Collateralized financing                                43,104      102       
+–                                
+  Investment                                               5,964      768       
+179                       2,810  
+  Other                                                    9,063      328       
+–                                
+  Total commitments             $                        260,978      $         
+86,695      $           121,329      28,117  
+
+Lending Commitments
+
+The firm’s commercial and warehouse financing lending commitments are agreements
+to lend with fixed termination dates and depend on the satisfaction of all 
+contractual conditions to borrowing. These commitments are presented net of 
+amounts syndicated to third parties. The total commitment amount does not 
+necessarily reflect actual future cash flows because the firm may syndicate 
+portions of these commitments. In addition, commitments can expire unused or be 
+reduced or cancelled at the counterparty’s request. The firm also provides 
+credit to consumers by issuing credit card lines.
+
+The table below presents information about lending commitments.
+
+                           As of December                                      
+  $ in millions            2025                             2024               
+ ───────────────────────────────────────────────────────────────────────────────
+  Held for investment      $                   238,972      $         262,604  
+  Held for sale                                 82,558                 20,258  
+  At fair value                                  1,647      580                
+  Total                    $                   323,177      $         283,442  
+
+In the table above:
+
+• Held for investment lending commitments are accounted for at amortized cost. 
+The carrying value of lending commitments was a liability of $1.04 billion 
+(including allowance for credit losses of $731 million) as of December 2025 and 
+$929 million (including allowance for credit losses of $674 million) as of 
+December 2024. The estimated fair value of such lending commitments was a 
+liability of $6.03 billion as of December 2025 and $4.84 billion as of December 
+2024. Had these lending commitments been carried at fair value and included in 
+the fair value hierarchy, $3.44 billion as of December 2025 and $2.44 billion as
+of December 2024 would have been classified in level 2, and $2.59 billion as of 
+December 2025 and $2.40 billion as of December 2024 would have been classified 
+in level 3.
+
+• Held for sale lending commitments are accounted for at the lower of cost or 
+fair value. The carrying value of lending commitments held for sale were not 
+material as of both December 2025 and December 2024. The estimated fair value of
+such lending commitments approximates the carrying value. Had these lending 
+commitments been included in the fair value hierarchy, they would have been 
+primarily classified in level 2 as of December 2025 and primarily classified in 
+level 3 as of December 2024.
+
+• Gains or losses related to lending commitments at fair value, if any, are 
+generally recorded net of any fees in other principal transactions.
+
+Commercial Lending. The firm’s commercial lending commitments were primarily 
+extended to investment-grade corporate borrowers. Such commitments primarily 
+related to relationship lending activities (principally used for operating and 
+general corporate purposes) and other investment banking activities (generally 
+extended for contingent acquisition financing and are often intended to be 
+short-term in nature, as borrowers often seek to replace them with other funding
+sources). The firm also extends lending commitments in connection with 
+commercial real estate financing and other collateralized lending. See Note 9 
+for further information about funded loans.
+
+To mitigate the credit risk associated with the firm’s commercial lending 
+activities, the firm obtains credit protection on certain loans and lending 
+commitments through credit default swaps, both single-name and index-based 
+contracts, and through the issuance of credit-linked notes.
+
+Warehouse Financing. The firm provides financing to clients who warehouse 
+financial assets. These arrangements are collateralized by the warehoused 
+assets, primarily consisting of residential real estate, consumer and corporate 
+loans.
+
+Credit Cards. The firm provides credit to consumers by issuing credit card 
+lines. These credit card lines are cancellable by the firm. As of December 2025,
+credit card lines were classified as held for sale in connection with the 
+planned transition of the Apple Card program. As of December 2024, credit card 
+lines included $14.32 billion of commitments classified as held for sale in 
+connection with the planned sale of the GM co-branded credit card program, and 
+during 2025, the firm completed the sale of this program.
+
+Risk Participations
+
+The firm also risk participates certain of its commercial lending commitments to
+other financial institutions. In the event of a risk participant’s default, the 
+firm will be responsible to fund the borrower.
+
+Collateralized Agreement Commitments/ Collateralized Financing Commitments
+
+Collateralized agreement commitments includes forward starting resale and 
+securities borrowing agreements, and collateralized financing commitments 
+includes forward starting repurchase and secured lending agreements that settle 
+at a future date. Collateralized agreement commitments also includes 
+transactions where the firm has entered into commitments to provide contingent 
+financing to its clients and counterparties through resale agreements. The 
+firm’s funding of these commitments depends on the satisfaction of all 
+contractual conditions to the resale agreement and these commitments can expire 
+unused.
+
+Investment Commitments
+
+Investment commitments includes commitments to invest in private equity, real 
+estate and other assets directly and through funds that the firm raises and 
+manages. Investment commitments included $1.00 billion as of December 2025 and 
+$1.10 billion as of December 2024, related to commitments to invest in funds 
+managed by the firm. If these commitments are called, they would be funded at 
+market value on the date of investment.
+
+As of December 2025, investment commitments also included the firm’s commitment 
+to acquire Industry Ventures. The transaction amount consists of $665 million 
+and additional contingent consideration of up to $300 million, payable in both 
+cash and equity, subject to Industry Ventures’ achievement of future performance
+targets through 2030. This acquisition closed in January 2026.
+
+In addition, as of December 2025, investment commitments included the firm’s 
+commitment to acquire Innovator Capital Management. The transaction amount 
+consists of approximately $2.0 billion in cash and equity, subject to Innovator 
+Capital Management’s achievement of future performance targets through 2030. The
+acquisition is expected to close in the second quarter of 2026, subject to 
+regulatory approval and customary closing conditions.
+
+Contingencies
+
+Legal Proceedings. See Note 27 for information about legal proceedings.
+
+Guarantees
+
+The table below presents derivatives that meet the definition of a guarantee, 
+securities lending and clearing guarantees and certain other financial 
+guarantees.
+
+  $ in millions                                               Derivatives       
+Securities                    Other                  
+                                                                                
+            lending and                   financial              
+                                                                                
+            clearing                      guarantees             
+  As of December 2025                                                           
+  Carrying Value of Net Liability                             $                 
+2,643      $                –            $                 485  
+ ───────────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────
+  Maximum Payout/Notional Amount by Period of Expiration                        
+  2026                                                        $                
+219,426      $                182,017      $               2,435  
+  2027 - 2028                                                                  
+111,873      –                                             3,709  
+  2029 - 2030                                                                   
+17,321      –                                             2,195  
+  2031 - thereafter                                                             
+31,026      –                             313                    
+  Total                                                       $                
+379,646      $                182,017      $               8,652  
+  As of December 2024                                                           
+  Carrying Value of Net Liability                             $                 
+3,535      $                –            $                 425  
+  Maximum Payout/Notional Amount by Period of Expiration                        
+  2025                                                        $                
+181,940      $                58,056       $               2,523  
+  2026 - 2027                                                                   
+78,419      –                                             3,086  
+  2028 - 2029                                                                   
+17,074      –                                             1,843  
+  2030 - thereafter                                                             
+31,819      –                             505                    
+  Total                                                       $                
+309,252      $                58,056       $               7,957  
+
+In the table above:
+
+• The maximum payout is based on the notional amount of the contract and does 
+not represent anticipated losses.
+
+• Amounts exclude certain commitments to issue standby letters of credit that 
+are included in lending commitments. See the tables in “Commitments” above for a
+summary of the firm’s commitments.
+
+• The carrying value for derivatives included derivative assets derivative 
+liabilities
+
+Derivative Guarantees. The firm enters into various derivatives that meet the 
+definition of a guarantee under U.S. GAAP, including written equity and 
+commodity put options, written currency contracts and interest rate caps, floors
+and swaptions. These derivatives are risk managed together with derivatives that
+do not meet the definition of a guarantee, and therefore the amounts in the 
+table above do not reflect the firm’s overall risk related to derivative 
+activities. Disclosures about derivatives are not required if they may be cash 
+settled and the firm has no basis to conclude it is probable that the 
+counterparties held the underlying instruments at the inception of the contract.
+The firm has concluded that these conditions have been met for certain large, 
+internationally active commercial and investment bank counterparties, central 
+clearing counterparties, hedge funds and certain other counterparties. 
+Accordingly, the firm has not included such contracts in the table above. See 
+Note 7 for information about credit derivatives that meet the definition of a 
+guarantee, which are not included in the table above.
+
+Derivatives are accounted for at fair value and therefore the carrying value is 
+considered the best indication of payment/performance risk for individual 
+contracts. However, the carrying values in the table above exclude the effect of
+counterparty and cash collateral netting.
+
+Securities Lending and Clearing Guarantees. Securities lending and clearing 
+guarantees include the indemnifications and g

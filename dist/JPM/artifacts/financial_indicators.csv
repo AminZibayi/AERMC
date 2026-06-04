@@ -1,0 +1,22 @@
+Metric,FY2025,FY2024,FY2023,Unit,Source
+Total Net Revenue,182447,177556,158104,$M,Consolidated Income Statement
+Net Interest Income,95443,92583,89267,$M,Consolidated Income Statement
+Noninterest Revenue,87004,84973,68837,$M,Consolidated Income Statement
+Provision for Credit Losses,14212,10678,9320,$M,Consolidated Income Statement
+Total Noninterest Expense,95640,91797,87172,$M,Consolidated Income Statement
+Pre-Tax Income,72595,75081,61612,$M,Consolidated Income Statement
+Net Income,57048,58471,49552,$M,Consolidated Income Statement
+Basic EPS,20.05,19.79,16.25,$/share,Consolidated Income Statement
+Diluted EPS,20.02,19.75,16.23,$/share,Consolidated Income Statement
+Total Assets,4424900,4002814,3875393,$M,Consolidated Balance Sheet
+Total Deposits,2559320,2406032,,$M,Consolidated Balance Sheet
+Loans (net of allowance),1467664,1323643,,$M,Consolidated Balance Sheet
+Allowance for Loan Losses,25765,24345,,$M,Consolidated Balance Sheet
+Total Stockholders' Equity,362438,344758,327878,$M,Consolidated Balance Sheet
+Common Equity (tangible),342393,324708,307835,$M,Consolidated Balance Sheet
+Long-Term Debt,435206,401418,,$M,Consolidated Balance Sheet
+ROE (ending balance),15.73,16.96,15.12,%,Derived: Net Income / Stockholders' Equity
+Net Margin,31.26,32.93,31.33,%,Derived: Net Income / Total Net Revenue
+Efficiency Ratio,52.38,51.70,55.12,%,Derived: Noninterest Expense / (NII + Noninterest Revenue)
+Total Credit Exposure,3415850,3038506,,$M,Note 4: Credit Risk Concentrations
+Apple Card Transaction Exposure,104000,,,,Note 4 (estimated at close)

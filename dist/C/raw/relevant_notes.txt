@@ -1,0 +1,287 @@
+
+==================================================
+--- Search Results for 'credit risk' ---
+==================================================
+Note Title: CONCENTRATIONS OF CREDIT RISK
+
+CONCENTRATIONS OF CREDIT RISK
+
+Concentrations of credit risk exist when changes in economic, industry or 
+geographic factors similarly affect groups of counterparties whose aggregate 
+credit exposure is material in relation to Citigroup’s total credit exposure. 
+Although Citigroup’s portfolio of financial instruments is broadly diversified 
+along industry, product and geographic lines, material transactions are 
+completed with other financial institutions, particularly in the securities 
+trading, derivatives and foreign exchange businesses.
+
+In connection with the Company’s efforts to maintain a diversified portfolio, 
+the Company limits its exposure to any one geographic region, country or 
+individual creditor and monitors this exposure on a continuous basis. At 
+December 31, 2025, Citigroup’s most significant concentration of credit risk was
+inTrading-related assets(trading securities) and AFS and HTM securities 
+(collectively referred to below as “securities exposure”) with the U.S. 
+government and its agencies, foreign governments, and states and municipalities.
+
+At December 31, 2025 and 2024, the Company’s securities exposure to the U.S. 
+government and its agencies was $464 billion and $493 billion; to foreign 
+governments was $287 billion and $209 billion; and to states and municipalities 
+was $10 billion and $11 billion, respectively.
+
+==================================================
+--- Search Results for 'litigation' ---
+==================================================
+No matching note found.
+
+==================================================
+--- Search Results for 'cybersecurity' ---
+==================================================
+Note Title: Cybersecurity Risk Management and Strategy Disclosure
+
+None
+==================================================
+--- Search Results for 'contingencies' ---
+==================================================
+Note Title: CONTINGENCIES
+
+CONTINGENCIES
+
+Accounting and Disclosure Framework
+
+ASC 450 governs the disclosure and recognition of loss contingencies, including 
+potential losses from litigation, regulatory, tax and other matters. ASC 450 
+defines a “loss contingency” as “an existing condition, situation, or set of 
+circumstances involving uncertainty as to possible loss to an entity that will 
+ultimately be resolved when one or more future events occur or fail to occur.” 
+It imposes different requirements for the recognition and disclosure of loss 
+contingencies based on the likelihood of occurrence of the contingent future 
+event or events. It distinguishes among degrees of likelihood using the 
+following three terms:
+
+•“probable,” meaning that “the future event or events are likely to occur”
+
+•“remote,” meaning that “the chance of the future event or events occurring is 
+slight”
+
+•“reasonably possible,” meaning that “the chance of the future event or events 
+occurring is more than remote but less than likely”
+
+These three terms are used below as defined in ASC 450.
+
+Accruals. ASC 450 requires accrual for a loss contingency when it is “probable 
+that one or more future events will occur confirming the fact of loss” and“the 
+amount of the loss can be reasonably estimated.” In accordance with ASC 450, 
+Citigroup establishes accruals for contingencies, including any litigation, 
+regulatory or tax matters disclosed herein, when Citigroup believes it is 
+probable that a loss has been incurred and the amount of the loss can be 
+reasonably estimated. When the reasonable estimate of the loss is within a range
+of amounts, the minimum amount of the range is accrued, unless some higher 
+amount within the range is a better estimate than any other amount within the 
+range. Once established, accruals are adjusted from time to time, as 
+appropriate, in light of additional information. The amount of loss ultimately 
+incurred in relation to those matters may be substantially higher or lower than 
+the amounts accrued for those matters.
+
+Disclosure. ASC 450 requires disclosure of a loss contingency if “there is at 
+least a reasonable possibility that a loss or an additional loss may have been 
+incurred” and there is no accrual for the loss because the conditions described 
+above are not met or an exposure to loss exists in excess of the amount accrued.
+In accordance with ASC 450, if Citigroup has not accrued for a matter because 
+Citigroup believes that a loss is reasonably possible but not probable, or that 
+a loss is probable but not reasonably estimable, and the reasonably possible 
+loss is material, it discloses the loss contingency. In addition, Citigroup 
+discloses matters for which it has accrued if it believes a reasonably possible 
+exposure to material loss exists in excess of the amount accrued. In accordance 
+with ASC 450, Citigroup’s disclosure includes an estimate of the reasonably 
+possible loss or range of loss for those matters as to which an estimate can be 
+made. ASC 450 does not require disclosure of an estimate of the reasonably 
+possible loss or range of loss where an estimate cannot be made. Neither accrual
+nor disclosure is required for losses that are deemed remote.
+
+Litigation, Regulatory and Other Contingencies
+
+Overview. In addition to the matters described below, in the ordinary course of 
+business, Citigroup, its affiliates and subsidiaries, and current and former 
+officers, directors and employees (for purposes of this section, sometimes 
+collectively referred to as Citigroup and Related Parties) routinely are named 
+as defendants in, or as parties to, various legal actions and proceedings. 
+Certain of these actions and proceedings assert claims or seek relief in 
+connection with alleged violations of consumer protection, fair lending, 
+securities, banking, antifraud, antitrust, anti-money laundering, employment and
+other statutory and common laws. Certain of these actual or threatened legal 
+actions and proceedings include claims for substantial or indeterminate 
+compensatory or punitive damages, or for injunctive relief, and in some 
+instances seek recovery on a class-wide basis.
+
+In the ordinary course of business, Citigroup and Related Parties also are 
+subject to governmental and regulatory examinations, information-gathering 
+requests, investigations and proceedings (both formal and informal), certain of 
+which may result in adverse judgments, settlements, fines, penalties, 
+restitution, disgorgement, injunctions or other relief. In addition, certain 
+affiliates and subsidiaries of Citigroup are banks, registered broker-dealers, 
+futures commission merchants, investment advisors or other regulated entities 
+and, in those capacities, are subject to regulation by various U.S., state and 
+foreign securities, banking, commodity futures, consumer protection and other 
+regulators. In connection with formal and informal inquiries by these 
+regulators, Citigroup and such affiliates and subsidiaries receive numerous 
+requests, subpoenas and orders seeking documents, testimony and other 
+information in connection with various aspects of their regulated activities. 
+From time to time Citigroup and Related Parties also receive grand jury 
+subpoenas and other requests for information or assistance, formal or informal, 
+from federal or state law enforcement agencies including, among others:
+
+• various United States Attorneys’ Offices;
+
+• the Money Laundering and Asset Recovery Section and other divisions of the 
+Department of Justice;
+
+• the Financial Crimes Enforcement Network of the United States Department of 
+the Treasury; and
+
+• the Federal Bureau of Investigation, relating to Citigroup and its customers.
+
+Because of the global scope of Citigroup’s operations and its presence in 
+countries around the world, Citigroup and Related Parties are subject to 
+litigation and governmental and regulatory examinations, information-gathering 
+requests, investigations and proceedings (both formal and informal) in multiple 
+jurisdictions with legal, regulatory and tax regimes that may differ 
+substantially, and present substantially different risks, from those Citigroup 
+and Related Parties are subject to in the United States. In some instances, 
+Citigroup and Related Parties may be involved in proceedings involving the same 
+subject matter in multiple jurisdictions, which may result in overlapping, 
+cumulative or inconsistent outcomes.
+
+Citigroup seeks to resolve all litigation, regulatory, tax and other matters in 
+the manner management believes is in the best interests of Citigroup and its 
+shareholders, and contests
+
+liability, allegations of wrongdoing and, where applicable, the amount of 
+damages or scope of any penalties or other relief sought as appropriate in each 
+pending matter.
+
+Inherent Uncertainty of the Matters Disclosed. Certain of the matters disclosed 
+below involve claims for substantial or indeterminate damages. The claims 
+asserted in these matters typically are broad, often spanning a multiyear period
+and sometimes a wide range of business activities, and the plaintiffs’ or 
+claimants’ alleged damages frequently are not quantified or factually supported 
+in the complaint or statement of claim. Other matters relate to regulatory 
+investigations or proceedings, as to which there may be no objective basis for 
+quantifying the range of potential fine, penalty or other remedy. As a result, 
+Citigroup is often unable to estimate the loss in such matters, even if it 
+believes that a loss is probable or reasonably possible, until developments in 
+the case, proceeding or investigation have yielded additional information 
+sufficient to support a quantitative assessment of the range of reasonably 
+possible loss. Such developments may include, among other things, discovery from
+adverse parties or third parties, rulings by the court on key issues, analysis 
+by retained experts and engagement in settlement negotiations.
+
+Depending on a range of factors, such as the complexity of the facts, the 
+novelty of the legal theories, the pace of discovery, the court’s scheduling 
+order, the timing of court decisions and the adverse party’s, regulator’s or 
+other authority’s willingness to negotiate in good faith toward a resolution, it
+may be months or years after the filing of a case or commencement of a 
+proceeding or an investigation before an estimate of the range of reasonably 
+possible loss can be made.
+
+Matters as to Which an Estimate Can Be Made. For some of the matters disclosed 
+below, Citigroup is currently able to estimate a reasonably possible loss or 
+range of loss in excess of amounts accrued (if any). For some of the matters 
+included within this estimation, an accrual has been made because a loss is 
+believed to be both probable and reasonably estimable, but a reasonably possible
+exposure to loss exists in excess of the amount accrued. In these cases, the 
+estimate reflects the reasonably possible range of loss in excess of the accrued
+amount. For other matters included within this estimation, no accrual has been 
+made because a loss, although estimable, is believed to be reasonably possible, 
+but not probable; in these cases, the estimate reflects the reasonably possible 
+loss or range of loss. As of December 31, 2025, Citigroup estimates that the 
+reasonably possible unaccrued loss for these matters ranges up to approximately 
+$1.2 billion in the aggregate.
+
+These estimates are based on currently available information. As available 
+information changes, the matters for which Citigroup is able to estimate will 
+change, and the estimates themselves will change. In addition, while many 
+estimates presented in financial statements and other financial disclosures 
+involve significant judgment and may be subject to significant uncertainty, 
+estimates of the range of reasonably possible loss arising from litigation, 
+regulatory and tax proceedings are subject to particular uncertainties. For 
+example, at the time of making an estimate:
+
+• Citigroup may have only preliminary, incomplete or inaccurate information 
+about the facts underlying the claim;
+
+• its assumptions about the future rulings of the court, other tribunal or 
+authority on significant issues, or the behavior and incentives of adverse 
+parties, regulators or other authorities, may prove to be wrong; and
+
+• the outcomes it is attempting to predict are often not amenable to the use of 
+statistical or other quantitative analytical tools.
+
+In addition, from time to time an outcome may occur that Citigroup had not 
+accounted for in its estimate because it had deemed such an outcome to be 
+remote. For all of these reasons, the amount of loss in excess of amounts 
+accrued in relation to matters for which an estimate has been made could be 
+substantially higher or lower than the range of loss included in the estimate.
+
+Matters as to Which an Estimate Cannot Be Made. For other matters disclosed 
+below, Citigroup is not currently able to estimate the reasonably possible loss 
+or range of loss. Many of these matters remain in very preliminary stages (even 
+in some cases where a substantial period of time has passed since the 
+commencement of the matter), with few or no substantive legal decisions by the 
+court, tribunal or other authority defining the scope of the claims, the class 
+(if any) or the potentially available damages or other exposure, and fact 
+discovery is still in progress or has not yet begun. In many of these matters, 
+Citigroup has not yet answered the complaint or statement of claim or asserted 
+its defenses, nor has it engaged in any negotiations with the adverse party 
+(whether a regulator, taxing authority or a private party). For all these 
+reasons, Citigroup cannot at this time estimate the reasonably possible loss or 
+range of loss, if any, for these matters.
+
+Opinion of Management as to Eventual Outcome. Subject to the foregoing, it is 
+the opinion of Citigroup’s management, based on current knowledge and after 
+taking into account its current accruals, that the eventual outcome of all 
+matters described in this Note would not likely have a material adverse effect 
+on the consolidated financial condition of Citigroup.
+
+Nonetheless, given the substantial or indeterminate amounts sought in certain of
+these matters, and the inherent unpredictability of such matters, an adverse 
+outcome in certain of these matters could, from time to time, have a material 
+adverse effect on Citigroup’s consolidated results of operations or cash flows 
+in particular quarterly or annual periods.
+
+Foreign Exchange Matters
+
+In 2019, two applications, captioned MICHAEL O’HIGGINS FX CLASS REPRESENTATIVE 
+LIMITED v. BARCLAYS BANK PLC AND OTHERS and PHILLIP EVANS v. BARCLAYS BANK PLC 
+AND OTHERS, were made to the U.K.’s Competition Appeal Tribunal requesting 
+permission to commence collective proceedings against Citigroup, Citibank, and 
+other defendants. On February 8, 2024, Michael O’Higgins FX Class Representative
+Limited withdrew its application. The Evans application seeks compensatory 
+damages for losses alleged to have arisen from the actions at issue in the 
+European Commission’s foreign exchange spot
+
+trading infringement decision (European Commission Decision of May 16, 2019 in 
+Case AT.40135-FOREX (Three Way Banana Split) C(2019) 3631 final). Following 
+appeals to the Court of Appeal and to the U.K. Supreme Court, the U.K. Supreme 
+Court, on December 18, 2025, reinstated the U.K. Competition Appeal Tribunal’s 
+decision to refuse to certify the Evans application on an opt-out basis, and 
+issued instructions in a final order on February 17, 2026. Additional 
+information concerning these actions is publicly available in court filings 
+under the case numbers 1329/7/7/19 and 1336/7/7/19 in the U.K. Competition 
+Appeal Tribunal, CA-2022-002002 and CA-2022-002003 in the Court of Appeal, and 
+UKSC 2023/0177 in the U.K. Supreme Court.
+
+In 2019, a putative class action was filed against Citibank and other 
+defendants, captioned J WISBEY & ASSOCIATES PTY LTD v. UBS AG & ORS, in the 
+Federal Court of Australia. Plaintiffs alleged that defendants manipulated the 
+foreign exchange markets. Plaintiffs asserted claims under antitrust laws and 
+sought compensatory damages and declaratory and injunctive relief. On August 15,
+2025, the court approved a settlement reached between the parties. Additional 
+information concerning this action is publicly available in court filings under 
+the docket number VID567/2019.
+
+In 2019, two motions for certification of class actions filed against Citigroup,
+Citibank, Citicorp, and other defendants were consolidated, under the caption 
+GERTLER, ET AL. v. DEUTSCHE BANK AG, in the Tel Aviv Central District Court in 
+Israel. Plaintiffs allege that defendants manipulated the foreign exchange 
+markets. In August 2021, Citibank’s motion to dismiss plaintiffs’ petition for 
+certification was denied. In April 2022, the Supreme Court of Israel denied 
+Citibank’s mo

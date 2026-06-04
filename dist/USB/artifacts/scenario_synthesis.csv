@@ -1,0 +1,6 @@
+Scenario,Trigger,Primary_Risk_Channel,Severity,Source_Anchor
+S1: Tariff/Trade Escalation,"Rising US tariffs on trading partners leading to retaliatory tariffs affecting US exporters","Macro/Market → Credit → Earnings","High","[^1][^12]"
+S2: CRE Systemic Stress,"Ongoing CRE occupancy decline and refinancing cliff for office/retail properties","Credit → Capital → Earnings","High","[^13][^20]"
+S3: Rate Spike / NIM Compression,"Federal Reserve rate increases causing deposit repricing pressure and NIM compression","Market → Earnings → Capital","Medium","[^14][^15]"
+S4: AI/Technology Disruption,"AI-driven cyber attacks on operational systems or fintech disintermediation of cards/payments","Cyber → Operational → Reputational","Medium","[^24][^25]"
+S5: Basel III Endgame Rule Change,"Federal banking regulators finalize Basel III Endgame requiring inclusion of AOCI in CET1","Regulatory → Capital → Distributions","Medium","[^16][^17]"

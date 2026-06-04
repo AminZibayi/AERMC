@@ -1,0 +1,15 @@
+Portfolio,Total_Exposure_M,Per_of_Total,Credit_Quality
+Residential Real Estate,43760,13.2%,Medium
+Home Equity,25941,7.8%,Low
+Automobile,16591,5.0%,Medium
+Credit Card,7014,2.1%,Medium
+Education,1468,0.4%,Low
+Other Consumer,672,2.0%,Medium
+Commercial and Industrial,C&I incl in Commercial aggregate,68.4%,Medium
+Commercial Real Estate,CRE incl in Commercial aggregate,68.4%,Variable
+Commercial (Aggregate),230025,69.4%,Variable
+Allowance Loan Lease Losses,4410,1.3%,Derived
+Allowance Unfunded Commitments,818,0.2%,Derived
+Total ACL,5228,1.6%,Derived
+Total Credit Exposure (gross loans),331481,100.0%,Derived
+ACL as % of Total Credit Exposure,1.6%,1.6%,Derived

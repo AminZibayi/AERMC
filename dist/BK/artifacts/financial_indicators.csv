@@ -1,0 +1,24 @@
+Metric,FY2023,FY2024,FY2025,Unit,Source
+Total_Revenue,17697,18619,20080,$M,10-K Income Statement
+Fee_Revenue,12872,13620,14379,$M,10-K Income Statement
+Net_Interest_Income,4345,4312,4944,$M,10-K Income Statement
+Net_Income,3302,4530,5549,$M,10-K Income Statement
+Net_Income_Common,3067,4336,5306,$M,10-K Income Statement
+Provision_Credit_Losses,119,70,-32,$M,10-K Income Statement
+Noninterest_Expense,13295,12701,13054,$M,10-K Income Statement
+Staff_Expense,7095,7130,7159,$M,10-K Income Statement
+Income_Before_Tax,4283,5848,7058,$M,10-K Income Statement
+EPS_Basic,3.91,5.84,7.47,$,10-K Income Statement
+EPS_Diluted,3.89,5.80,7.40,$,10-K Income Statement
+Total_Assets,409953,416064,472300,$M,10-K Balance Sheet
+Total_Liabilities,368944,374300,427492,$M,10-K Balance Sheet
+Stockholders_Equity,40874,41318,44313,$M,10-K Balance Sheet
+Total_Deposits,289524,331894,$M,10-K Balance Sheet
+Net_Loans,71276,80370,$M,10-K Balance Sheet
+Goodwill,16261,16598,16767,$M,10-K Balance Sheet
+Long_Term_Debt,31257,30854,31873,$M,10-K Balance Sheet
+Net_Margin,18.7%,24.3%,27.6%,Percent,Derived
+ROE,7.6%,11.0%,12.5%,Percent,Derived
+Efficiency_Ratio,75.1%,68.2%,65.0%,Percent,Derived
+Total_Revenue_YoY,-,-,7.8%,Percent,Derived
+Net_Income_YoY,-,-,22.5%,Percent,Derived

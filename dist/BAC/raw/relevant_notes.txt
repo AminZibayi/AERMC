@@ -1,0 +1,271 @@
+
+==================================================
+--- Search Results for 'credit risk' ---
+==================================================
+No matching note found.
+
+==================================================
+--- Search Results for 'litigation' ---
+==================================================
+No matching note found.
+
+==================================================
+--- Search Results for 'cybersecurity' ---
+==================================================
+Note Title: Cybersecurity Risk Management and Strategy Disclosure
+
+None
+==================================================
+--- Search Results for 'contingencies' ---
+==================================================
+Note Title: Commitments and Contingencies
+
+Commitments and Contingencies
+
+In the normal course of business, the Corporation enters into a number of 
+off-balance sheet commitments. These commitments expose the Corporation to 
+varying degrees of credit and market risk and are subject to the same credit and
+market risk limitation reviews as those instruments recorded on the Consolidated
+Balance Sheet.
+
+Credit Extension Commitments
+
+The Corporation enters into commitments to extend credit such as loan 
+commitments, SBLCs and commercial letters of credit to meet the financing needs 
+of its customers. The following table includes the notional amount of unfunded 
+legally binding lending commitments net of amounts distributed (i.e., syndicated
+or participated) to other financial institutions. The distributed amounts were 
+$10.6 billion and $10.4 billion at December 31, 2025 and 2024. The carrying 
+value of the Corporation’s credit extension commitments at December 31, 2025 and
+2024, excluding commitments accounted for under
+
+the fair value option, was $1.2 billion and $1.1 billion, which predominantly 
+related to the reserve for unfunded lending commitments. The carrying value of 
+these commitments is classified in accrued expenses and other liabilities on the
+Consolidated Balance Sheet.
+
+Legally binding commitments to extend credit generally have specified rates and 
+maturities. Certain of these commitments have adverse change clauses that help 
+to protect the Corporation against deterioration in the borrower’s ability to 
+pay.
+
+The following table includes the notional amount of commitments of $2.4 billion 
+and $2.2 billion at December 31, 2025 and 2024 that are accounted for under the 
+fair value option. However, the table excludes the cumulative net fair value for
+these commitments of $67 million and $144 million at December 31, 2025 and 2024,
+which is classified in accrued expenses and other liabilities. For more 
+information regarding the Corporation’s loan commitments accounted for under the
+fair value option, see Note 21 - Fair Value Option.
+
+  Credit Extension Commitments                                                  
+                                                              Expire in One     
+Expire After                             
+  (Dollars in millions)                                       December 31, 2025 
+  Notional amount of credit extension commitments                               
+  Loan commitments (1)                                        $                 
+139,725      224,524      244,340      $                 24,587        633,176  
+  Home equity lines of credit                                                   
+4,247        9,808        7,240                        21,787         43,082  
+  Standby letters of credit and financial guarantees (2)                        
+24,086        9,626        4,018      386                              38,116  
+  Letters of credit                                           639               
+44                                       
+  Other commitments (3)                                       15                
+1,002          1,128  
+  Legally binding commitments                                                   
+168,712      244,061      255,671                        47,806        716,250  
+  Credit card lines (4)                                                         
+476,926                                —                               476,926  
+  Total credit extension commitments                          $                 
+645,638      244,061      255,671      $                 47,806      1,193,176  
+                                                              December 31, 2024 
+  Notional amount of credit extension commitments                               
+  Loan commitments (1)                                        $                 
+123,520      227,539      191,469      $                 19,011        561,539  
+  Home equity lines of credit                                                   
+3,518       10,570        8,920                        21,272         44,280  
+  Standby letters of credit and financial guarantees (2)                        
+25,080        8,006        2,589      370                              36,045  
+  Letters of credit                                           781               
+19                                       
+  Other commitments (3)                                       5                 
+1,028          1,173  
+  Legally binding commitments                                                   
+152,904      246,309      203,074                        41,700        643,987  
+  Credit card lines (4)                                                         
+456,185                                —                               456,185  
+  Total credit extension commitments                          $                 
+609,089      246,309      203,074      $                 41,700      1,100,172  
+
+(1) At December 31, 2025 and 2024, $3.4 billion and $4.4 billion of these loan 
+commitments were held in the form of a security.
+
+(2) The notional amounts of SBLCs and financial guarantees classified as 
+investment grade and non-investment grade based on the credit quality of the 
+underlying reference name within the instrument were $26.8 billion and $10.4 
+billion at December 31, 2025, and $25.0 billion and $10.1 billion at December 
+31, 2024. Amounts in the table include consumer SBLCs of $987 million and $1.0 
+billion at December 31, 2025 and 2024.
+
+(3) Primarily includes second-loss positions on lease-end residual value 
+guarantees.
+
+(4) Includes business card unused lines of credit.
+
+Other Commitments
+
+At December 31, 2025 and 2024, the Corporation had commitments to purchase loans
+(e.g., residential mortgage and commercial real estate) of $700 million and $242
+million, which upon settlement will be included in trading account assets, loans
+or LHFS, and commitments to purchase commercial loans, net of amounts sold, of 
+$558 million and $768 million, which upon settlement will be included in trading
+account assets.
+
+At December 31, 2025 and 2024, the Corporation had commitments to enter into 
+resale and forward-dated resale and securities borrowing agreements of $149.0 
+billion and $109.8 billion, and commitments to enter into forward-dated 
+repurchase and securities lending agreements of $108.9 billion and $87.1 
+billion. A significant portion of these commitments will expire within the next 
+12 months.
+
+At both December 31, 2025 and 2024, the Corporation had a commitment to 
+originate or purchase up to $4.0 billion, on a rolling 12-month basis, of auto 
+loans and leases from a strategic partner. This commitment extends through 
+November 2030 and can be terminated with 12 months prior notice.
+
+At December 31, 2025 and 2024, the Corporation had debt and equity security 
+commitments totaling $884 million and $787 million.
+
+As a Federal Reserve member bank, the Corporation is required to subscribe to a 
+certain amount of shares issued by its Federal Reserve district bank, which pays
+cumulative dividends at a prescribed rate. At both December 31, 2025 and 2024, 
+the Corporation had paid $5.4 billion for half of its subscribed shares, with 
+the remaining half subject to call by the Federal Reserve district bank board, 
+which the Corporation believes is remote.
+
+Other Guarantees
+
+Bank-owned Life Insurance Book Value Protection
+
+The Corporation sells products that offer book value protection to insurance 
+carriers who offer group life insurance policies to corporations, primarily 
+banks. At December 31, 2025 and 2024, these guarantees, which are accounted for 
+as derivatives, had a notional amount of $2.4 billion and $3.3 billion and an 
+insignificant fair value. At December 31, 2025 and 2024, the Corporation’s 
+maximum exposure related to these guarantees totaled $377 million and $506 
+million, with an estimated maturity in 2034.
+
+Indemnifications
+
+In the ordinary course of business, the Corporation enters into various 
+agreements that contain indemnifications, such as tax indemnifications, 
+whereupon payment may become due if certain external events occur, such as a 
+change in tax law. The indemnification clauses are often standard contractual 
+terms and were entered into in the normal course of business based on an 
+assessment that the risk of loss would be remote. These agreements typically 
+contain an early termination clause that permits the Corporation to exit the 
+agreement upon these events. The maximum potential future payment under 
+indemnification agreements is difficult to assess for several reasons, including
+the occurrence of an external event, the inability to predict future changes in 
+tax and other laws, the difficulty in determining how such laws would apply to 
+parties in contracts, the absence of exposure limits contained in standard 
+contract language and the timing of any early termination clauses. Historically,
+any payments made under these guarantees have been de minimis. The Corporation 
+has assessed the probability of making such payments in the future as remote.
+
+Merchant Services
+
+The Corporation in its role as merchant acquirer or as a sponsor of other 
+merchant acquirers may be held liable for any reversed charges that cannot be 
+collected from the merchants due to, among other things, merchant fraud or 
+insolvency. If charges are properly reversed after a purchase and cannot be 
+collected from either the merchants or merchant acquirers, the Corporation may 
+be held liable for these reversed charges. The ability to reverse a charge is 
+primarily governed by the applicable payment network rules and regulations, 
+which include, but are not limited to, the type of charge, type of payment used 
+and time limits. The total amount of transactions subject to reversal under 
+payment network rules and regulations processed for the preceding six-month 
+period, which was approximately $194 billion, is an estimate of the 
+Corporation’s maximum potential exposure as of December 31, 2025. The 
+Corporation’s risk in this area primarily relates to circumstances where a 
+cardholder has purchased goods or services for future delivery. The Corporation 
+mitigates this risk by requiring cash deposits, guarantees, letters of credit or
+other types of collateral from certain merchants. The Corporation’s reserves for
+contingent losses, and the losses incurred related to the merchant processing 
+activity were not significant.
+
+Exchange and Clearing House Member Guarantees
+
+The Corporation is a member of various securities and derivative exchanges and 
+clearinghouses, both in the U.S. and other countries. As a member, the 
+Corporation may be required to pay a pro-rata share of the losses incurred by 
+some of these organizations as a result of another member default and under 
+other loss scenarios. The Corporation’s potential obligations may be limited to 
+its membership interests in such exchanges and clearinghouses, to the amount (or
+multiple) of the Corporation’s contribution to the guarantee fund or, in limited
+instances, to the full pro-rata share of the residual losses after applying the 
+guarantee fund. The Corporation’s maximum potential exposure under these 
+membership agreements is difficult to estimate; however, the Corporation has 
+assessed the probability of making any such payments as remote.
+
+Prime Brokerage and Securities Clearing Services
+
+In connection with its prime brokerage and clearing businesses, the Corporation 
+performs securities clearance and settlement services with other brokerage firms
+and clearinghouses on behalf of its clients. Under these arrangements, the 
+Corporation stands ready to meet the obligations of its clients with respect to 
+securities transactions. The Corporation’s obligations in this respect are 
+secured by the assets in the clients’ accounts and the accounts of their 
+customers as well as by any proceeds received from the transactions cleared and 
+settled by the Corporation on behalf of clients or their customers. The 
+Corporation’s maximum potential exposure under these arrangements is difficult 
+to estimate; however, the potential for the Corporation to incur material losses
+pursuant to these arrangements is remote.
+
+Fixed Income Clearing Corporation Sponsored Member Repo Program
+
+The Corporation acts as a sponsoring member in a repo program whereby the 
+Corporation clears certain eligible resale and repurchase agreements through the
+Government Securities Division of the Fixed Income Clearing Corporation on 
+behalf of clients that are sponsored members in accordance with the Fixed Income
+Clearing Corporation’s rules. As part of this program, the Corporation 
+guarantees the payment and
+
+performance of its sponsored members to the Fixed Income Clearing Corporation. 
+The Corporation’s guarantee obligation is secured by a security interest in cash
+or high-quality securities collateral placed by clients with the clearinghouse 
+and therefore, the potential for the Corporation to incur significant losses 
+under this arrangement is remote. The Corporation’s maximum potential exposure, 
+without taking into consideration the related collateral, was $339.1 billion and
+$191.9 billion at December 31, 2025 and 2024.
+
+Other Guarantees
+
+In the normal course of business, the Corporation periodically guarantees the 
+obligations of its affiliates in a variety of transactions including 
+ISDA-related transactions and non-ISDA related transactions such as commodities 
+trading, repurchase agreements, prime brokerage agreements and other 
+transactions.
+
+Guarantees of Certain Long-term Debt
+
+The Corporation, as the parent company, fully and unconditionally guarantees the
+securities issued by BofA Finance LLC, a consolidated finance subsidiary of the 
+Corporation, and effectively provides for the full and unconditional guarantee 
+of trust securities and capital securities issued by certain statutory trust 
+companies that are 100 percent owned finance subsidiaries of the Corporation.
+
+Representations and Warranties Obligations and Corporate Guarantees
+
+The Corporation securitizes first-lien residential mortgage loans generally in 
+the form of RMBS guaranteed by the GSEs or by GNMA in the case of FHA-insured, 
+VA-guaranteed and Rural Housing Service-guaranteed mortgage loans, and sells 
+pools of first-lien residential mortgage loans in the form of whole loans. In 
+addition, in prior years, legacy companies and certain subsidiaries sold pools 
+of first-lien residential mortgage loans and home equity loans as private-label 
+securitizations or in the form of whole loans. In connection with these 
+transactions, the Corporation or certain of its subsidiaries or legacy companies
+make and have made various representations and warranties. Breaches of these 
+representations and warranties have resulted in and may continue to result in 
+the requirement to repurchase mortgage loans or to otherwise make whole or 
+provide indemnification or 

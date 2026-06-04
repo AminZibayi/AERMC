@@ -1,0 +1,215 @@
+--- Extracted 'Risk Committee' Snippets ---
+
+--- Snippet 1 ---
+A: Audit Committee                        G&S: Governance and Sustainability Committee      C: Chair   
+  CMDS: Compensation, Management            O&T: Operations and Technology Committee          M: Member  
+  Development and Succession Committee      R: Risk Committee                                            
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  6 MORGAN STANLEY 2026 PROXY STATEMENT  
+
+
+  Overview of Voting Items  
+ ────────────────────────────
+
+  THE MORGAN STANLEY BOARD OF DIRECTORS                                                                                                                                                     
+                                                                                                                              Board Tenure Balance *      Board Composition *               
+                                                                                                                                                          Nominees’ Skills Align with Firm  
+                                                                                                                              Board Independence                                            
+  * Data and metrics are as of the annual meeting and are based on information self-identified by each director nominee.                                                                    
+
+  KEY CORPORATE GOVERNANCE PRACTICES  
+
+  MORGAN STANLEY 2026 PROXY STATEMENT 7  
+
+
+  Overview of Voting Items  
+ ────────────────────────────
+
+  Item 2                                                                                                                                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Ratification of Appointment of Morgan Stanley’s Independent Auditor                                                                   
+  Our Board unanimously recommends that you vote “FOR” the ratification of Deloitte & Touche’s appointment as our independent auditor.  
+  See page 54 for Audit Matters and additional information, including the Audit Committee Report and fees paid to Deloitte & Touche.    
+
+  Item 3                                                                                                                                                                                                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Company Proposal to Approve the Compensation of Executives as Disclosed in the Proxy Statement (Non-Binding Advisory Vote)                                                                            
+  Our Board unanimously recommends that you vote “FOR” this proposal.                                                                                                                                   
+  See page 61 for the “Compensation Discussion and Analysis” (CD&A) and additional information relating to the metrics and certain non-GAAP measures referenced b
+
+--- Snippet 2 ---
+d the responsibilities of management and the Board committees to assist the Board in its risk oversight. The Board has a separate committee responsible for operations and 
+technology, including cybersecurity risk, and the Board receives briefings on cybersecurity.
+
+See “Board Leadership Structure and Role in Risk Oversight - Board Oversight of Cybersecurity Risk,” “Board Meetings and Committees - Committees - Operations and Technology Committee” and “Board Meetings and Committees - Committees - Risk Committee.”
+
+ACCESS TO THE FIRM’S REGULATORS, EMPLOYEES AND INDEPENDENT ADVISORS
+
+Independent directors, including the Independent Lead Director and the Chairs of the Audit, Risk and O&T committees, meet with our primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve) and other global regulators as requested. Directors also have complete and open access to senior members of management and other employees of the Firm. For instance:
+
+  Board members have met with local management and independent control functions throughout the world and have visited several of our global offices.  
+
+  The Independent Lead Director and committee chairs meet with management between regularly scheduled meetings to discuss key items, develop Board and committee agendas and provide feedback regar...  
+
+  The Firm’s Co-Presidents, Chief Audit Officer, Chief Financial Officer (CFO), Chief Legal Officer (CLO) and Chief Administrative Officer (CAO) and Chief Risk Officer (CRO) regularly attend Boar...  
+
+  The CMDS Committee, in conjunction with the entire Board, reviews succession and development plans for the CEO and senior executives on a recurring basis.  
+
+  The Board, the Independent Lead Director and each committee have the right at any time to retain independent financial, legal or other advisors at the Firm’s expense.  
+
+ALIGNMENT WITH SHAREHOLDER INTERESTS
+
+The director equity ownership requirement helps to align director and shareholder interests. Directors also may not enter into hedging transactions in respect of Morgan Stanley common stock or pledge Morgan Stanley common stock in connection with a margin or other loan transaction. See “Director Equity Ownership Requirement.”
+
+  28 MORGAN STANLEY 2026 PROXY STATEMENT  
+
+
+  Corporate Governance Matters  
+
+Director Orientation and Continuing Education
+
+Director education about Morgan Stanley, our strategy, control framework, regulatory environment and our industry begins when a director is elected to our Board and continues throughout his or her tenure on the Board. The G&S Committee oversees an orientation program for new directors, which includes an overview of director duties, our Corporate Governance Policies, Code of Ethics and Business Conduct and other applicable policies. New directors also receive presentations by senior management on
+the Firm’s strategy and regulatory framework, its primary business lines and risk and control framework and have a one-on-one session with the Chairman and CEO.
+
+As directors are appointed to new committees or assume a leadership role, such as committee chair, they receive additional orientation sessions specific to such responsibilities. We also conduct ongoing educational briefings on regulatory and control matters, as well as “deep dive” presentations on certain businesses, emerging risks and focus areas identified by the Board. In addition, we provide directors a listing of educational resources and reimburse directors for reasonable costs incu
+
+--- Snippet 3 ---
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Sustainability
+
+GOVERNANCE
+
+Morgan Stanley considers sustainability and climate, as appropriate, throughout our business, operations and risk management activities.
+
+  Morgan Stanley’s Firm Sustainability Committee has oversight of the Firm’s climate goals and sustainability matters and provides regular reporting to the G&S Committee.  
+
+  Morgan Stanley’s management-level Climate Risk Committee oversees climate risk, with reporting to the Firm Risk Committee and subsequently to the Risk Committee, which oversees climate risk as ...  
+
+  The Audit Committee reviews the Firm’s voluntary public sustainability and climate disclosures.  
+
+  The CMDS Committee assists the Board in its oversight of strategies, policies, practices and disclosures related to human capital management.  
+
+  In addition, our Environmental and Social Policy Statement — reviewed and approved by the Firm Sustainability Committee, Global Franchise Risk Committee and G&S Committee — outlines our approac...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  MORGAN STANLEY 2026 PROXY STATEMENT 33  
+
+
+  Corporate Governance Matters  
+
+Global Sustainability Office
+
+Morgan Stanley’s central team of sustainability professionals is led by our Chief Sustainability Officer.
+
+CLIMATE STRATEGY
+
+  1                                                                                                                                                                    
+  FINANCE                                                                                                                                                              
+  We aim to reach net-zero financed emissions by 2050, with interim 2030 targets. We seek to mobilize $750 billion to support low-carbon and green solutions by 2030.  
+
+  2                                                                                                                                                                                                     
+  RISK                                                                                                                                                                                                  
+  Firm Risk Management and the Operational Risk Department, in partnership with other areas of the Firm, identify, measure, manage and monitor climate-related financial and operational risks, res...  
+
+  3                                                                                        
+  OPERATIONS                                                                               
+  Morgan Stanley has achieved carbon neutrality across our global operations since 2022.*  
+
+  4                                                                                         
+  REPORTING                                                                                 
+  We publish climate-related disclosures in Morgan Stanley’s annual Sustainability Report.  
+
+  For more information, see the 2024 Morgan Stanley Sustainability Report, including the “Maintain Carbon Neutral Status Section,” which is located on our sustainability webpage at www.morganstan...  
+
+  34 MORGAN STANLEY 2026 PROXY STATEMENT  
+
+
+  Corporate Governance Matters  
+
+Community Development
+
+--- Snippet 4 ---
+of the CMDS Committee is a “non-employee director” as defined in Section 16 of the Securities Exchange Act of 1934, as amended.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Each member of the Audit Committee is independent and “financially literate” within the meaning of the NYSE listing standards and each of Robert H. Herz, the Audit Committee Chair, Lynn J. Good...  
+
+  All members of the Risk Committee and the O&T Committee are non-employee directors and a majority of the members of such committees satisfy the independence requirements of the Firm and the NYS...  
+
+  MORGAN STANLEY 2026 PROXY STATEMENT 41  
+
+
+  Corporate Governance Matters  
+
+  AUDIT COMMITTEE (1)                                                                                                                                                                                                          
+  Current Members               Primary Responsibilities                                                                                                                                                                       
+
+  COMPENSATION, MANAGEMENT DEVELOPMENT AND SUCCESSION (CMDS) COMMITTEE                                                                                                                                                                                                            
+  Current Members                                                           Primary Responsibilities                                                                                                                                                                              
+
+  42 MORGAN STANLEY 2026 PROXY STATEMENT  
+
+
+  Corporate Governance Matters  
+
+  GOVERNANCE AND SUSTAINABILITY (G&S) COMMITTEE                                                                                                                                                                                                            
+  Current Members                                    Primary Responsibilities                                                                                                                                                                              
+
+  OPERATIONS AND TECHNOLOGY (O&T) COMMITTEE (2)(3)                                                                                                                                                                                                            
+  Current Members                                       Primary Responsibilities                                                                                                                                                                              
+
+  MORGAN STANLEY 2026 PROXY STATEMENT 43  
+
+
+  Corporate Governance Matters  
+
+  RISK COMMITTEE (4)                                                                                                                                                                                                                   
+  Current Members                Primary Responsibilities                                                                                                                                                                              
+
+  (1)      Effective July 18, 2025, Ms. Good joined the Audit Committee.  
+
+  (2)      Effective at the annual meet
+
+--- Snippet 5 ---
+ing, Mr. Miyachi will conclude service on the Board and the O&T Committee.  
+
+  (3)      Effective upon his election by shareholders, Mr. Itagaki will join the O&T Committee.  
+
+  (4)      Effective May 15, 2025, Mr. Peterson joined the Risk Committee.  
+
+Board Leadership Structure and Role in Risk Oversight
+
+BOARD LEADERSHIP STRUCTURE
+
+The Board is responsible for reviewing the Firm’s leadership structure. As set forth in the Corporate Governance Policies, the Board believes that the Firm and its shareholders are best served by maintaining the flexibility to have any director serve as Chairman based on what is in the best interests of the Firm at a given point in time, taking into consideration, among other things:
+
+  The composition of the Board.  
+
+  The role of the Firm’s Independent Lead Director.  
+
+  The Firm’s strong corporate governance practices.  
+
+  The CEO’s working relationship with the Board.  
+
+  The challenges specific to the Firm.  
+
+The Board has determined that the appointment of a strong Independent Lead Director, as set forth below, together with a combined Chairman and CEO, serves the best interests of the Firm and its shareholders. By serving in both positions, the Chairman and CEO is able to draw on his knowledge of the Firm to provide the Board in coordination with the Independent Lead Director, leadership in focusing its discussions and review of the Firm’s strategy. In addition, a combined role of Chairman and CEO 
+ensures that the Firm presents its message and strategy to its shareholders, employees and clients with a unified voice. The Board elected Mr. Pick, the Firm’s CEO, as Chairman, effective January 1, 2025. The Board believes that it is in the best interest of the Firm and its shareholders for Mr. Pick to serve as Chairman and CEO, considering the strong
+
+  44 MORGAN STANLEY 2026 PROXY STATEMENT  
+
+
+  Corporate Governance Matters  
+
+role of our Independent Lead Director and other corporate governance practices providing independent oversight of management to conclude that having the Board’s current leadership structure serves the best interests of the Firm and its shareholders at the present time.
+
+INDEPENDENT LEAD DIRECTOR
+
+The Corporate Governance Policies provide for an independent and active Independent Lead Director who is appointed and reviewed annually by the independent directors with clearly defined leadership authority and responsibilities.
+
+Our Independent Lead Director, Thomas H. Glocer, was appointed by our other independent directors and as part of his formal duties and responsibilities shall:
+
+                                                                                                                                                                                                         Board Governance                                                                                                                                                                                                                Advising the                                                               
+Board Effectiveness

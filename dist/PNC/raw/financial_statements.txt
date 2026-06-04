@@ -1,0 +1,124 @@
+=== INCOME STATEMENT ===
++-----------------------------------------------------------------------------------------------------------------+
+|                                    PNC FINANCIAL SERVICES GROUP, INC   PNC                                      |
+|                                    CONSOLIDATED STATEMENT OF INCOME                                             |
+|                                    Dec 31, 2023 to Dec 31, 2025                                                 |
+| +-------------------------------------------------------------------------------------------------------------+ |
+| |                                                                | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 | |
+| |----------------------------------------------------------------+--------------+--------------+--------------| |
+| | Interest Income                                                |              |              |              | |
+| |       Loans                                                    |      $18,472 |      $19,346 |      $18,299 | |
+| |       Investment securities                                    |       $4,674 |       $4,123 |       $3,545 | |
+| |       Other                                                    |       $2,161 |       $2,915 |       $2,464 | |
+| |       Total interest income                                    |      $25,307 |      $26,384 |      $24,308 | |
+| | Interest Expense                                               |              |              |              | |
+| |       Deposits                                                 |       $7,497 |       $8,401 |       $6,609 | |
+| |       Borrowed funds                                           |       $3,400 |       $4,484 |       $3,783 | |
+| |       Total interest expense                                   |      $10,897 |      $12,885 |      $10,392 | |
+| |   Net interest income:                                         |      $14,410 |      $13,499 |      $13,916 | |
+| | Noninterest Income                                             |              |              |              | |
+| |     Asset management and brokerage                             |       $1,597 |       $1,485 |       $1,412 | |
+| |     Capital markets and advisory                               |       $1,548 |       $1,250 |         $952 | |
+| |     Card and cash management                                   |       $2,899 |       $2,770 |       $2,733 | |
+| |     Lending and deposit services                               |       $1,310 |       $1,259 |       $1,233 | |
+| |     Residential and commercial mortgage                        |         $571 |         $581 |         $625 | |
+| |   Other income                                                 |              |              |              | |
+| |         Gain on Visa shares exchange program                   |              |         $754 |              | |
+| |         Securities gains (losses)                              |         $(9) |       $(500) |         $(2) | |
+| |         Other                                                  |         $773 |         $457 |         $621 | |
+| |         Total other income                                     |         $764 |         $711 |         $619 | |
+| |       Total noninterest income:                                |       $8,689 |       $8,056 |       $7,574 | |
+| |   Total revenue:                                               |      $23,099 |      $21,555 |      $21,490 | |
+| |   Provision For Credit Losses:                                 |         $779 |         $789 |         $742 | |
+| | Noninterest Expense                                            |              |              |              | |
+| |     Personnel:                                                 |       $7,782 |       $7,302 |       $7,428 | |
+| |     Occupancy                                                  |         $962 |         $954 |         $982 | |
+| |     Equipment                                                  |       $1,606 |       $1,527 |       $1,411 | |
+| |     Marketing                                                  |         $378 |         $362 |         $350 | |
+| |     Other                                                      |       $3,106 |       $3,379 |       $3,841 | |
+| |       Total noninterest expense:                               |      $13,834 |      $13,524 |      $14,012 | |
+| |   Income before income taxes and noncontrolling interests:     |       $8,486 |       $7,242 |       $6,736 | |
+| |   Income taxes:                                                |       $1,489 |       $1,289 |       $1,089 | |
+| |     Net income:                                                |       $6,997 |       $5,953 |       $5,647 | |
+| |     Less: Net income attributable to noncontrolling interests: |          $61 |          $64 |          $69 | |
+| |     Preferred stock dividends                                  |         $308 |         $352 |         $417 | |
+| |     Preferred stock discount accretion and redemptions         |           $9 |           $8 |           $8 | |
+| |   Net income attributable to common shareholders               |       $6,619 |       $5,529 |       $5,153 | |
+| | Earnings Per Common Share                                      |              |              |              | |
+| |     Basic (in dollars per share)                               |        16.60 |        13.76 |        12.80 | |
+| |     Diluted (in dollars per share)                             |        16.59 |        13.74 |        12.79 | |
+| | Average Common Shares Outstanding                              |              |              |              | |
+| |     Basic (shares)                                             |          396 |          399 |          401 | |
+| |     Diluted (shares)                                           |          396 |          400 |          401 | |
+| +-------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) ------------------------------------------+
+
+
+=== BALANCE SHEET ===
++---------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                  PNC FINANCIAL SERVICES GROUP, INC   PNC                                                    |
+|                                                  CONSOLIDATED BALANCE SHEETS                                                                |
+|                                                  Dec 31, 2024 to Dec 31, 2025                                                               |
+| +-----------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                           | Dec 31, 2025 | Dec 31, 2024 | |
+| |-----------------------------------------------------------------------------------------------------------+--------------+--------------| |
+| | Assets                                                                                                    |              |              | |
+| |     Cash and due from banks                                                                               |       $6,777 |       $6,904 | |
+| |     Interest-earning deposits with banks                                                                  |      $32,936 |      $39,347 | |
+| |     Loans held for sale                                                                                   |       $1,939 |         $850 | |
+| |     Investment securities – available-for-sale:                                                           |      $68,135 |      $62,039 | |
+| |     Investment securities – held-to-maturity:                                                             |      $70,105 |      $77,693 | |
+| |     Loans:                                                                                                |     $331,481 |     $316,467 | |
+| |       Total Past Due                                                                                      |       $1,443 |       $1,382 | |
+| |         Current or Less Than 30 Days Past Due                                                             |     $327,583 |     $312,223 | |
+| |         30-59 Days Past Due                                                                               |         $660 |         $697 | |
+| |         60-89 Days Past Due                                                                               |         $403 |         $288 | |
+| |         90 Days or More Past Due                                                                          |         $380 |         $397 | |
+| |       Nonperforming Loans                                                                                 |       $2,218 |       $2,326 | |
+| |       Residential real estate                                                                             |      $43,760 |      $46,415 | |
+| |       Greater than or equal to 780 - Other - Using FICO Credit Metric                                     |         $522 |         $507 | |
+| |       720 to 779 - Other - Using FICO Credit Metric                                                       |         $610 |         $609 | |
+| |       660 to 719 - Other - Using FICO Credit Metric                                                       |         $501 |         $488 | |
+| |       Less than 660 - Other - Using FICO Credit Metric                                                    |         $173 |         $154 | |
+| |       No FICO score available - Home equity                                                               |          $34 |          $59 | |
+| |       Home equity                                                                                         |      $25,941 |      $25,991 | |
+| |       Automobile - Using FICO Credit Metric                                                               |      $16,591 |      $15,355 | |
+| |       No FICO Score Available Or Required - Education - Using FICO Credit Metric                          |          $14 |          $23 | |
+| |       Credit card - Using FICO Credit Metric                                                              |       $7,014 |       $6,879 | |
+| |       Education                                                                                           |       $1,468 |       $1,636 | |
+| |       Other Internal Credit Metrics - Other                                                               |       $2,438 |       $2,269 | |
+| |       Other                                                                                               |       $4,244 |       $4,027 | |
+| |     Allowance for loan and lease losses:                                                                  |     $(4,410) |     $(4,486) | |
+| |     Net loans:                                                                                            |     $327,071 |     $311,981 | |
+| |     Equity investments                                                                                    |      $10,790 |       $9,600 | |
+| |     Mortgage servicing rights:                                                                            |       $3,659 |       $3,711 | |
+| |     Goodwill:                                                                                             |      $10,959 |      $10,932 | |
+| |     Other:                                                                                                |      $41,201 |      $36,981 | |
+| |     Total assets:                                                                                         |     $573,572 |     $560,038 | |
+| | Liabilities                                                                                               |              |              | |
+| |   Deposits                                                                                                |              |              | |
+| |         Noninterest-bearing                                                                               |      $91,748 |      $92,641 | |
+| |         Interest-bearing (b)                                                                              |     $349,118 |     $334,097 | |
+| |         Total deposits                                                                                    |     $440,866 |     $426,738 | |
+| |   Borrowed funds                                                                                          |              |              | |
+| |         Federal Home Loan Bank advances                                                                   |      $13,000 |      $22,000 | |
+| |         Senior debt                                                                                       |      $38,642 |      $32,497 | |
+| |         Subordinated debt:                                                                                |       $3,016 |       $4,104 | |
+| |         Other                                                                                             |       $2,443 |       $3,072 | |
+| |         Total borrowed funds                                                                              |      $57,101 |      $61,673 | |
+| |     Allowance for unfunded lending related commitments:                                                   |         $818 |         $719 | |
+| |     Accrued expenses and other liabilities                                                                |      $14,151 |      $16,439 | |
+| |       Total liabilities:                                                                                  |     $512,936 |     $505,569 | |
+| | Equity                                                                                                    |              |              | |
+| |     Preferred stock                                                                                       |              |              | |
+| |     Common stock ($5 par value, Authorized 800,000,000 shares, issued 543,497,966 and 543,310,646 shares) |       $2,717 |       $2,717 | |
+| |     Capital surplus                                                                                       |      $18,922 |      $18,710 | |
+| |     Retained earnings                                                                                     |      $63,266 |      $59,282 | |
+| |     Accumulated other comprehensive income (loss)                                                         |     $(3,408) |     $(6,565) | |
+| |     Common stock held in treasury at cost: 153,084,091 and 147,373,633 shares                             |    $(20,912) |    $(19,719) | |
+| |     Total shareholders’ equity:                                                                           |      $60,585 |      $54,425 | |
+| |     Noncontrolling interests                                                                              |          $51 |          $44 | |
+| |       Total equity:                                                                                       |      $60,636 |      $54,469 | |
+| |   Total liabilities and equity:                                                                           |     $573,572 |     $560,038 | |
+| +-----------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) ----------------------------------------------------------------------+

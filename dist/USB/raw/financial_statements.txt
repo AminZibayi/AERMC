@@ -1,0 +1,106 @@
+=== INCOME STATEMENT ===
++-----------------------------------------------------------------------------------------------------------------------+
+|                                           US BANCORP \DE\   USB/32                                                    |
+|                                           CONSOLIDATED STATEMENT OF INCOME                                            |
+|                                           Dec 31, 2023 to Dec 31, 2025                                                |
+| +-------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                      | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 | |
+| |----------------------------------------------------------------------+--------------+--------------+--------------| |
+| | Interest Income                                                      |              |              |              | |
+| |     Loans                                                            |      $22,368 |      $23,009 |      $22,324 | |
+| |     Loans held for sale                                              |         $165 |         $173 |         $147 | |
+| |     Investment securities                                            |       $5,398 |       $5,111 |       $4,485 | |
+| |     Other interest income                                            |       $3,039 |       $3,373 |       $3,051 | |
+| |       Total interest income:                                         |      $30,970 |      $31,666 |      $30,007 | |
+| | Interest Expense                                                     |              |              |              | |
+| |     Deposits                                                         |      $10,151 |      $11,688 |       $8,775 | |
+| |     Short-term borrowings                                            |       $1,373 |       $1,107 |       $1,971 | |
+| |     Long-term debt                                                   |       $2,797 |       $2,582 |       $1,865 | |
+| |       Total interest expense:                                        |      $14,321 |      $15,377 |      $12,611 | |
+| |     Net interest income:                                             |      $16,649 |      $16,289 |      $17,396 | |
+| |     Provision for credit losses:                                     |       $2,186 |       $2,238 |       $2,275 | |
+| |   Net interest income after provision for credit losses              |      $14,463 |      $14,051 |      $15,121 | |
+| | Noninterest Income                                                   |              |              |              | |
+| |     Card revenue                                                     |       $1,735 |       $1,679 |       $1,630 | |
+| |     Corporate payment products revenue                               |         $765 |         $773 |         $759 | |
+| |     Merchant processing services                                     |       $1,792 |       $1,714 |       $1,659 | |
+| |     Trust and investment management fees                             |       $2,869 |       $2,660 |       $2,459 | |
+| |     Service charges                                                  |       $1,302 |       $1,253 |       $1,306 | |
+| |     Capital markets revenue                                          |       $1,633 |       $1,523 |       $1,372 | |
+| |     Mortgage banking revenue                                         |         $645 |         $627 |         $540 | |
+| |     Investment products fees                                         |         $375 |         $330 |         $279 | |
+| |     Securities gains (losses), net:                                  |        $(61) |       $(154) |       $(145) | |
+| |     Other:                                                           |         $836 |         $641 |         $758 | |
+| |       Total noninterest income:                                      |      $11,891 |      $11,046 |      $10,617 | |
+| | Noninterest Expense                                                  |              |              |              | |
+| |     Compensation and employee benefits:                              |      $10,327 |      $10,554 |      $10,416 | |
+| |     Net occupancy and equipment                                      |       $1,227 |       $1,246 |       $1,266 | |
+| |     Professional services                                            |         $468 |         $491 |         $560 | |
+| |     Marketing and business development                               |         $705 |         $619 |         $726 | |
+| |     Technology and communications                                    |       $2,211 |       $2,074 |       $2,049 | |
+| |     Other intangibles:                                               |         $498 |         $569 |         $636 | |
+| |     Merger and integration charges                                   |              |          155 |        1,009 | |
+| |     Other:                                                           |       $1,401 |       $1,480 |       $2,211 | |
+| |       Total noninterest expense:                                     |      $16,837 |      $17,188 |      $18,873 | |
+| |   Income before income taxes:                                        |       $9,517 |       $7,909 |       $6,865 | |
+| |   Applicable income taxes:                                           |       $1,921 |       $1,580 |       $1,407 | |
+| |   Net income (loss):                                                 |       $7,596 |       $6,329 |       $5,458 | |
+| |   Net (income) loss attributable to noncontrolling interests:        |        $(26) |        $(30) |        $(29) | |
+| |   Net income (loss) attributable to U.S. Bancorp:                    |       $7,570 |       $6,299 |       $5,429 | |
+| |   Net income applicable to U.S. Bancorp common shareholders          |       $7,194 |       $5,909 |       $5,051 | |
+| |   Net income applicable to U.S. Bancorp common shareholders, diluted |       $7,194 |       $5,909 |       $5,051 | |
+| |   Earnings per common share (in dollars per share)                   |         4.62 |         3.79 |         3.27 | |
+| |   Diluted earnings per common share (in dollars per share)           |         4.62 |         3.79 |         3.27 | |
+| |   Average common shares outstanding (in shares)                      |        1,557 |        1,560 |        1,543 | |
+| |   Average diluted common shares outstanding (in shares)              |        1,558 |        1,561 |        1,543 | |
+| +-------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) ------------------------------------------------+
+
+
+=== BALANCE SHEET ===
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                            US BANCORP \DE\   USB/32                                                                |
+|                                                            CONSOLIDATED BALANCE SHEETS                                                             |
+|                                                            Dec 31, 2024 to Dec 31, 2025                                                            |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                                  | Dec 31, 2025 | Dec 31, 2024 | |
+| |------------------------------------------------------------------------------------------------------------------+--------------+--------------| |
+| |     Assets                                                                                                       |              |              | |
+| |         Cash and due from banks:                                                                                 |      $46,890 |      $56,502 | |
+| |       Investment securities                                                                                      |              |              | |
+| |             Held-to-maturity (fair value $67,079 and $66,275, respectively):                                     |      $76,170 |      $78,634 | |
+| |             Available-for-sale ($294 and $320 pledged as collateral, respectively):                              |      $90,838 |      $85,992 | |
+| |         Loans held for sale (including $2,353 and $2,251 of mortgage loans carried at fair value, respectively)  |       $2,538 |       $2,573 | |
+| |       Loans                                                                                                      |              |              | |
+| |           Total loans:                                                                                           |     $391,335 |     $379,832 | |
+| |           Less allowance for loan losses                                                                         |     $(7,605) |     $(7,583) | |
+| |             Net loans:                                                                                           |     $383,730 |     $372,249 | |
+| |         Premises and equipment                                                                                   |       $3,768 |       $3,565 | |
+| |         Goodwill:                                                                                                |      $12,635 |      $12,536 | |
+| |         Other intangible assets                                                                                  |       $4,904 |       $5,547 | |
+| |         Other assets (including $2,585 and $7,501 of trading securities at fair value pledged as collateral,     |      $70,872 |      $60,720 | |
+| | respectively):                                                                                                   |              |              | |
+| |         Total assets:                                                                                            |     $692,345 |     $678,318 | |
+| |     Liabilities and Shareholders’ Equity                                                                         |              |              | |
+| |       Deposits                                                                                                   |              |              | |
+| |             Noninterest-bearing                                                                                  |      $84,116 |      $84,158 | |
+| |             Interest-bearing (including $718 and $5,754 of time deposits carried at fair value, respectively)    |     $438,100 |     $434,151 | |
+| |             Total deposits                                                                                       |     $522,216 |     $518,309 | |
+| |         Short-term borrowings:                                                                                   |      $17,162 |      $15,518 | |
+| |         Long-term debt (including $1,414 and $391 of long-term debt carried at fair value, respectively):        |      $60,764 |      $58,002 | |
+| |         Other liabilities:                                                                                       |      $26,552 |      $27,449 | |
+| |         Total liabilities:                                                                                       |     $626,694 |     $619,278 | |
+| |       Shareholders’ equity                                                                                       |              |              | |
+| |           Preferred stock:                                                                                       |       $6,808 |       $6,808 | |
+| |           Common stock, $.01 par value per share, authorized: 4,000,000,000 shares; issued: 2025 and 2024        |          $21 |          $21 | |
+| | —2,125,725,742 shares                                                                                            |              |              | |
+| |           Capital surplus                                                                                        |       $8,728 |       $8,715 | |
+| |           Retained earnings                                                                                      |      $80,906 |      $76,863 | |
+| |           Less cost of common stock in treasury: 2025 — 570,328,105 shares; 2024 — 565,929,654 shares            |    $(24,283) |    $(24,065) | |
+| |           Accumulated other comprehensive income (loss)                                                          |     $(6,987) |     $(9,764) | |
+| |           Total U.S. Bancorp shareholders’ equity:                                                               |      $65,193 |      $58,578 | |
+| |           Noncontrolling interests                                                                               |         $458 |         $462 | |
+| |             Total equity:                                                                                        |      $65,651 |      $59,040 | |
+| |         Total liabilities and equity:                                                                            |     $692,345 |     $678,318 | |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) -----------------------------------------------------------------------------+

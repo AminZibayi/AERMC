@@ -1,0 +1,6 @@
+"Scenario","Trigger","Primary_Risk_Channel","Severity","Source_Anchor"
+"S1","Geopolitical escalation in Eastern Europe or Middle East","Macroeconomic shock to Emerging Markets revenues (~25% of total) and credit quality","High","[^1][^2]"
+"S2","US-Iran military escalation disrupting oil supply","Inflation spike leading to rate hikes, NIM compression, and corporate credit deterioration in energy-exposed portfolios","High","[^3][^4]"
+"S3","Federal rate cuts of 150-200 bps","NIM compression reducing NII below  threshold, impacting net income generation and CET1 accumulation","Medium","[^5][^1]"
+"S4","AI-driven operational disruption or cyberattack","Technology systems failure affecting transaction processing and client data confidentiality","High","[^6][^7]"
+"S5","US commercial real estate systemic stress","CRE loan defaults driving higher PCL from corporate portfolio, eroding CET1 capital buffer","Medium","[^8][^9]"

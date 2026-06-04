@@ -1,0 +1,116 @@
+=== INCOME STATEMENT ===
++-----------------------------------------------------------------------------------------------------------------+
+|                                        MORGAN STANLEY   MS/29                                                   |
+|                                        CONSOLIDATED STATEMENT OF INCOME                                         |
+|                                        Dec 31, 2023 to Dec 31, 2025                                             |
+| +-------------------------------------------------------------------------------------------------------------+ |
+| |                                                                | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 | |
+| |----------------------------------------------------------------+--------------+--------------+--------------| |
+| | Revenues                                                       |              |              |              | |
+| |     Investment banking:                                        |       $8,199 |       $6,705 |       $4,948 | |
+| |     Trading:                                                   |      $18,556 |      $16,763 |      $15,263 | |
+| |       Interest rates                                           |       $4,358 |       $5,901 |       $4,646 | |
+| |       Foreign exchange                                         |       $1,698 |       $1,170 |       $1,054 | |
+| |       Equity                                                   |      $11,937 |       $9,005 |       $8,929 | |
+| |       Commodities                                              |       $1,967 |       $2,003 |       $1,624 | |
+| |       Credit                                                   |     $(1,404) |     $(1,316) |       $(990) | |
+| |     Investments:                                               |       $1,351 |         $824 |         $573 | |
+| |     Commissions and fees:                                      |       $5,936 |       $5,094 |       $4,537 | |
+| |     Asset management:                                          |      $25,145 |      $22,499 |      $19,617 | |
+| |     Other:                                                     |       $1,412 |       $1,265 |         $975 | |
+| |     Total non-interest revenues:                               |      $60,599 |      $53,150 |      $45,913 | |
+| |     Interest income:                                           |      $59,063 |      $54,135 |      $45,849 | |
+| |     Interest expense:                                          |      $49,017 |      $45,524 |      $37,619 | |
+| |     Net interest:                                              |      $10,046 |       $8,611 |       $8,230 | |
+| |       Net revenues:                                            |      $70,645 |      $61,761 |      $54,143 | |
+| |       Provision for credit losses:                             |         $349 |         $264 |         $532 | |
+| | Non-interest expenses                                          |              |              |              | |
+| |     Compensation and benefits:                                 |      $29,216 |      $26,178 |      $24,558 | |
+| |     Brokerage, clearing and exchange fees                      |       $4,679 |       $4,140 |       $3,476 | |
+| |     Information processing and communications                  |       $4,418 |       $4,088 |       $3,775 | |
+| |     Professional services                                      |       $2,839 |       $2,901 |       $3,058 | |
+| |     Occupancy and equipment                                    |       $1,872 |       $1,905 |       $1,895 | |
+| |     Marketing and business development                         |       $1,173 |         $965 |         $898 | |
+| |     Other:                                                     |       $4,145 |       $3,724 |       $4,138 | |
+| |       Total non-interest expenses:                             |      $48,342 |      $43,901 |      $41,798 | |
+| |   Income before provision for income taxes:                    |      $21,954 |      $17,596 |      $11,813 | |
+| |   Provision for income taxes:                                  |       $4,929 |       $4,067 |       $2,583 | |
+| |   Net income:                                                  |      $17,025 |      $13,529 |       $9,230 | |
+| |   Net income applicable to noncontrolling interests:           |         $164 |         $139 |         $143 | |
+| |   Net income applicable to Morgan Stanley:                     |      $16,861 |      $13,390 |       $9,087 | |
+| |   Preferred stock dividends:                                   |         $612 |         $590 |         $557 | |
+| |   Earnings applicable to Morgan Stanley common shareholders:   |      $16,249 |      $12,800 |       $8,530 | |
+| | Earnings per common share                                      |              |              |              | |
+| |     Earnings per common share - basic (in dollars per share)   |        10.32 |         8.04 |         5.24 | |
+| |     Earnings per common share - diluted (in dollars per share) |        10.21 |         7.95 |         5.18 | |
+| | Average common shares outstanding                              |              |              |              | |
+| |     Basic (in shares)                                          |        1,574 |        1,591 |        1,628 | |
+| |     Diluted (in shares)                                        |        1,592 |        1,611 |        1,646 | |
+| +-------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) ------------------------------------------+
+
+
+=== BALANCE SHEET ===
++--------------------------------------------------------------------------------------------------------------------------------------+
+|                                                     MORGAN STANLEY   MS/29                                                           |
+|                                                     CONSOLIDATED BALANCE SHEETS                                                      |
+|                                                     Dec 31, 2024 to Dec 31, 2025                                                     |
+| +----------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                    | Dec 31, 2025 | Dec 31, 2024 | |
+| |----------------------------------------------------------------------------------------------------+--------------+--------------| |
+| | Assets                                                                                             |              |              | |
+| |     Cash and cash equivalents:                                                                     |     $111,695 |     $105,386 | |
+| |     Trading assets at fair value ($213,269 and $148,945 were pledged to various parties):          |     $428,276 |     $331,884 | |
+| |   Investment securities:                                                                           |              |              | |
+| |       Available-for-sale at fair value (amortized cost of $112,522 and $101,960):                  |     $110,466 |      $98,608 | |
+| |       Held-to-maturity (fair value of $45,615 and $51,203):                                        |      $53,090 |      $61,071 | |
+| |     Securities purchased under agreements to resell (includes $— and $— at fair value)             |     $120,243 |     $118,565 | |
+| |     Securities borrowed:                                                                           |     $151,908 |     $123,859 | |
+| |     Customer and other receivables:                                                                |     $114,720 |      $86,158 | |
+| |       Currently employed by the Firm - Related Party                                               |       $4,769 |       $4,255 | |
+| |       No longer employed by the Firm - Related Party                                               |          $89 |          $83 | |
+| |   Loans:                                                                                           |              |              | |
+| |       Held for investment (net of allowance for credit losses of $1,132 and $1,066):               |     $268,720 |     $225,834 | |
+| |       Held for sale:                                                                               |       $9,374 |      $12,319 | |
+| |     Goodwill:                                                                                      |      $16,726 |      $16,706 | |
+| |     Intangible assets (net of accumulated amortization of $1,882 and $5,445)                       |       $6,010 |       $6,453 | |
+| |     Other assets:                                                                                  |      $29,042 |      $28,228 | |
+| |     Total assets:                                                                                  |   $1,420,270 |   $1,215,071 | |
+| | Liabilities                                                                                        |              |              | |
+| |     Deposits (includes $8,755 and $6,499 at fair value):                                           |     $415,523 |     $376,007 | |
+| |     Trading liabilities at fair value:                                                             |     $169,569 |     $153,764 | |
+| |     Securities sold under agreements to repurchase (includes $696 and $956 at fair value):         |      $78,539 |      $50,067 | |
+| |     Securities loaned:                                                                             |      $17,310 |      $15,226 | |
+| |     Other secured financings (includes $16,871 and $14,088 at fair value):                         |      $21,603 |      $21,602 | |
+| |     Customer and other payables:                                                                   |     $226,519 |     $175,938 | |
+| |     Other liabilities and accrued expenses:                                                        |      $29,620 |      $28,220 | |
+| |     Borrowings (includes $132,479 and $103,332 at fair value):                                     |     $348,935 |     $288,819 | |
+| |       Total liabilities:                                                                           |   $1,307,618 |   $1,109,643 | |
+| |   Commitments and contingent liabilities (see Note 14)                                             |              |              | |
+| | Equity                                                                                             |              |              | |
+| |       Preferred stock:                                                                             |       $9,750 |       $9,750 | |
+| |       Non-Cumulative Preferred Stock, Series A, $0.01 par value                                    |       $1,100 |       $1,100 | |
+| |       Series C                                                                                     |         $408 |         $408 | |
+| |       Non-Cumulative Preferred Stock, Series E, $0.01 par value                                    |         $862 |         $862 | |
+| |       Non-Cumulative Preferred Stock, Series F, $0.01 par value                                    |         $850 |         $850 | |
+| |       Non-Cumulative Preferred Stock, Series I, $0.01 par value                                    |       $1,000 |       $1,000 | |
+| |       Non-Cumulative Preferred Stock, Series K, $0.01 par value                                    |       $1,000 |       $1,000 | |
+| |       Non-Cumulative Preferred Stock, Series L, $0.01 par value                                    |         $500 |         $500 | |
+| |       Series M                                                                                     |         $430 |         $430 | |
+| |       Series N                                                                                     |         $300 |         $300 | |
+| |       Series O                                                                                     |       $1,300 |       $1,300 | |
+| |       Series P                                                                                     |       $1,000 |       $1,000 | |
+| |       Series Q                                                                                     |       $1,000 |       $1,000 | |
+| |       Common stock:                                                                                |          $20 |          $20 | |
+| |       Additional paid-in capital:                                                                  |      $31,153 |      $30,179 | |
+| |       Retained earnings:                                                                           |     $115,091 |     $104,989 | |
+| |       Employee stock trusts:                                                                       |       $5,154 |       $5,103 | |
+| |       Accumulated other comprehensive income (loss):                                               |     $(6,285) |     $(6,814) | |
+| |       Common stock held in treasury at cost, $0.01 par value (456,059,842 and 432,240,273 shares): |    $(38,097) |    $(33,613) | |
+| |       Common stock issued to employee stock trusts:                                                |     $(5,154) |     $(5,103) | |
+| |     Total Morgan Stanley shareholders’ equity                                                      |     $111,632 |     $104,511 | |
+| |     Noncontrolling interests:                                                                      |       $1,020 |         $917 | |
+| |       Total equity:                                                                                |     $112,652 |     $105,428 | |
+| |   Total liabilities and equity:                                                                    |   $1,420,270 |   $1,215,071 | |
+| +----------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) ---------------------------------------------------------------+

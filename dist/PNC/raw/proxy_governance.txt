@@ -1,0 +1,123 @@
+--- Extracted 'Risk Committee' Snippets ---
+
+--- Snippet 1 ---
+loped               ∎                                                                                                                                                                                                                                                 
+                               (1) Audit Committee                                                                                                                                                                                       (4) Risk Committee                      
+                               (2) Human Resources Committee                                                                                                                                                                             (5) Corporate Responsibility Committee  
+                               (3) Nominating and Governance Committee                                                                                                                                                                   (6) Technology Committee                
+  CEO / senior executive       ∎                                                                                                                                                                                                                                                 
+  Director education:          ∎                                                                                                                                                                                                                                                 
+  Board evaluations:           ∎                                                                                                                                                                                                                                                 
+
+   8      THE PNC FINANCIAL SERVICES GROUP, INC. - 2026 Proxy Statement  
+
+
+PROXY STATEMENT SUMMARY
+
+  Retirement policy:       ∎                                                                                                                                                                           
+  Directors’ external      ∎                                                                                                                                                                           
+
+Item 2 - Ratification of independent registered public accounting firm
+
+The Board recommends voting “FOR” the proposal to ratify the selection of PricewaterhouseCoopers LLP as PNC’s independent registered public accounting firm for 2026.
+
+The Audit Committee of the Board is responsible for the appointment, compensation, evaluation, retention and oversight of PNC’s independent auditors. The Audit Committee has selected PricewaterhouseCoopers LLP as the independent auditors who shall audit the consolidated financial statements of PNC and its subsidiaries for the year ending December 31, 2026. The Audit Committee and the Board believe the continued retention of PricewaterhouseCoopers LLP is in the best interest of PNC.
+
+  THE PNC FINANCIAL SERVICES GROUP, INC. - 2026 Proxy Statement       9  
+
+
+PROXY STATEMENT SUMMARY
+
+Item 3 - Advisory vote to approve named executive officer compensation
+
+The Board recommends voting “FOR” the advisory resolution to approve the compensation of PNC’s named executive officers as described in the Compensation discussion and analysis, compensation tables and re
+
+--- Snippet 2 ---
+risk types associated with PNC’s business activities are credit, capital and liquidity management, market and operational 
+(which includes, among other types of risk, compliance and information security). The descriptions of committee responsibilities in this proxy statement are qualified in each case by reference to the applicable committee charter and the relevant provisions of our bylaws. For more information about the Board’s committees, see “ - Board committees” in this proxy statement.
+
+  Risk Committee                                                                                                                                                       Audit Committee                                                                                                                                                      Technology Committee                                                                                                                                                    
+  ∎                                                                                                                                                                    ∎                                                                                                                                                                    ∎                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  Oversee the enterprise-wide risk governance framework;                                                                                                               Oversee accounting and auditing matters and internal control over financial reporting;                                                                               Oversee technology strategy and significant technology initiatives and programs;                                                                                        
+  ∎
+
+--- Snippet 3 ---
+Serve as the principal point of contact between the Board and the management-level risk committees;                                                                  Monitor legal and regulatory matters, if any, that may have a material impact on the financial statements;                                                           Oversee PNC’s business recovery, continuity and contingency plans;                                                                                                      
+  ∎                                                                                                                                                                    ∎                                                                                                                                                                    ∎                                                                                                                                                                       
+  Serve as the principal point of contact between the Board and the management-level risk committees;                                                                  Monitor legal and regulatory matters, if any, that may have a material impact on the financial statements;                                                           Oversee PNC’s business recovery, continuity and contingency plans;                                                                                                      
+  ∎                                                                                                                                                                    ∎                                                                                                                                                                    ∎
+
+--- Snippet 4 ---
+to help ensure emerging risks and trends are identified and considered in our ongoing risk identification, assessment, monitoring and reporting frameworks. Engagements with external parties include memberships in industry trade groups, consultations with industry experts and formal engagements with independent consultants. As new or emerging risks are identified, PNC evaluates the comprehensiveness of our 
+existing ERM Framework to identify, assess, monitor and manage those risks.
+
+The Board’s Risk Committee receives regular reports from the Chief Risk Officer and PNC’s Chief Compliance Officer (who is a member of the Chief Risk Officer’s IRM organization) on matters such as PNC’s risk profile; significant existing, new or emerging risks; significant initiatives to identify, assess, monitor and manage such risks; and the functioning of the IRM organization.
+
+For more information about PNC’s enterprise risk management, see the “Risk Management” section of the 2025 Form 10-K.
+
+  36      THE PNC FINANCIAL SERVICES GROUP, INC. - 2026 Proxy Statement  
+
+
+BOARD’S ROLE IN CORPORATE GOVERNANCE
+
+Highlighted areas of Board oversight
+
+We believe our enterprise risk management structure enables appropriate Board oversight of the business affairs that could materially affect our ability to execute on our enterprise strategy. Below is a summary of how the Board conducts its oversight function in selected key areas.
+
+Cybersecurity and technology
+
+The use of technology is critical to our ability to maintain or enhance the competitiveness of our business. The need to ensure proper functioning and resiliency of our information and communications systems and other technology has become more important and more challenging, and the costs involved in that effort continue to be high.
+
+The Board maintains governance and oversight of the risks posed by cybersecurity threats and the use of technology through its Technology Committee and Risk Committee.
+
+The Technology Committee (1) assists the Board with the oversight of technology strategy and significant technology initiatives and programs, including those that can position the use of technology to drive strategic advantages, and (2) provides Board-level oversight of technology risk, information management and security risks (including data risk, cybersecurity, cyber fraud and physical security risks), and the adequacy of PNC’s business recovery, resiliency and contingency plans and test 
+results.
+
+The Technology Committee is informed of cyber threats and risks through multiple mechanisms:
+
+  The Chief Information Security Officer presents quarterly to the Technology Committee on such topics as threat intelligence and assessment reports, incident and event reporting from other insti...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  The Chief Technology Risk Officer presents quarterly to the Technology Committee on inherent information security risks, the maturity and completeness of the control environment and measurement...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+The Risk Committee oversees PNC’s ERM Framework, which includes cybersecurity risk, as represented by the Information Security domain, alongsi
+
+--- Snippet 5 ---
+de seven other operational risk domains. The Chief Risk Officer reports quarterly to the Risk Committee on overall risks across the ERM Framework.
+
+Human capital management and executive succession planning
+
+Our performance and competitive position depend on our ability to attract, develop and retain high-performing employees. Our access to talent is critical as we seek to expand into new markets, develop new product lines or enhance staffing in certain areas, particularly technology. As part of its role in risk oversight, the Board is responsible for reviewing and approving PNC’s talent management program. The Board has delegated to the HR Committee responsibility for oversight of PNC’s programs, 
+policies and practices related to talent and human capital strategy; the recruitment, development, retention and advancement of talent; employee engagement, health, safety and well-being; and corporate culture.
+
+The Board also works with the HR Committee to review and evaluate the development of the executive management succession plan for potential successors to the CEO and other executive officers (excluding the General Auditor and Chief Risk Officer, whose succession planning is handled by the Audit Committee and the Risk Committee, respectively). At least annually, the HR Committee reviews a succession planning report from PNC’s talent management function. The report typically includes a discussion 
+of the individual performance of each executive officer, as well as succession plans and development initiatives for other emerging talent. Our CEO also contributes his recommendations and evaluations of potential successors and guidance on the development plans for those individuals. The executive management succession plan, including for the CEO, is reviewed with the full Board from time to time. Succession planning encompasses both long-term succession scenarios and contingencies or unplanned
+scenarios.
+
+  THE PNC FINANCIAL SERVICES GROUP, INC. - 2026 Proxy Statement      37  
+
+
+BOARD’S ROLE IN CORPORATE GOVERNANCE
+
+Board leadership
+
+The Board strives to maintain a governance structure that enables appropriate Board oversight of PNC’s business, operations and enterprise strategy.
+
+Guiding principles
+
+Our corporate governance guidelines articulate the following general principles on Board leadership:
+
+  The Board’s leadership structure should be flexible enough to accommodate different circumstances.  
+
+  The Board shall appoint one of the directors to serve as the Chair. The roles of the Chair and the CEO may be filled by the same or different individuals; the Board has not adopted a policy wit...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  The Board shall also appoint an independent director to serve as the Presiding Director or lead independent director. The Presiding Director shall have a key role in board governance and serve ...  
+
+Annual review of leadership structure
+
+The Board review

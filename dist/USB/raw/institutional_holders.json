@@ -1,0 +1,42 @@
+[
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Blackrock Inc.",
+    "pctHeld": 0.0828,
+    "Shares": 128368759,
+    "Value": 7119331256,
+    "pctChange": -0.0063
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Vanguard Capital Management LLC",
+    "pctHeld": 0.065,
+    "Shares": 100884405,
+    "Value": 5595049008,
+    "pctChange": 1.0
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "State Street Corporation",
+    "pctHeld": 0.044699997,
+    "Shares": 69408539,
+    "Value": 3849397509,
+    "pctChange": -0.0042
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "JPMORGAN CHASE & CO",
+    "pctHeld": 0.0398,
+    "Shares": 61683367,
+    "Value": 3420959477,
+    "pctChange": 0.271
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "FMR, LLC",
+    "pctHeld": 0.0369,
+    "Shares": 57171830,
+    "Value": 3170749639,
+    "pctChange": -0.085
+  }
+]

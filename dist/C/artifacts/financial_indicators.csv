@@ -1,0 +1,20 @@
+Metric,FY2025,FY2024,FY2023,Unit,Source
+Total_Revenue,85225,80139,78462,,10-K Income Statement
+Net_Interest_Income,59792,54095,54900,,10-K Income Statement
+Noninterest_Income,25433,26627,23166,,10-K Income Statement
+Total_Provisions_for_Credit_Losses,10265,10109,9186,,10-K Income Statement
+Provision_for_Credit_Losses_on_Loans,9497,9726,7786,,10-K Income Statement
+Total_Operating_Expenses,55132,53567,55970,,10-K Income Statement
+Income_from_Continuing_Operations_Before_Tax,19828,17046,12910,,10-K Income Statement
+Net_Income,14306,12682,9228,,10-K Income Statement
+Total_Assets,2657202,2352945,2411834,,10-K Balance Sheet
+Stockholders_Equity,212291,208598,205453,,10-K Balance Sheet
+Total_Loans,732983,675914,N/A,,10-K Balance Sheet
+Total_Deposits,1403573,1284458,N/A,,10-K Balance Sheet
+Goodwill,19098,19300,20098,,10-K Balance Sheet
+Long_Term_Debt,315827,287300,286619,,10-K Balance Sheet
+ROE,6.74,6.08,4.49,Percent,Derived (Net Income / Parent Equity)
+Efficiency_Ratio,64.69,N/A,N/A,Percent,Derived
+Net_Margin,16.79,N/A,N/A,Percent,Derived
+Basic_EPS,7.11,6.03,4.07,USD,10-K Income Statement
+Diluted_EPS,6.99,5.95,4.04,USD,10-K Income Statement

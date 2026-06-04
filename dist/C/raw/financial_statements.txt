@@ -1,0 +1,143 @@
+=== INCOME STATEMENT ===
+                                                                                                                                           
+                                                     CITIGROUP INC   C/29A                                                                 
+                                                     CONSOLIDATED STATEMENT OF INCOME                                                      
+                                                     Dec 31, 2023 to Dec 31, 2025                                                          
+                                                                                                                                           
+                                                                                             Dec 31, 2025   Dec 31, 2024   Dec 31, 2023    
+   ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────   
+    Revenues                                                                                                                               
+        Interest income                                                                          $142,864       $143,713       $133,258    
+        Interest expense:                                                                         $83,072        $89,618        $78,358    
+        Net interest income:                                                                      $59,792        $54,095        $54,900    
+      Commissions and fees:                                                                       $11,169        $10,236         $8,509    
+      Principal transactions:                                                                     $10,235        $11,109         $8,281    
+        Interest rate contracts                                                                    $1,394         $1,771         $2,045    
+        Foreign exchange risks                                                                     $6,129         $5,409         $3,851    
+        Equity risks                                                                               $2,119         $2,339         $1,267    
+        Commodity and other risks                                                                    $966         $1,374         $1,741    
+        Credit products and risks                                                                  $(373)           $216         $(623)    
+      Administration and other fiduciary fees:                                                      4,414          4,134          3,781    
+        Custody fees                                                                               $2,148         $2,026         $1,871    
+        Fiduciary fees                                                                             $1,728         $1,583         $1,376    
+        Guarantee fees                                                                               $538           $525           $534    
+        Administration and other fiduciary fees                                                     4,414          4,134          3,781    
+      Realized gains on sales of investments, net                                                    $471           $328           $188    
+      Net impairment losses on investments recognized in earnings                                  $(352)         $(430)         $(327)    
+      Other revenue                                                                                $(504)         $1,250         $2,734    
+      Total non-interest revenues:                                                                $25,433        $26,627        $23,166    
+      Total revenues, net of interest expense:                                                    $85,225        $80,722        $78,066    
+    Provisions for credit losses and for benefits and claims                                                                               
+        Provision for credit losses on loans:                                                      $9,497         $9,726         $7,786    
+        Provision (release) for credit losses on HTM debt securities                                  $12            $50          $(24)    
+        Provision for credit losses on other assets:                                                 $467           $362         $1,762    
+          Deposits with banks, net of allowance                                                      $(2)           $(7)          $(19)    
+          Securities borrowed and purchased under agreements to resell                                 $2          $(23)            $14    
+          All other assets                                                                           $467           $392         $1,767    
+        Policyholder benefits and claims                                                              $87            $90            $87    
+        Provision (release) for credit losses on unfunded lending commitments                        $202         $(119)         $(425)    
+        Total provisions for credit losses and for benefits and claims:                           $10,265        $10,109         $9,186    
+    Operating expenses                                                                                                                     
+        Compensation and benefits:                                                                $29,639        $28,542        $29,232    
+        Technology/communication                                                                   $9,423         $9,035         $9,106    
+        Transactional and product servicing                                                        $4,575         $4,438         $3,980    
+        Premises and equipment                                                                     $2,477         $2,438         $2,508    
+        Professional services                                                                      $2,073         $2,016         $2,078    
+        Advertising and marketing                                                                  $1,097         $1,113         $1,393    
+        Restructuring:                                                                              $(14)           $259           $781    
+          Personnel costs                                                                           $(14)           $208           $687    
+          Other                                                                                                      $51            $94    
+        Other operating                                                                            $5,862         $5,726         $6,892    
+        Total operating expenses:                                                                 $55,132        $53,567        $55,970    
+      Income from continuing operations before income taxes:                                       19,828         17,046         12,910    
+      Provision (benefit) for income taxes:                                                     $5,373.00      $4,211.00      $3,528.00    
+      Income from continuing operations:                                                           14,455         12,835          9,382    
+    Discontinued operations                                                                                                                
+          Income (loss) from discontinued operations                                                  (3)            (2)            (1)    
+          Benefit for income taxes                                                                                                         
+          Income (loss) from discontinued operations, net of taxes                                    (3)            (2)            (1)    
+      Net Income (Loss), Including Portion Attributable to Noncontrolling Interest, Total:        $14,452        $12,833         $9,381    
+      Noncontrolling interests                                                                       $146           $151           $153    
+      Net income:                                                                                 $14,306        $12,682         $9,228    
+    Basic earnings per share                                                                                                               
+          Income from continuing operations (in dollars per share)                                   7.11           6.03           4.07    
+          Loss from discontinued operations, net of taxes (in dollars per share)                                                           
+        Net income (in dollars per share)                                                            7.11           6.03           4.07    
+      Weighted-average common shares outstanding (in shares)                                       18,320         19,014         19,301    
+    Diluted earnings per share                                                                                                             
+          Income from continuing operations (in dollars per share)                                   6.99           5.95           4.04    
+          Loss from discontinued operations, net of taxes (in dollars per share)                                                           
+        Net income (in dollars per share)                                                            6.99           5.94           4.04    
+      Adjusted weighted-average common shares outstanding (in shares)                              18,731         19,401         19,558    
+                                                                                                                                           
+   Source: SEC XBRL  •  (In millions, except shares in scaled by 100,000 and per share data)                                               
+
+
+=== BALANCE SHEET ===
+                                                                                                                                                      
+                                                             CITIGROUP INC   C/29A                                                                    
+                                                             CONSOLIDATED BALANCE SHEETS                                                              
+                                                             Dec 31, 2024 to Dec 31, 2025                                                             
+                                                                                                                                                      
+                                                                                                                       Dec 31, 2025   Dec 31, 2024    
+   ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────   
+        Assets                                                                                                                                        
+            Cash and due from banks (including segregated cash and other deposits):                                         $23,717        $22,782    
+            Deposits with banks, net of allowance:                                                                         $325,862       $253,750    
+            Securities borrowed and purchased under agreements to resell (including $206,110 and $140,855 as of            $356,195       $274,062    
+    December 31, 2025 and 2024, respectively, at fair value), net of allowance:                                                                       
+            Brokerage receivables, net of allowance                                                                         $62,679        $50,841    
+            Trading account assets (including $228,816 and $193,291 pledged to creditors as of December 31, 2025 and       $537,139       $442,747    
+    2024, respectively):                                                                                                                              
+          Investments:                                                                                                                                
+              Available-for-sale debt securities (including $4,931 and $5,389 pledged to creditors as of December          $246,720       $226,876    
+    31, 2025 and 2024, respectively):                                                                                                                 
+              Held-to-maturity debt securities, net of allowance (fair value of which is $179,520 and $224,410 as of       $189,831       $242,382    
+    December 31, 2025 and 2024, respectively) (includes $70 and $0 pledged to creditors as of December 31, 2025 and                                   
+    2024, respectively):                                                                                                                              
+              Equity securities (including $921 and $578 as of December 31, 2025 and 2024, respectively, at fair             $7,678         $7,399    
+    value):                                                                                                                                           
+                Total investments:                                                                                         $444,229       $476,657    
+          Loans:                                                                                                                                      
+              Loans, net of unearned income:                                                                               $752,230       $694,488    
+                Corporate                                                                                                  $343,697       $301,386    
+                Consumer loans                                                                                             $408,533       $393,102    
+              Allowance for credit losses on loans (ACLL):                                                                $(19,247)      $(18,574)    
+                Consumer loans                                                                                            $(16,194)      $(16,018)    
+                Corporate                                                                                                  $(3,053)       $(2,556)    
+                Total loans, net:                                                                                          $732,983       $675,914    
+            Goodwill:                                                                                                       $19,098        $19,300    
+            Intangible assets (including MSRs of $759 and $760 as of December 31, 2025 and 2024, respectively)               $4,284         $4,494    
+            Premises and equipment, net of depreciation and amortization                                                    $33,339        $30,192    
+            Other assets (including $15,840 and $13,703 as of December 31, 2025 and 2024, respectively, at fair            $117,677       $102,206    
+    value), net of allowance:                                                                                                                         
+            Total assets:                                                                                                $2,657,202     $2,352,945    
+        Liabilities                                                                                                                                   
+            Deposits (including $4,222 and $3,608 as of December 31, 2025 and 2024, respectively, at fair value):        $1,403,573     $1,284,458    
+            Securities loaned and sold under agreements to repurchase (including $199,422 and $49,154 as of December       $348,098       $254,755    
+    31, 2025 and 2024, respectively, at fair value):                                                                                                  
+            Brokerage payables (including $5,492 and $5,207 as of December 31, 2025 and 2024, respectively, at fair         $74,836        $66,601    
+    value):                                                                                                                                           
+            Trading account liabilities:                                                                                   $162,798       $133,846    
+            Short-term borrowings (including $21,567 and $12,484 as of December 31, 2025 and 2024, respectively, at         $51,878        $48,505    
+    fair value):                                                                                                                                      
+            Long-term debt (including $130,726 and $112,719 as of December 31, 2025 and 2024, respectively, at fair        $315,827       $287,300    
+    value):                                                                                                                                           
+            Other liabilities, plus allowances:                                                                             $86,370        $68,114    
+              Total liabilities:                                                                                         $2,443,380     $2,143,579    
+        Stockholders’ equity                                                                                                                          
+              Preferred stock ($1.00 par value; authorized shares: 30 million), issued shares: as of December 31,           $20,050        $17,850    
+    2025—802,000 and as of December 31, 2024—714,000, at aggregate liquidation value:                                                                 
+              Common stock ($0.01 par value; authorized shares: 6 billion), issued shares: as of December 31, 2025              $31            $31    
+    —3,099,752,593 and as of December 31, 2024—3,099,719,006                                                                                          
+              Additional paid-in capital                                                                                   $108,452       $109,117    
+              Retained earnings                                                                                            $215,128       $206,294    
+              Treasury stock, at cost: December 31, 2025—1,352,205,592 shares and December 31, 2024—1,222,647,540         $(89,473)      $(76,842)    
+    shares                                                                                                                                            
+              Accumulated other comprehensive income (loss) (AOCI)                                                        $(41,897)      $(47,852)    
+            Total Citigroup stockholders’ equity                                                                           $212,291       $208,598    
+            Noncontrolling interests                                                                                         $1,531           $768    
+              Total equity:                                                                                                $213,822       $209,366    
+          Total liabilities and equity:                                                                                  $2,657,202     $2,352,945    
+                                                                                                                                                      
+   Source: SEC XBRL  •  (In millions, except shares and per share data)                                                                               

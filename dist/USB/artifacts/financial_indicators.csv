@@ -1,0 +1,30 @@
+Metric,FY2025,FY2024,FY2023,Unit,Source
+Total Revenue,28656,27891,27623,$M,10-K Income Statement (derived)
+Net Interest Income,16649,16289,17396,$M,10-K Income Statement
+Noninterest Income,11891,11046,10617,$M,10-K Income Statement
+Total Noninterest Expense,16837,17188,18873,$M,10-K Income Statement
+Net Income (Attributable to U.S. Bancorp),7570,6299,5429,$M,10-K Income Statement
+EPS (Diluted),4.62,3.79,3.27,$/share,10-K Income Statement
+Total Assets,692345,678318,N/A,$M,10-K Balance Sheet
+Stockholders' Equity,65193,58578,N/A,$M,10-K Balance Sheet
+Total Deposits,522216,518309,N/A,$M,10-K Balance Sheet
+Total Loans,391335,379832,N/A,$M,10-K Balance Sheet / Note 5
+Net Loans,383730,372249,N/A,$M,10-K Balance Sheet
+Allowance for Loan Losses (Ending),7947,7925,7839,$M,Note 5
+Provision for Credit Losses,2186,2238,2275,$M,10-K Income Statement / Note 5
+Net Loan Charge-Offs,2164,2152,1905,$M,Note 5 ACL Rollforward
+Gross Loan Charge-Offs,2693,2613,2291,$M,Note 5 ACL Rollforward
+Total Recoveries,(529),(461),(386),$M,Note 5 ACL Rollforward
+Efficiency Ratio,59.02,60.90,61.49,Percent,Derived
+ROE,11.61,10.75,N/A,Percent,Derived
+Total Outstanding Commitments,828343,839785,792471,$M,Note 5
+Nonperforming Loans,1547,1793,N/A,$M,Note 5
+Investment Securities (Total),167008,164626,N/A,$M,10-K Balance Sheet / Note 4
+Market Cap,86026,N/A,N/A,$M,Yahoo Finance (2026-06-05)
+Current Price,55.46,N/A,N/A,$,Yahoo Finance (2026-06-05)
+Beta,1.016,N/A,N/A,ratio,Yahoo Finance (2026-06-05)
+P/E (Trailing),11.63,N/A,N/A,ratio,Yahoo Finance (2026-06-05)
+P/B,1.48,N/A,N/A,ratio,Yahoo Finance (2026-06-05)
+Dividend Yield,3.88,N/A,N/A,Percent,Yahoo Finance (2026-06-05)
+52-Week Low,42.55,N/A,N/A,$,Yahoo Finance (2026-06-05)
+52-Week High,61.19,N/A,N/A,$,Yahoo Finance (2026-06-05)

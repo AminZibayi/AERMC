@@ -1,0 +1,5 @@
+Scenario,Trigger,Primary_Risk_Channel,Severity,Source_Anchor
+S1_Geopolitical,Tariff escalation and recession,Credit to Capital,High,[^1][^3]
+S2_AI_Technology,Accelerated AI deployment and model failures,Operational to Conduct,High,[^6][^12]
+S3_Regulatory_Capital,Basel III endgame and G-SIB surcharge revision,Capital to Distributions,Medium,[^3][^21]
+S4_Systemic_Credit,Recession and CRE systemic stress,Credit to Earnings to Capital,High,[^1][^26]

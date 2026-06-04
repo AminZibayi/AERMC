@@ -1,0 +1,6 @@
+Scenario,Trigger,Primary_Risk_Channel,Severity,Source_Anchors
+S1,Geopolitical escalation / sanctions,Counterparty Credit to Capital,High,[^2][^3]
+S2,AI-driven cyber disruption,Cyber to Operational to Reputation,High,[^2][^10]
+S3,Interest rate volatility spike,NII to Earnings to Capital,Medium,[^2][^3]
+S4,Basel III endgame capital rules,Regulatory to Capital to Distribution,Medium,[^2][^4]
+S5,Systemic counterparty failure,Credit to Liquidity to Capital,High,[^2][^3]

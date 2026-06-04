@@ -1,0 +1,9 @@
+Gap_ID,Data_Item,Filing_Section,Expected_File,Priority,Status,Retrieval_Attempt_1,Command_1,Result_1,Notes
+GAP-001,Risk Factors Full Text,Item 1A,item_1A_risk_factors.txt,HIGH,PARTIAL,edgar_read sections=risk_factors,edgar_read(accession=0001390777-26-000033),10-K references Annual Report MD&A Risk Factors,Used Tavily search to extract verbatim risk factor headings from Annual Report PDF
+GAP-002,Legal Proceedings Detail,Item 3,item_3_legal.txt,MEDIUM,PARTIAL,edgar_read sections=legal,edgar_read(accession=0001390777-26-000033),10-K references Note 21 Annual Report,Litigation note not separately retrieved
+GAP-003,Note 21 Litigation Detail,Note 21,relevant_notes.txt,MEDIUM,PARTIAL,edgartools_edgar_notes topic=litigation,edgar_notes(identifier=BK),No matching note found,Legal proceedings referenced but detail not in raw dump
+GAP-004,Note 4 Credit Risk Detail,Note 4,relevant_notes.txt,MEDIUM,PARTIAL,edgartools_edgar_notes topic=credit risk,edgar_notes(identifier=BK),No matching note found,Credit risk note referenced but detail not in raw dump
+GAP-005,CRO Name and Identity,Proxy Governance,proxy_governance.txt,MEDIUM,FILLED,proxy text mentions CRO reports jointly,Read proxy_governance.txt,CRO position confirmed but name not explicitly disclosed,CRO reports jointly to CEO and Risk Committee
+GAP-006,Risk Committee Meeting Count,Proxy Governance,proxy_governance.txt,LOW,PARTIAL,Read proxy_governance.txt,proxy text,Meeting count not disclosed in retrieved proxy text,Committee structure confirmed
+GAP-007,CET1 Ratio,Item 7A Financials,financial_statements.txt,HIGH,PARTIAL,Read financial_statements.txt,financial_statements.txt,CET1 ratio not in extracted data,Requires manual review of Pillar 3 disclosure
+GAP-008,Full Peer Comparison Data,Market Data,yfinance_get_ticker_info,LOW,FILLED,yfinance for STT NTRS USB,yfinance,Partial data retrieved,Revenue and net income comparable

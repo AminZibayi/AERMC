@@ -1,0 +1,143 @@
+--- Extracted 'Risk Committee' Snippets ---
+
+--- Snippet 1 ---
+All Board committees consist entirely of independent directors and exercise authority in their respective areas of responsibility. Independent directors convene in closed session following every Board and committee meeting without management present, enabling unfiltered discussion of management performance, organizational strategy, and emerging risks. The Risk Committee and Audit Committee, which consist entirely of independent directors, provide focused oversight of enterprise risk, regulatory 
+relationships, compliance, financial accuracy, and internal controls. An annual, substantive review of the leadership structure - assessing whether this model remains appropriate given evolving strategic priorities, Board composition, regulatory environment, and investor perspectives - keeps our governance practices responsive and flexible.
+
+30 BNY 2026 PROXY STATEMENT
+
+
+  ITEM 1. ELECTION OF DIRECTORS Corporate Governance and Board Information  
+ ────────────────────────────────────────────────────────────────────────────
+
+Director Independence
+
+Our Board has determined that all of our directors are independent, other than our CEO and Chairman of the Board, Robin Vince.
+
+Our Standards of Independence
+
+For a director to be considered independent, our Board must determine that the director does not have any direct or indirect material relationship with us. Our Board has established standards (which are outlined in our Corporate Governance Guidelines) based on specified categories and types of transactions, which conform to, or in some cases are more exacting than, the independence requirements of the New York Stock Exchange (“NYSE”) and the SEC. As part of the oversight of director independence
+determinations, the CGNSR Committee undertakes an initial review and makes recommendations regarding each director’s independence to the Board based on its application of these standards.
+
+Our Board will also determine that a director is not independent if it finds that the director has material business arrangements with us that would jeopardize that director’s judgment. In making this determination, our Board reviews business arrangements between the company and the director and between the company and any other company for which the director serves as an officer or general partner, or of which the director directly or indirectly owns 10% or more of the equity. Our Board has 
+determined that these arrangements will not be considered material if:
+
+  they are of a type that we usually and customarily offer to customers or vendors;  
+ ─────────────────────────────────────────────────────────────────────────────────────
+
+  they are on terms substantially similar to those for comparable transactions with other customers or vendors under similar circumstances; or  
+
+  in the case of personal loans, the loans are subject to and in compliance with Regulation O of the Board of Governors of the Federal Reserve System (“Regulation O”).  
+
+Our Board may also consider other factors as it may deem necessary to arrive at sound determinations as to the independence of each director, and such factors may override the conclusion of independence or non-independencethat would be reached by reference to the factors listed above.
+
+In determining that each of the non-managementdirectors is independent, our Board reviewed the standards described above,
+
+--- Snippet 2 ---
+, measuring and mitigating material risks. Our primary risk exposures as well as our risk management framework and methodologies are discussed in further detail on pages 47 through 54 in our 2025 Annual Report. In addition, refer to 
+“How We Address Risk and Control” beginning on page 77 below for a discussion of risk assessment as it relates to the role of the HRC Committee in relation to our compensation program. Additional details regarding the standing committees of the Board, including the Risk Committee and the Audit Committee, can be found in “Committees and Committee Charters” beginning on page 37.
+
+  Entity                     Primary Responsibilities for Risk Management                                                                                                                                                          
+  Risk Committee             •                                                                                                                                                                                                     
+  Audit Committee            •                                                                                                                                                                                                     
+
+36 BNY 2026 PROXY STATEMENT
+
+
+  ITEM 1. ELECTION OF DIRECTORS      Corporate Governance and Board Information  
+ ─────────────────────────────────────────────────────────────────────────────────
+
+  Entity          Primary Responsibilities for Risk Management                                                                                                                                                          
+  Management      •                                                                                                                                                                                                     
+
+Our Chief Risk Officer reports jointly to the CEO and the Risk Committee, which is responsible for approving the Chief Risk Officer’s appointment and annually reviewing his or her compensation and performance. The Enterprise Risk Committee is chaired by the Chief Risk Officer and escalates issues to the Risk Committee, the Audit Committee, or to the full Board of Directors or other committees of the Board, as needed. Our company has also formed several risk management sub-committeesof the 
+Enterprise Risk Committee to identify, assess and manage risks. Each risk management sub-committeereports its activities to the Enterprise Risk Committee and any significant changes in the key responsibilities or in the chair of any sub-committee, must be approved by the Enterprise Risk Committee.
+
+Our company also has a comprehensive internal risk framework, which facilitates risk oversight by the Risk Committee. Our risk management framework is designed to:
+
+  identify, measure, monitor, control and report risks appropriately;  
+
+  define the type and amount of risk the company is willing to take;  
+ ──────────────────────────────────────────────────────────────────────
+
+  maintain a risk management organization that is independent of risk-taking activities; and  
+
+  promote a strong risk management culture that encourages a focus on risk-adjusted performance.  
+
+Board Meetings and Committee Information
+
+Board Meetings
+
+Our Corporate Governance Guidelines provide that our directors are expected to attend our Annual Meeting of Stockholders and all regular and special mee
+
+--- Snippet 3 ---
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Risk                                            See “Oversight of Risk” beginning on page 36 for a discussion of the Risk Committee’s duties and responsibilities, which include: (1) review and approval of significant enterprise-wide risk man...  
+
+40 BNY 2026 PROXY STATEMENT
+
+
+  ITEM 1. ELECTION OF DIRECTORS      Corporate Governance and Board Information  
+ ─────────────────────────────────────────────────────────────────────────────────
+
+Compensation Consultants to the HRC Committee
+
+The HRC Committee has the sole authority to retain, terminate and approve the fees and other engagement terms of any compensation consultant directly assisting the committee, and may select or receive advice from any compensation consultant only after taking into consideration all factors relevant to the consultant’s independence from management, including the factors set forth in the NYSE’s rules.
+
+The HRC Committee engaged Meridian Compensation Partners, LLC (“Meridian”) to serve as its compensation consultant for 2025. As discussed in greater detail in the “Compensation Discussion & Analysis” beginning on page 49, throughout the year, the compensation consultant assists the committee in its analysis and evaluation of compensation matters relating to our executive officers. The HRC Committee’s independent compensation consultant reports directly to the HRC Committee, attends the meetings 
+of the committee, and meets with the committee in executive session without management present. The compensation consultant also reviews and provides input on committee meeting materials and advises on other matters considered by the committee.
+
+The HRC Committee annually reviews the independence of its compensation consultant. Throughout the year, Meridian worked with management in executing its services to the HRC Committee, but did not provide services to management without pre-approvalby the committee’s Chair. In addition, Meridian maintains, and has provided to the HRC Committee, a written policy designed to avoid and address potential conflicts of interest. The HRC Committee considered the company’s relationship with Meridian 
+during the year, assessed the independence of Meridian pursuant to SEC and NYSE rules, and concluded that there are no conflicts of interest that would prevent Meridian from independently representing the HRC Committee.
+
+During 2025, in addition to serving as the HRC Committee’s independent compensation consultant, Meridian also advised the CGNSR Committee with respect to non-employeedirector compensation, as discussed further in the “Director Compensation” section below.
+
+Contacting the Board
+
+Interested parties may send communications to our Board, our independent directors or any Board committee through our Lead Director or, as applicable, independent Chairman, in accordance with the procedures set forth on our website and our Corporate Governance Guidelines (see “Helpful Resources” on page 107).
+
+Our Corporate Secretary is authorized to open and review any mail or other correspondence received that is addressed to the Board, any individual director or any Board committee unl
+
+--- Snippet 4 ---
+The units accrue 
+dividends, which are reinvested in additional deferred stock units. This award of deferred stock units was granted shortly after the 2025 Annual Meeting of Stockholders for directors elected at such meeting.
+
+2025 Director Cash Retainers
+
+Each non-employeedirector receives an annual cash retainer for his or her service on the Board, as well as additional cash retainers if he or she serves as the Lead Director, as a chair of a committee or as a member of the Audit Committee or Risk Committee. The following table lists the cash retainer amounts in effect for 2025:
+
+  Type of Retainer                                         
+ ───────────────────────────────────────────────────────────
+  Annual Board Membership                 $       110,000  
+  Lead Director*                          $       175,000  
+  Audit or Risk Committee Membership      $        25,000  
+  HRC Committee Chair                     $        35,000  
+  Audit Committee Chair**                 $        30,000  
+  Risk Committee Chair**                  $        30,000  
+  CGNSR Committee Chair                   $        25,000  
+  Finance Committee Chair                 $        25,000  
+  Technology Committee Chair              $        25,000  
+
+  Lead Director retainer is equal to the previous independent Chair retainer.  
+
+  Amount is in addition to the applicable committee membership retainer.  
+
+42 BNY 2026 PROXY STATEMENT
+
+
+  ITEM 1. ELECTION OF DIRECTORS Director Compensation  
+ ───────────────────────────────────────────────────────
+
+Stock Ownership Guidelines
+
+As part of the CGNSR Committee’s annual review of the director compensation program, the CGNSR Committee also examines the stock ownership guidelines applicable to our independent directors. Under our Corporate Governance Guidelines, by the fifth anniversary of their service on the Board, directors are required to own a number of shares of our common stock with a market value of at least five times the annual cash retainer.
+
+Our directors are not permitted to hedge, pledge or transfer any of their deferred stock units and are subject to a robust hedging and pledging policy as described in further detail under “Prohibition on Hedging and Pledging” beginning on page 73. This policy prohibits our directors from hedging or pledging company securities owned directly or indirectly and from engaging in certain transactions involving our securities and requires directors to pre-clearany transaction in company stock or 
+derivative securities with our legal department (including gifts and other similar transactions).
+
+Deferred Compensation
+
+In the 2007 merger of The Bank of New York Company, Inc. and Mellon Financial Corporation (the “2007 merger”), we assumed the Deferred Compensation Plan for Non-EmployeeDirectors of The Bank of New York Company, Inc. (the “Bank of New York Directors Plan”) and the Mellon Elective Deferred Compensation Plan for Directors (the “Mellon Directors Plan”). Under the Bank of New York Directors Plan, participating legacy Bank of New York directors continued to defer receipt of all or part of their 
+annual retainer and committee fees earned through 2007. Under the Mellon Directors Plan, participating legacy Mellon directors continued to defer receipt of all or part of their annual retainer and fees earned through 2007. Both plans are nonqualified plans, and neither plan is funded.
+
+Although the Bank of New York Directors Plan and the Mellon Directors Plan continue to exist, all new d

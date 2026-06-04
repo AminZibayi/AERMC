@@ -1,0 +1,196 @@
+--- Extracted 'Risk Committee' Snippets ---
+
+--- Snippet 1 ---
+Former President and CEO, Make-A-Wish America, a nonprofit organization (January 2019 – November 2022)                                                                                                
+  Board Committees                                                                                                                                                                                      
+  Governance & Nominating Committee ( Chair), Risk Committee                                                                                                                                            
+  Qualifications That Benefit Our Board                                                                                                                                                                 
+
+  2026 Proxy Statement       9  
+
+
+Board and Governance Matters
+
+  Fabian T. Garcia Independent                                                                                                                                                                          
+  Global President, Personal Care, Unilever PLC, a British multinational consumer goods company (since July 2022)                                                                                       
+  Board Committees                                                                                                                                                                                      
+  Finance Committee                                                                                                                                                                                     
+  Qualifications That Benefit Our Board                                                                                                                                                                 
+
+  10      Wells Fargo & Company  
+
+
+Board and Governance Matters
+
+  Wayne M. Hewett Independent                                                                                                                                                                           
+  Senior Advisor, Permira, a global private equity firm (since March 2018)                                                                                                                              
+  Board Committees                                                                                                                                                                                      
+  Finance Committee ( Chair), Human Resources Committee, Risk Committee                                                                                                                                 
+  Qualifications That Benefit Our Board                                                                                                                                                                 
+
+  2026 Proxy Statement      11  
+
+
+Board and Governance Matters
+
+  CeCelia G. Morken Independent                                                                                                                                                                         
+  Former CEO, Headspace, an online wellness company (January 2021 – January 2022)                                                                                                                       
+  Board Committees
+
+--- Snippet 2 ---
+Former EVP and Head, Global Employee Benefits business, MetLife, a global financial services company (November 2011 – September 2017)                                                                 
+  Board Committees                                                                                                                                                                                      
+  Risk Committee ( Chair), Human Resources Committee                                                                                                                                                    
+  Qualifications That Benefit Our Board                                                                                                                                                                 
+
+  2026 Proxy Statement      13  
+
+
+Board and Governance Matters
+
+  Felicia F. Norwood Independent                                                                                                                                                                        
+  EVP and Chief Health Benefits Officer, Elevance Health, Inc., a health company (since February 2026)                                                                                                  
+  Board Committees                                                                                                                                                                                      
+  Risk Committee                                                                                                                                                                                        
+  Qualifications That Benefit Our Board                                                                                                                                                                 
+
+  14      Wells Fargo & Company  
+
+
+Board and Governance Matters
+
+  Ronald L. Sargent Independent                                                                                                                                                                         
+  Chair and Former Interim CEO, The Kroger Co., a supermarket and multi-department store retailer (since March 2025 and March 2025 - February 2026, respectively)                                       
+  Board Committees                                                                                                                                                                                      
+  Human Resources Committee ( Chair), Audit Committee,                                                                                                                                                  
+  Qualifications That Benefit Our Board                                                                                                                                                                 
+
+  2026 Proxy Statement      15  
+
+
+Board and Governance Matters
+
+  Charles W. Scharf                                                                                                                                                                                     
+  Chairman and Chief Executive Officer, Wells Fargo, a U.S. financial services company (since October 2025 and October 2019, respectively)                                                              
+  Q
+
+--- Snippet 3 ---
+President, Kilovolt Consulting, Inc., a cybersecurity strategy and technology consulting firm (since October 2013)                                                                                    
+  Board Committees                                                                                                                                                                                      
+  Risk Committee                                                                                                                                                                                        
+  Qualifications That Benefit Our Board                                                                                                                                                                 
+
+  2026 Proxy Statement      17  
+
+
+Board and Governance Matters
+
+Director Independence
+
+Our Corporate Governance Guidelines provide that a significant majority of the directors on our Board, and all members of the Audit Committee, GNC, HRC, and Risk Committee, must be independent under applicable independence standards. To be considered an independent director, our Board must determine that the director has no material relationship with our Company (either directly or as a partner, shareholder, or officer of an organization that has a relationship with our Company). To assist in 
+making its independence determinations, our Board adopted the Director Independence Standards appended to our Corporate Governance Guidelines, which consist of the New York Stock Exchange’s standards of independence, as well as additional standards, known as categorical standards of independence.
+
+Based on the Director Independence Standards, our Board considered information in early 2026 regarding banking and financial services, commercial, charitable, familial, and other relationships between each director and director nominee, his or her respective immediate family members, and/or certain entities affiliated with such directors and director nominees and immediate family members, on the one hand, and our Company, on the other, to determine the director’s or director nominee’s 
+independence. After reviewing the information presented to it and considering the recommendation of the GNC, our Board determined that, except for Charles W. Scharf, who is a Wells Fargo employee, all other current directors and director nominees are independent under the Director Independence Standards: Steven D. Black, Mark A. Chancy, Celeste A. Clark, Theodore F. Craver, Jr., Richard K. Davis, Fabian T. Garcia, Wayne M. Hewett, CeCelia G. Morken, Maria R. Morris, Felicia F. Norwood, Ronald L.
+Sargent, and Suzanne M. Vautrinot.
+
+In connection with making its independence determinations, our Board considered the following relationships under the Director Independence Standards and determined that all of these relationships satisfied the NYSE’s standards of independence and were immaterial under our Board’s categorical standards of independence:
+
+  Other Relationships                               Theodore F. Craver, Jr. has an outstanding pension balance with an aggregate actuarial present value of approximately $368,000 as of February 1, 2026, earned from his prior employment with Firs...  
+                                                    Since 2015, the Company has employed a relative of Steven D. Black, who is
+
+--- Snippet 4 ---
+y Statement      27  
+
+
+Board Structure and Operations
+
+  Role of Management                                                                                                                                                                                    
+  Senior management is responsible for establishing and maintaining the Company’s culture and effectively managing risk. The Company has three lines of defense for managing risk: the Front Line, ...  
+
+Information Security Risk Oversight
+
+The Risk Committee has primary oversight responsibility for information security risk, which includes cybersecurity risk.
+
+  Board Oversight                                                                                                                                                                                       
+  As part of its review and approval of our overall strategic plan, our Board receives an annual report from our Head of Technology regarding the Company’s technology strategy and information sec...  
+  Risk Committee                                                                                                                                                                                        
+
+  28      Wells Fargo & Company  
+
+
+Board Structure and Operations
+
+For additional information on information security risk management, see the “Financial Review - Risk Management - Operational Risk Management” section of Exhibit 13 to the Company’s Annual Report on Form 10-K for the year ended December 31, 2025.
+
+The Risk Committee also has primary oversight responsibility for technology risk, which encompasses new and emerging technologies such as artificial intelligence (AI), as well as data management risk and model risk.
+
+The full Board also discusses technology-related matters, including AI, on a regular basis, including through:
+
+• Periodic reviews with management on AI-related topics, including market developments and updates on Wells Fargo’s approach to AI;
+
+• Line of business presentations to the Board that have addressed how AI is impacting the Company’s various lines of business; and
+
+• Regular reporting to the Board from the Chair of the Risk Committee.
+
+Human Capital Risk Oversight
+
+Our Board, directly and through the HRC, oversees human capital risk and human capital management, in addition to our culture and ethics, as discussed below.
+
+  Board Oversight                                                                                                                                                                                       
+  For certain matters, the Board provides oversight directly, rather than through its committees. For example, the Board reviews the results of our annual Global Employee Survey with management, ...  
+  Human Resources Committee                                                                                                                                                                             
+
+  2026 Proxy Statement      29  
+
+
+Board Structure and Operations
+
+Risk Management in the Compensation Decision Process
+
+The HRC also oversees the Company’s performance management and incentive compensation programs.
+
+Our Company is committed to performance management and compensation programs that are balanced, promote risk management, and discourage imprudent or excessive risk-taking. Through our Incentive Compensation Risk Management Policy, we develop, execute, and administer our incentive compensation plan
+
+--- Snippet 5 ---
+n enhanced risk assessment process applies to the CEO, the Operating Committee, leaders who run our major lines of business, and other senior leaders whose responsibilities and actions may expose the Company to material risk or who have roles that are subject to specific regulatory requirements ( Covered Employees in Management).
+
+• The CEO’s performance review of members of the Operating Committee (except for the CRO and Chief Auditor, for whom the risk review is conducted by the Chairs of the Risk Committee and Audit Committee, respectively) is informed by a risk review conducted by the CRO (with input from risk leaders) and feedback from Internal Audit.
+
+•The HRC conducts the risk review for the CEO, as described in our Compensation Discussion and Analysis.
+
+• For all other Covered Employees in Management, the results of an enhanced risk assessment process, informed by feedback from leaders in Risk and Internal Audit, are a key input into variable incentive compensation decisions. The results of these enhanced risk assessments and associated compensation recommendations are reviewed by a management governance committee reporting to the HRC, and supporting steering committees. Final variable incentive compensation decisions are shared with the HRC, 
+along with the risk assessment results.
+
+• A risk overlay rating is part of each active employee’s annual performance review.
+
+• Performance goals for employees and management whose roles involve sales activity are designed to discourage excessive or inappropriate risk-taking and are subject to additional oversight.
+
+Our Board Committee Structure
+
+Standing Board Committees
+
+Our Board has standing committees, comprised entirely of independent directors, that act on behalf of the Board and report on their activities to the entire Board.
+
+  Audit      Finance      Governance & Nominating      Human Resources      Risk  
+ ──────────────────────────────────────────────────────────────────────────────────
+
+Each committee may form and delegate, in its discretion, all or a portion of its authority to subcommittees of one or more of its members. From time to time, the Board may form special purpose committees to which the Board may delegate responsibility for oversight of particular matters. In 2025, our Board integrated the responsibilities of the Corporate Responsibility Committee ( CRC) into those of the GNC and dissolved the CRC. 1 This change allowed the Board to simplify its committee 
+structure, providing for more efficient use of time and resources.
+
+Each Board committee is responsible for overseeing risks within its purview. All of our standing Board committees report to the Board about their activities, including risk oversight-related matters. Each Board committee has defined authority and responsibilities for primary oversight of specific risks, as outlined in its respective charter, and works closely with management to understand and oversee our Company’s key risks.
+
+Committee meetings also include executive sessions led by the respective independent committee chair. As required by its charter, each of our committees annually reviews and assesses its charter’s adequacy and reviews its performance.
+
+1. The CRC held one meeting in 2025.
+
+  30      Wells Fargo & Company  
+
+
+Board Structure and Operations
+
+Committee Composition
+
+The Board appoints the members and chair of each committee based on the recommendation of the GNC.
+
+As part of this process, the GNC annually reviews the committee structure, co

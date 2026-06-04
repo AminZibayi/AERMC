@@ -1,0 +1,27 @@
+Metric,FY2023,FY2022,FY2021,Unit,Source
+Total_Revenue,46254,Not_disclosed,Not_disclosed,$M,10-K Income Statement FY2023-2025
+Net_Income,8516,Not_disclosed,Not_disclosed,$M,10-K Income Statement FY2023-2025
+Pre_Tax_Earnings,10739,Not_disclosed,Not_disclosed,$M,10-K Income Statement FY2023-2025
+EPS_Diluted,22.87,Not_disclosed,Not_disclosed,$/share,10-K Income Statement FY2023-2025
+Total_Assets,1641594,Not_disclosed,Not_disclosed,$M,10-K Balance Sheet FY2023-2025
+Stockholders_Equity,116905,Not_disclosed,Not_disclosed,$M,10-K Balance Sheet FY2023-2025
+Net_Interest_Income,6351,Not_disclosed,Not_disclosed,$M,10-K Income Statement FY2023-2025
+Operating_Expenses,34487,Not_disclosed,Not_disclosed,$M,10-K Income Statement FY2023-2025
+Total_NonInterest_Revenues,39903,Not_disclosed,Not_disclosed,$M,10-K Income Statement FY2023-2025
+Provision_for_Credit_Losses,1028,Not_disclosed,Not_disclosed,$M,10-K Income Statement FY2023-2025
+Total_Liabilities,1524689,Not_disclosed,Not_disclosed,$M,10-K Balance Sheet FY2023-2025
+Deposits,Not_disclosed,Not_disclosed,Not_disclosed,$M,Not_disclosed in available files
+Trading_Assets,Not_disclosed,Not_disclosed,Not_disclosed,$M,Not_disclosed in available files
+ROE_Ending,7.28%,Not_disclosed,Not_disclosed,Percent,Derived: Net Income / Ending Equity
+ROE_FY2024_Ending,11.70%,Not_disclosed,Not_disclosed,Percent,Derived
+ROE_FY2025_Ending,13.74%,Not_disclosed,Not_disclosed,Percent,Derived
+Net_Margin,18.41%,Not_disclosed,Not_disclosed,Percent,Derived: Net Income / Revenue
+Net_Margin_FY2024,26.68%,Not_disclosed,Not_disclosed,Percent,Derived
+Net_Margin_FY2025,29.46%,Not_disclosed,Not_disclosed,Percent,Derived
+Efficiency_Ratio,74.55%,Not_disclosed,Not_disclosed,Percent,Derived: OpEx / (NII + NonIntIncome)
+Efficiency_Ratio_FY2024,63.10%,Not_disclosed,Not_disclosed,Percent,Derived
+Efficiency_Ratio_FY2025,64.43%,Not_disclosed,Not_disclosed,Percent,Derived
+NIM_FY2025,0.78%,Not_disclosed,Not_disclosed,Percent,Derived: NII / Avg Total Assets
+NIM_FY2024,0.49%,Not_disclosed,Not_disclosed,Percent,Derived
+PCL_Growth_FY2025_vs_FY2024,-182.6%,Not_disclosed,Not_disclosed,Percent,Derived
+YoY_Asset_Growth_FY2025,7.96%,Not_disclosed,Not_disclosed,Percent,Derived

@@ -1,0 +1,42 @@
+[
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Blackrock Inc.",
+    "pctHeld": 0.09020001,
+    "Shares": 153780316,
+    "Value": 20783408768,
+    "pctChange": -0.048600003
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Vanguard Capital Management LLC",
+    "pctHeld": 0.0643,
+    "Shares": 109658356,
+    "Value": 14820326144,
+    "pctChange": 1.0
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "State Street Corporation",
+    "pctHeld": 0.0458,
+    "Shares": 78042648,
+    "Value": 10547463400,
+    "pctChange": -0.0234
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Geode Capital Management, LLC",
+    "pctHeld": 0.0248,
+    "Shares": 42312782,
+    "Value": 5718572229,
+    "pctChange": -0.0217
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Capital World Investors",
+    "pctHeld": 0.0239,
+    "Shares": 40720859,
+    "Value": 5503423845,
+    "pctChange": -0.1283
+  }
+]

@@ -1,0 +1,5 @@
+Scenario,Trigger,Primary_Risk_Channel,Severity,Source_Anchor
+S1,Geopolitical / Trade Shock (U.S.-China escalation, tariff increase),Macroeconomic slowdown → Credit deterioration → Capital erosion,High,[^16][^26][^102]
+S2,AI-driven cyberattack on financial infrastructure or cloud providers,Cybersecurity breach → Operational disruption → Reputational damage → Regulatory enforcement,High,[^83][^84][^85][^89]
+S3,CRE systemic stress / Rate volatility recession,Credit losses on CRE portfolio → Higher PCL → ROE compression → Dividend restriction,Medium,[^57][^58][^61][^131]
+S4,U.S. debt ceiling impasse / Sovereign downgrade,Liquidity stress → Higher funding costs → Credit spread widening → Market and funding risk,Medium,[^97][^98][^107]

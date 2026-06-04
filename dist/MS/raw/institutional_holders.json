@@ -1,0 +1,42 @@
+[
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Mitsubishi UFJ Financial Group Inc",
+    "pctHeld": 0.2391,
+    "Shares": 377085167,
+    "Value": 82306381012,
+    "pctChange": 0.0
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "State Street Corporation",
+    "pctHeld": 0.0642,
+    "Shares": 101340194,
+    "Value": 22119524577,
+    "pctChange": -0.0242
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Blackrock Inc.",
+    "pctHeld": 0.061100002,
+    "Shares": 96396889,
+    "Value": 21040549373,
+    "pctChange": 0.0121
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "Vanguard Capital Management LLC",
+    "pctHeld": 0.0493,
+    "Shares": 77715132,
+    "Value": 16962882193,
+    "pctChange": 1.0
+  },
+  {
+    "Date Reported": "2026-03-31 00:00:00",
+    "Holder": "JPMORGAN CHASE & CO",
+    "pctHeld": 0.0276,
+    "Shares": 43578279,
+    "Value": 9511831143,
+    "pctChange": 0.2202
+  }
+]

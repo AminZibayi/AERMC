@@ -1,0 +1,138 @@
+=== INCOME STATEMENT ===
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                       BANK OF AMERICA CORPORATION   BAC PRS                                                        |
+|                                                       CONSOLIDATED STATEMENT OF INCOME                                                             |
+|                                                       Dec 31, 2023 to Dec 31, 2025                                                                 |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                   | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 | |
+| |---------------------------------------------------------------------------------------------------+--------------+--------------+--------------| |
+| | Net interest income                                                                               |              |              |              | |
+| |       Interest income                                                                             |     $138,566 |     $146,607 |     $130,262 | |
+| |       Interest expense                                                                            |      $78,470 |      $90,547 |      $73,331 | |
+| |       Net interest income                                                                         |      $60,096 |      $56,060 |      $56,931 | |
+| | Noninterest income                                                                                |              |              |              | |
+| |     Fees and commissions:                                                                         |      $39,402 |      $36,291 |      $32,009 | |
+| |     Market making and similar activities:                                                         |      $12,014 |      $12,967 |      $12,732 | |
+| |       Trading Derivatives and Securities - Market making and similar activities - Interest rate   |       $1,244 |       $2,245 |       $3,192 | |
+| | risk                                                                                              |              |              |              | |
+| |       Trading Derivatives and Securities - Net Interest Income - Interest rate risk               |       $3,055 |       $1,378 |         $366 | |
+| |       Trading Derivatives and Securities - Other - Interest rate risk                             |         $516 |         $420 |         $402 | |
+| |       Trading Derivatives and Securities - Interest rate risk                                     |       $4,815 |       $4,043 |       $3,960 | |
+| |       Trading Derivatives and Securities - Market making and similar activities - Foreign         |       $2,179 |       $1,866 |       $1,800 | |
+| | exchange risk                                                                                     |              |              |              | |
+| |       Trading Derivatives and Securities - Net Interest Income - Foreign exchange risk            |          $10 |         $120 |         $149 | |
+| |       Trading Derivatives and Securities - Other - Foreign exchange risk                          |          $57 |          $98 |          $87 | |
+| |       Trading Derivatives and Securities - Foreign exchange risk                                  |       $2,246 |       $2,084 |       $2,036 | |
+| |       Trading Derivatives and Securities - Market making and similar activities - Equity risk     |       $7,229 |       $7,065 |       $6,628 | |
+| |       Trading Derivatives and Securities - Net Interest Income - Equity risk                      |       $(816) |     $(1,485) |     $(1,955) | |
+| |       Trading Derivatives and Securities - Other - Equity risk                                    |       $2,201 |       $1,861 |       $1,774 | |
+| |       Trading Derivatives and Securities - Equity risk                                            |       $8,614 |       $7,441 |       $6,447 | |
+| |       Trading Derivatives and Securities - Market making and similar activities - Credit risk     |       $1,012 |       $1,206 |       $1,205 | |
+| |       Trading Derivatives and Securities - Net Interest Income - Credit risk                      |       $2,721 |       $2,465 |       $2,462 | |
+| |       Trading Derivatives and Securities - Other - Credit risk                                    |         $554 |         $596 |         $340 | |
+| |       Trading Derivatives and Securities - Credit risk                                            |       $4,287 |       $4,267 |       $4,007 | |
+| |       Trading Derivatives and Securities - Market making and similar activities - Other risk      |         $380 |         $394 |         $602 | |
+| |       Trading Derivatives and Securities - Net Interest Income - Other risk                       |        $(40) |          $94 |       $(155) | |
+| |       Trading Derivatives and Securities - Other - Other risk                                     |       $(139) |       $(406) |        $(67) | |
+| |       Trading Derivatives and Securities - Other risk                                             |         $201 |          $82 |         $380 | |
+| |       Trading Derivatives and Securities - Market making and similar activities                   |      $12,044 |      $12,776 |      $13,427 | |
+| |       Trading Derivatives and Securities - Net Interest Income                                    |       $4,930 |       $2,572 |         $867 | |
+| |       Trading Derivatives and Securities - Other                                                  |       $3,189 |       $2,569 |       $2,536 | |
+| |       Trading Derivatives and Securities                                                          |      $20,163 |      $17,917 |      $16,830 | |
+| |     Other income (loss):                                                                          |       $1,585 |         $538 |       $1,097 | |
+| |       Total noninterest income:                                                                   |      $53,001 |      $49,796 |      $45,838 | |
+| |   Total revenue, net of interest expense:                                                         |     $113,097 |     $105,856 |     $102,769 | |
+| |   Provision for credit losses:                                                                    |       $5,675 |       $5,821 |       $4,394 | |
+| | Noninterest expense                                                                               |              |              |              | |
+| |     Compensation and benefits:                                                                    |      $42,346 |      $40,182 |      $38,330 | |
+| |     Information processing and communications                                                     |       $7,453 |       $7,231 |       $6,707 | |
+| |     Occupancy and equipment                                                                       |       $7,448 |       $7,289 |       $7,164 | |
+| |     Product delivery and transaction related                                                      |       $3,924 |       $3,494 |       $3,608 | |
+| |     Professional fees                                                                             |       $2,580 |       $2,669 |       $2,159 | |
+| |     Marketing                                                                                     |       $2,204 |       $1,956 |       $1,927 | |
+| |     Other general operating                                                                       |       $3,772 |       $3,991 |       $5,950 | |
+| |       Total noninterest expense:                                                                  |      $69,727 |      $66,812 |      $65,845 | |
+| |   Income before income taxes:                                                                     |      $37,695 |      $33,223 |      $32,530 | |
+| |   Income tax expense:                                                                             |       $7,186 |       $6,250 |       $6,225 | |
+| |     Net income:                                                                                   |      $30,509 |      $26,973 |      $26,305 | |
+| |     Preferred stock dividends                                                                     |       $1,454 |       $1,629 |       $1,649 | |
+| |   Net income applicable to common shareholders                                                    |      $29,055 |      $25,344 |      $24,656 | |
+| | Per common share information                                                                      |              |              |              | |
+| |     Earnings (in dollars per share)                                                               |         3.86 |         3.23 |         3.07 | |
+| |     Diluted earnings (in dollars per share)                                                       |         3.81 |         3.19 |         3.05 | |
+| |   Average common shares issued and outstanding (in shares)                                        |       75,219 |       78,555 |       80,286 | |
+| |   Average diluted common shares issued and outstanding (in shares)                                |       76,809 |       79,358 |       80,805 | |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares in scaled by 100,000 and per share data) --------------------------------------------------------+
+
+
+=== BALANCE SHEET ===
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                       BANK OF AMERICA CORPORATION   BAC PRS                                                        |
+|                                                       CONSOLIDATED BALANCE SHEETS                                                                  |
+|                                                       Dec 31, 2024 to Dec 31, 2025                                                                 |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                                  | Dec 31, 2025 | Dec 31, 2024 | |
+| |------------------------------------------------------------------------------------------------------------------+--------------+--------------| |
+| |     Assets                                                                                                       |              |              | |
+| |           Cash and due from banks                                                                                |      $28,595 |      $26,003 | |
+| |           Interest-bearing deposits with the Federal Reserve, non-U.S. central banks and other banks             |     $203,250 |     $264,111 | |
+| |         Cash and cash equivalents                                                                                |     $231,845 |     $290,114 | |
+| |         Time deposits placed and other short-term investments                                                    |       $7,474 |       $6,372 | |
+| |         Federal funds sold and securities borrowed or purchased under agreements to resell (includes $185,491    |     $316,578 |     $274,709 | |
+| | and $144,501 measured at fair value)                                                                             |              |              | |
+| |         Trading account assets (includes $185,869 and $170,328 pledged as collateral):                           |     $366,954 |     $314,460 | |
+| |           Consolidated VIEs                                                                                      |       $7,139 |       $5,575 | |
+| |         Derivative assets:                                                                                       |      $40,881 |      $40,948 | |
+| |       Debt securities:                                                                                           |              |              | |
+| |             Carried at fair value:                                                                               |     $402,975 |     $358,607 | |
+| |             Held-to-maturity, at cost (fair value $442,430 and $450,548)                                         |     $522,660 |     $558,677 | |
+| |             Total debt securities                                                                                |     $925,635 |     $917,284 | |
+| |         Loans and leases (includes $3,498 and $4,249 measured at fair value):                                    |   $1,185,700 |   $1,095,835 | |
+| |         Allowance for loan and lease losses:                                                                     |    $(13,203) |    $(13,240) | |
+| |           Consolidated VIEs                                                                                      |       $(871) |       $(919) | |
+| |         Loans and leases, net of allowance:                                                                      |   $1,172,497 |   $1,082,595 | |
+| |           Consolidated VIEs                                                                                      |      $17,004 |      $18,225 | |
+| |         Premises and equipment, net                                                                              |      $12,516 |      $12,168 | |
+| |         Goodwill:                                                                                                |      $69,021 |      $69,021 | |
+| |         Loans held-for-sale (includes $2,271 and $2,214 measured at fair value):                                 |       $5,165 |       $9,545 | |
+| |         Customer and other receivables                                                                           |      $98,186 |      $82,247 | |
+| |         Other assets (includes $9,058 and $13,176 measured at fair value):                                       |     $164,986 |     $161,836 | |
+| |           Consolidated VIEs                                                                                      |         $709 |         $319 | |
+| |         Total assets:                                                                                            |   $3,411,738 |   $3,261,299 | |
+| |           Consolidated VIEs                                                                                      |      $24,852 |      $24,119 | |
+| |     Liabilities                                                                                                  |              |              | |
+| |       Deposits in U.S. offices:                                                                                  |              |              | |
+| |           Noninterest-bearing                                                                                    |     $517,834 |     $507,561 | |
+| |           Interest-bearing (includes $1,223 and $310 measured at fair value)                                     |   $1,361,177 |   $1,329,014 | |
+| |       Deposits in non-U.S. offices:                                                                              |              |              | |
+| |           Noninterest-bearing                                                                                    |      $14,216 |      $16,297 | |
+| |           Interest-bearing                                                                                       |     $125,502 |     $112,595 | |
+| |         Total deposits                                                                                           |   $2,018,729 |   $1,965,467 | |
+| |         Federal funds purchased and securities loaned or sold under agreements to repurchase (includes $223,067  |     $344,716 |     $331,758 | |
+| | and $192,859 measured at fair value)                                                                             |              |              | |
+| |         Trading account liabilities                                                                              |     $105,996 |      $92,543 | |
+| |         Derivative liabilities:                                                                                  |      $42,076 |      $39,353 | |
+| |         Short-term borrowings (includes $8,051 and $6,245 measured at fair value):                               |      $48,088 |      $43,391 | |
+| |           Consolidated VIEs                                                                                      |       $5,779 |       $3,329 | |
+| |         Accrued expenses and other liabilities (includes $8,996 and $13,199 measured at fair value and $1,177    |     $231,074 |     $211,545 | |
+| | and $1,096 of reserve for unfunded lending commitments)                                                          |              |              | |
+| |         Long-term debt (includes $72,591 and $50,005 measured at fair value):                                    |     $317,816 |     $283,279 | |
+| |           Consolidated VIEs                                                                                      |       $6,847 |       $8,457 | |
+| |         All other liabilities (includes $18 and $21 of non-recourse liabilities):                                |          $18 |          $21 | |
+| |           Consolidated VIEs                                                                                      |          $18 |          $21 | |
+| |         Total liabilities:                                                                                       |   $3,108,495 |   $2,967,336 | |
+| |           Consolidated VIEs                                                                                      |      $12,644 |      $11,807 | |
+| |         Commitments and contingencies (Note 6 – Securitizations and Other Variable Interest Entities and Note 12 |              |              | |
+| | – Commitments and Contingencies)                                                                                 |              |              | |
+| |     Shareholders’ equity                                                                                         |              |              | |
+| |         Preferred stock, $0.01 par value; authorized – 100,000,000 shares; issued and outstanding – 3,991,164    |      $25,992 |      $23,159 | |
+| | and 3,877,917 shares                                                                                             |              |              | |
+| |         Common stock and additional paid-in capital, $0.01 par value; authorized – 12,800,000,000 shares; issued |      $26,084 |      $45,336 | |
+| | and outstanding – 7,212,464,345 and 7,610,862,311 shares                                                         |              |              | |
+| |         Retained earnings:                                                                                       |     $261,693 |     $240,753 | |
+| |         Accumulated other comprehensive income (loss)                                                            |    $(10,526) |    $(15,285) | |
+| |         Total shareholders’ equity:                                                                              |     $303,243 |     $293,963 | |
+| |       Total liabilities and shareholders’ equity                                                                 |   $3,411,738 |   $3,261,299 | |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) -----------------------------------------------------------------------------+

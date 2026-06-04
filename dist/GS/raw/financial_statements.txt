@@ -1,0 +1,107 @@
+=== INCOME STATEMENT ===
++----------------------------------------------------------------------------------------------------+
+|                              THE GOLDMAN SACHS GROUP, INC.   GS/31X                                |
+|                              CONSOLIDATED STATEMENT OF INCOME                                      |
+|                              Dec 31, 2023 to Dec 31, 2025                                          |
+| +------------------------------------------------------------------------------------------------+ |
+| |                                                   | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 | |
+| |---------------------------------------------------+--------------+--------------+--------------| |
+| | Revenues                                          |              |              |              | |
+| |     Investment banking                            |       $9,348 |       $7,738 |       $6,218 | |
+| |     Investment management                         |      $11,749 |      $10,596 |       $9,532 | |
+| |     Commissions and fees                          |       $4,042 |       $4,086 |       $3,789 | |
+| |     Market making:                                |      $17,993 |      $18,390 |      $18,238 | |
+| |       Interest rates                              |       $8,632 |         $715 |       $4,437 | |
+| |       Credit                                      |         $284 |       $2,467 |       $1,141 | |
+| |       Currencies                                  |     $(3,913) |       $6,292 |       $2,827 | |
+| |       Equities                                    |      $10,609 |       $7,632 |       $7,938 | |
+| |       Commodities                                 |       $2,381 |       $1,284 |       $1,895 | |
+| |     Other principal transactions                  |       $1,592 |       $4,646 |       $2,126 | |
+| |     Total non-interest revenues:                  |      $44,724 |      $45,456 |      $39,903 | |
+| |     Interest income:                              |      $80,373 |      $81,397 |      $68,515 | |
+| |     Interest expense                              |      $66,814 |      $73,341 |      $62,164 | |
+| |     Net interest income:                          |      $13,559 |       $8,056 |       $6,351 | |
+| |       Total net revenues:                         |      $58,283 |      $53,512 |      $46,254 | |
+| |   Provision for credit losses:                    |     $(1,113) |       $1,348 |       $1,028 | |
+| | Operating expenses                                |              |              |              | |
+| |     Compensation and benefits:                    |      $18,906 |      $16,706 |      $15,499 | |
+| |     Transaction based                             |       $7,997 |       $6,724 |       $5,698 | |
+| |     Market development                            |         $710 |         $646 |         $629 | |
+| |     Communications and technology                 |       $2,170 |       $1,991 |       $1,919 | |
+| |     Depreciation and amortization:                |       $2,182 |       $2,392 |       $4,856 | |
+| |     Occupancy                                     |         $958 |         $973 |       $1,053 | |
+| |     Professional fees                             |       $1,770 |       $1,652 |       $1,623 | |
+| |     Other expenses:                               |       $2,851 |       $2,683 |       $3,210 | |
+| |       Total operating expenses:                   |      $37,544 |      $33,767 |      $34,487 | |
+| |   Pre-tax earnings:                               |      $21,852 |      $18,397 |      $10,739 | |
+| |   Provision for taxes:                            |       $4,676 |       $4,121 |       $2,223 | |
+| |   Net earnings:                                   |      $17,176 |      $14,276 |       $8,516 | |
+| |   Preferred stock dividends:                      |         $876 |         $751 |         $609 | |
+| |   Net earnings applicable to common shareholders: |      $16,300 |      $13,525 |       $7,907 | |
+| | Earnings per common share                         |              |              |              | |
+| |     Basic (in dollars per share)                  |        51.95 |        41.07 |        23.05 | |
+| |     Diluted (in dollars per share)                |        51.32 |        40.54 |        22.87 | |
+| | Average common shares                             |              |              |              | |
+| |     Basic (in shares)                             |        3,127 |        3,281 |        3,408 | |
+| |     Diluted (in shares)                           |        3,176 |        3,336 |        3,458 | |
+| +------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares in scaled by 100,000 and per share data) --------+
+
+
+=== BALANCE SHEET ===
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                      THE GOLDMAN SACHS GROUP, INC.   GS/31X                                                        |
+|                                                      CONSOLIDATED BALANCE SHEETS                                                                   |
+|                                                      Dec 31, 2024 to Dec 31, 2025                                                                  |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
+| |                                                                                                                  | Dec 31, 2025 | Dec 31, 2024 | |
+| |------------------------------------------------------------------------------------------------------------------+--------------+--------------| |
+| | Assets                                                                                                           |              |              | |
+| |     Cash and cash equivalents:                                                                                   |     $164,259 |     $182,092 | |
+| |   Collateralized agreements                                                                                      |              |              | |
+| |         Securities purchased under agreements to resell (includes $126,007 and $179,793 at fair value)           |     $126,007 |     $180,062 | |
+| |         Securities borrowed (includes $51,581 and $46,902 at fair value)                                         |     $208,208 |     $194,645 | |
+| |     Customer and other receivables (includes $315 and $23 at fair value):                                        |     $185,842 |     $133,717 | |
+| |     Trading assets (at fair value and includes $158,641 and $148,417 pledged as collateral):                     |     $656,796 |     $570,555 | |
+| |   Investments:                                                                                                   |              |              | |
+| |         Available-for-sale securities (at fair value; amortized cost of $99,116 and $80,777):                    |      $99,244 |      $79,458 | |
+| |         Held-to-maturity securities:                                                                             |      $69,193 |      $78,713 | |
+| |         U.S. government obligations                                                                              |      $45,237 |      $57,869 | |
+| |         U.S. agency obligations                                                                                  |      $23,785 |      $20,637 | |
+| |         Asset-Backed Securities                                                                                  |         $171 |         $207 | |
+| |         Other investments (includes $24,938 and $25,284 at fair value)                                           |      $25,825 |      $26,343 | |
+| |     Loans (net of allowance of $2,148 and $4,666, and includes $4,905 and $5,460 at fair value):                 |     $237,734 |     $196,200 | |
+| |     Other assets (includes $180 and $194 at fair value):                                                         |      $36,212 |      $34,187 | |
+| |     Total assets:                                                                                                |   $1,809,320 |   $1,675,972 | |
+| | Liabilities and shareholders’ equity                                                                             |              |              | |
+| |     Deposits (includes $76,569 and $44,855 at fair value)                                                        |     $501,422 |     $433,013 | |
+| |   Collateralized financings                                                                                      |              |              | |
+| |         Securities sold under agreements to repurchase (at fair value):                                          |     $223,384 |     $274,380 | |
+| |         Securities loaned (includes $11,995 and $10,246 at fair value)                                           |      $53,644 |      $56,060 | |
+| |         Other secured financings (includes $27,833 and $27,985 at fair value):                                   |      $28,021 |      $28,150 | |
+| |         U.S. Dollar                                                                                              |      $14,770 |      $17,710 | |
+| |         Non-U.S. Dollar                                                                                          |      $13,251 |      $10,440 | |
+| |     Customer and other payables:                                                                                 |     $231,865 |     $223,255 | |
+| |     Trading liabilities (at fair value):                                                                         |     $262,552 |     $202,555 | |
+| |     Unsecured short-term borrowings:                                                                             |      $70,459 |      $69,709 | |
+| |     Unsecured long-term borrowings (includes $112,683 and $89,189 at fair value):                                |     $285,500 |     $242,634 | |
+| |       U.S. Dollar                                                                                                |     $212,561 |     $183,841 | |
+| |       Non-U.S. Dollar                                                                                            |      $72,939 |      $58,793 | |
+| |       Unsecured Debt                                                                                             |     $285,500 |              | |
+| |     Other liabilities (includes $111 and $84 at fair value):                                                     |      $27,501 |      $24,220 | |
+| |     Total liabilities:                                                                                           |   $1,684,348 |   $1,553,976 | |
+| |     Commitments, contingencies and guarantees                                                                    |              |              | |
+| |   Shareholders’ equity                                                                                           |              |              | |
+| |       Preferred stock; aggregate liquidation preference of $15,153 and $13,253:                                  |      $15,153 |      $13,253 | |
+| |       Common stock; 931,995,446 and 927,499,667 shares issued, and 296,476,742 and 310,653,708 shares            |           $9 |           $9 | |
+| | outstanding:                                                                                                     |              |              | |
+| |       Share-based awards:                                                                                        |       $5,795 |       $5,148 | |
+| |       Nonvoting common stock; no shares issued and outstanding                                                   |              |              | |
+| |       Additional paid-in capital:                                                                                |      $61,906 |      $61,376 | |
+| |       Retained earnings:                                                                                         |     $165,288 |     $153,412 | |
+| |       Accumulated other comprehensive loss:                                                                      |     $(2,260) |     $(2,702) | |
+| |       Stock held in treasury, at cost; 635,518,706 and 616,845,961 shares:                                       |   $(120,919) |   $(108,500) | |
+| |         Total shareholders’ equity:                                                                              |     $124,972 |     $121,996 | |
+| |     Total liabilities and shareholders’ equity:                                                                  |   $1,809,320 |   $1,675,972 | |
+| +------------------------------------------------------------------------------------------------------------------------------------------------+ |
++- Source: SEC XBRL  •  (In millions, except shares and per share data) -----------------------------------------------------------------------------+

@@ -1,0 +1,27 @@
+Portfolio,Total_Exposure_On_Balance,Total_Exposure_Off_Balance,Total_Exposure_Gross,Percent_of_Total,Credit_Quality
+Consumer excluding credit card,445845,43587,489432,14.32,Prime / subprime
+Credit card,1425563,247797,1673360,48.98,Prime / revolvers
+Real Estate (wholesale),224858,50204,275062,8.05,Commercial / multifamily
+Individuals and Individual Entities,167700,1079,168779,4.94,Private banking
+Asset Managers,152848,14715,167563,4.90,Institutional
+Consumer and Retail,133945,2235,136180,3.98,Retail exposure
+Technology Media and Telecommunications,97816,1986,99802,2.92,TMT sector
+Industrials,80606,1146,81752,2.39,Industrial sector
+Banks and Finance Companies,75653,2697,78350,2.29,Financial sector
+Healthcare,72218,49562,121780,3.56,Healthcare sector
+Utilities,39005,2585,41590,1.22,Regulated utilities
+Oil and Gas,36497,27305,63802,1.87,Energy sector
+Automotive,35984,18489,54473,1.59,Auto lending
+State and Municipal Government,32484,15030,47514,1.39,Government
+Insurance,25031,8532,33563,0.98,Insurance sector
+Chemicals and Plastics,23790,16961,40751,1.19,Chemicals
+Transportation,20861,1027,21888,0.64,Transport sector
+Metals and Mining,17767,1587,19354,0.57,Mining sector
+Central Government,15164,4514,19678,0.58,Sovereign
+Securities Firms,7966,3051,11017,0.32,Financial sector
+Financial Markets Infrastructure,5734,2125,7859,0.23,Clearing houses
+All other,180171,6207,186378,5.46,SPEs / Education / Civic
+Subtotal,1871408,1221353,3092761,90.52,
+Loans held-for-sale and loans at FV,51007,,51007,1.49,
+Receivables from customers,,47900+51929=99829,99829,2.92,Margin loans
+Total Credit Exposure (gross),3415849,1817307,3415849,100.00,

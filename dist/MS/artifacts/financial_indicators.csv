@@ -1,0 +1,24 @@
+Metric,FY2025,FY2024,FY2023,Unit,Source
+Net Revenues,70645,61761,54143,$M,10-K Income Statement
+Net Income attributable to Morgan Stanley,16861,13390,9087,$M,10-K Income Statement
+Earnings available to common shareholders,16249,12800,8530,$M,10-K Income Statement
+Diluted EPS,10.21,7.95,5.18,$/share,10-K Income Statement
+Total Assets,1420270,1215071,1193693,$M,10-K Balance Sheet
+Stockholders' Equity,111632,104511,99038,$M,10-K Balance Sheet
+Common Equity,101882,94761,90288,$M,10-K Balance Sheet
+Tangible Common Equity,79147,71604,66527,$M,10-K Non-GAAP
+Long-term Debt,341681,284307,260544,$M,10-K Balance Sheet
+Deposits,415523,376007,N/A,$M,10-K Balance Sheet
+Net Interest Income,10046,8611,8230,$M,10-K Income Statement
+Provision for Credit Losses,349,264,532,$M,10-K Income Statement
+Allowance for Credit Losses on Loans,1132,1066,N/A,$M,10-K Balance Sheet
+Total Non-interest Expenses,48342,43901,41798,$M,10-K Income Statement
+Efficiency Ratio,68,71,77,%,10-K MD&A (board-reported)
+ROE,16.6,14.0,9.4,%,10-K MD&A (board-reported)
+ROTCE,21.6,18.8,12.8,%,10-K MD&A (non-GAAP)
+CET1 Ratio (Standardized),15.0,15.9,N/A,%,10-K MD&A Regulatory
+SLR,5.4,5.6,N/A,%,10-K MD&A Regulatory
+Client Assets,9276,7860,N/A,$B,10-K MD&A Statistical Data
+Loans,289038,246814,N/A,$M,10-K MD&A Statistical Data
+Total Revenue,70645,61761,54143,$M,Derived (Net Revenues = NI + NII + Non-interest rev)
+Profit Margin,23.9,21.7,16.8,%,Derived (NI ÷ Net Revenues)

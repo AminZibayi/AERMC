@@ -1,0 +1,6 @@
+Scenario,Trigger,Primary_Risk_Channel,Severity,Source_Anchor
+S1,Geopolitical escalation + U.S.-China conflict,Credit to Capital to Earnings,HIGH,"[^1][^5]"
+S2,Systemic cyber attack on clearinghouse / cloud provider,Cyber to Operational to Liquidity,HIGH,"[^4][^5]"
+S3,CRE systemic stress + recession,Credit to Provisions to Capital,MEDIUM,"[^6][^7]"
+S4,Basel III Revisions output floor implementation + U.S. capital rule changes,Regulatory to Capital to Business Model,MEDIUM,"[^1][^8]"
+S5,Rapid AI-driven market structure disruption + fintech competition,Technology to Revenue to Market Share,MEDIUM,"[^4][^9]"

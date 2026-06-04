@@ -1,0 +1,12 @@
+{
+  "ticker": "JPM",
+  "name": "Company(CIK=19617)",
+  "cik": "19617",
+  "extraction_date": "2026-06-05T02:26:52.856166",
+  "market_cap": 833033273344,
+  "current_price": 310.89,
+  "employees": 320079,
+  "10k_accession": "0001628280-26-008131",
+  "10k_period": "2025-12-31",
+  "auditor": "PricewaterhouseCoopers LLP"
+}

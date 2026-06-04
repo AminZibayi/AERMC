@@ -1,0 +1,21 @@
+Metric,FY2023,FY2024,FY2025,Unit,Source
+Total_Revenue,102769,105856,113097,$M,10-K Income Statement
+Net_Interest_Income,56931,56060,60096,$M,10-K Income Statement
+Noninterest_Income,45838,49796,53001,$M,10-K Income Statement
+Total_Noninterest_Expense,65845,66812,69727,$M,10-K Income Statement
+Net_Income,26305,26973,30509,$M,10-K Income Statement
+Net_Income_Applicable_to_Common,24656,25344,29055,$M,10-K Income Statement
+Income_Before_Taxes,32530,33223,37695,$M,10-K Income Statement
+Diluted_EPS,3.05,3.19,3.81,$/share,10-K Income Statement
+Provision_for_Credit_Losses,4394,5821,5675,$M,10-K Income Statement
+Total_Assets,3081083,3261299,3411738,$M,10-K Balance Sheet
+Total_Loans_and_Leases,1095835,1185700,$M,10-K Balance Sheet
+Total_Deposits,1965467,2018729,$M,10-K Balance Sheet
+Stockholders_Equity,295385,293963,303243,$M,10-K Balance Sheet
+Tangible_Common_Equity,226290,224812,233221,$M,Derived (Equity - Preferred - Goodwill - Intangibles)
+Net_Margin_pct,25.6,25.5,27.0,Percent,Derived
+ROE_pct,8.9,9.2,10.1,Percent,Derived
+Efficiency_Ratio_pct,64.1,63.1,61.6,Percent,Derived
+PCL_Growth_pct,NA,32.5,-2.5,Percent,Derived
+Total_Assets_YoY_Growth,NA,5.8,4.6,Percent,Derived
+NIM_approx_pct,NA,2.23,2.31,Percent,Derived (NII/Average Earning Assets)

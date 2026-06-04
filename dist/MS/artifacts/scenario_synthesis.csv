@@ -1,0 +1,6 @@
+Scenario,Trigger,Primary_Risk_Channel,Severity,Source_Anchor
+S1,Geopolitical escalation (sanctions, tariffs, military conflict),Market and Liquidity Risk,High,[^2][^6]
+S2,AI-driven cyber disruption and model failure,Operational and Cyber Risk,High,[^2][^7]
+S3,Basel III endgame capital rule revision,Regulatory and Capital Risk,Medium,[^2][^6]
+S4,Commercial real estate systemic stress,Credit and Capital Erosion,Medium,[^2][^8]
+S5,Climate-related physical event disrupting operations,Operational and Credit Risk,Medium,[^2][^9]

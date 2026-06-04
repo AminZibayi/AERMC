@@ -1,0 +1,10 @@
+Portfolio,Total_Exposure_M,Per_of_Total,Credit_Quality,On_Balance_Sheet,Off_Balance_Sheet
+Total_Loans,986167,100.0%,Mixed,Yes,N/A
+Residential_Mortgages,Est_50_60pct,N/A,Low,Estimated,Estimated
+Credit_Cards,Est_15_20pct,N/A,Low,Estimated,Estimated
+Commercial_Real_Estate,Est_10_15pct,N/A,Medium,Estimated,Estimated
+Commercial_and_Industrial,Est_10_15pct,N/A,Medium,Estimated,Estimated
+Auto_Loans,Est_5_10pct,N/A,Medium,Estimated,Estimated
+Other_Consumer,Est_5_10pct,N/A,Medium,Estimated,Estimated
+Allowance_for_Loan_Losses,13797,N/A,N/A,Yes,N/A
+Net_Loans,972370,N/A,N/A,Yes,N/A
