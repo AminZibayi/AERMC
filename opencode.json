@@ -24,12 +24,8 @@
       "Stop-Process*": "ask",
       "Kill-Process*": "ask",
       "taskkill*": "ask",
-      "*-Force*": "ask",
-      "rm*": "ask",
-      "Get-Process*": "ask"
+      "rm*": "ask"
     }
   },
-  "plugin": [
-    "opencode-skill-creator"
-  ]
+  "plugin": ["opencode-skill-creator"]
 }
