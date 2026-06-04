@@ -5,6 +5,7 @@ All CSV tables must be written as standalone artifact files in `./dist/<TICKER>/
 **CRITICAL**: Do NOT include redundant columns like `Item`, `Risk_ID`, `Source`, or `Page_Ref` that repeat on every row. Put the citation `[^n]` for the data source in the Markdown header immediately preceding the artifact reference.
 
 ## Risk Factor Register
+
 **Artifact:** `./dist/<TICKER>/artifacts/risk_register.csv`
 
 ```csv
@@ -14,6 +15,7 @@ Political,Macroeconomic Uncertainty,"exact phrase ""..."" from 10-K"
 ```
 
 Columns:
+
 - `Risk_Category` - High-level category
 - `Risk_Factor_Title` - Extracted heading verbatim
 - `Verbatim_Excerpt` - 50-150 word quote with exact phrase syntax
@@ -21,6 +23,7 @@ Columns:
 **Report reference example:** `### Principal Risk Factors (Item 1A) [^2]` followed by `> Full register: ./dist/<TICKER>/artifacts/risk_register.csv`
 
 ## Financial Indicators
+
 **Artifact:** `./dist/<TICKER>/artifacts/financial_indicators.csv`
 
 ```csv
@@ -32,12 +35,14 @@ ROE,15.7%,16.1%,14.8%,Percent,Derived
 ```
 
 Columns:
+
 - `Metric` - Short metric name
 - `FY2023`, `FY2022`, `FY2021` - Fiscal year values
 - `Unit` - USD, Percent, Ratio
 - `Source` - “10-K Income Statement”, “Derived”, etc.
 
 ## Credit Concentrations (Banks Only)
+
 **Artifact:** `./dist/<TICKER>/artifacts/credit_concentrations.csv`
 
 ```csv
@@ -50,12 +55,14 @@ Other,0,0%,N/A
 ```
 
 Columns:
+
 - `Portfolio` - Counterparty type or product segment
 - `Total_Exposure` - USD amount (millions)
 - `Per_of_Total` - Percentage of overall portfolio
 - `Credit_Quality` - Distributed / Risk-weighted / Internal Rating
 
 ## Peer Comparison
+
 **Artifact:** `./dist/<TICKER>/artifacts/peer_comparison.csv`
 
 ```csv
@@ -66,12 +73,14 @@ Company,Revenue_2025_M,NetIncome_2025_M,TotalAssets_2025_B,ROE_2025,EfficiencyRa
 ```
 
 Columns:
+
 - `Company` - Ticker or name
 - `Revenue_2025_M`, `NetIncome_2025_M`, `TotalAssets_2025_B` - Latest fiscal year values
 - `ROE_2025`, `EfficiencyRatio_2025` - Derived ratios
 - `MarketCap_B` - In billions (Yahoo Finance only)
 
 ## Litigation Proceedings (if extensive)
+
 **Artifact:** `./dist/<TICKER>/artifacts/litigation_proceedings.csv`
 
 ```csv
@@ -79,6 +88,7 @@ Case_Name,Court_Jurisdiction,Status,ASC450_Classification,Estimated_Loss_Range
 ```
 
 Columns:
+
 - `Case_Name` - Name of proceeding
 - `Court_Jurisdiction` - Court or regulatory body
 - `Status` - Pending, On Appeal, Settled, Dismissed
@@ -86,6 +96,7 @@ Columns:
 - `Estimated_Loss_Range` - Range as disclosed in filing
 
 ## Scenario Synthesis
+
 **Artifact:** `./dist/<TICKER>/artifacts/scenario_synthesis.csv`
 
 ```csv
@@ -96,29 +107,36 @@ S3,CRE systemic stress,Credit to Earnings,Medium,[^n]
 ```
 
 Columns:
+
 - `Scenario` - Scenario label
 - `Trigger` - External event
 - `Primary_Risk_Channel` - Risk cascade path
 - `Severity` - Low/Medium/High
 - `Source_Anchor` - Citation number(s)
 
-## Data Gaps
+## Data Gaps (Technical Audit Trail)
+
 **Artifact:** `./dist/<TICKER>/artifacts/data_gaps.csv`
 
+The report body contains a human-readable narrative (Section 9). This CSV is the technical artifact with the complete retrieval attempt log for each gap.
+
 ```csv
-Gap_ID,Data_Item,Location,Priority,Action_Required
-GAP-001,"","",HIGH,""
-GAP-002,"","",MEDIUM,""
+Gap_ID,Data_Item,Filing_Section,Expected_File,Priority,Status,Retrieval_Attempt_1,Command_1,Result_1,Retrieval_Attempt_2,Command_2,Result_2,Notes
 ```
 
-Columns:
-- `Gap_ID` - Unique identifier
-- `Data_Item` - What data was missing
-- `Location` - File/section where data should exist
-- `Priority` - HIGH/MEDIUM/LOW
-- `Action_Required` - Specific retrieval command
+**Columns:**
+
+- `Gap_ID` — Unique identifier
+- `Data_Item` — Human label for missing data
+- `Filing_Section` — 10-K Item or Note
+- `Expected_File` — Raw data file that should contain the data
+- `Priority` — `HIGH` / `MEDIUM` / `LOW`
+- `Status` — `UNRESOLVED` / `PARTIAL` / `FILLED_THIS_RUN` / `UNRETRIEVABLE`
+- `Retrieval_Attempt_N`, `Command_N`, `Result_N` — Repeated columns for every attempt made (N = 1, 2, 3, …)
+- `Notes` — Additional context or authoritative filing reference
 
 ## Critical Rules
+
 - All financial figures MUST come from `edgartools_edgar_compare` or direct 10-K notes
 - "N/A" is acceptable if a metric is not disclosed in the 10-K
 - Market cap is the ONLY exception: may come from Yahoo Finance (cite with separate [^n])

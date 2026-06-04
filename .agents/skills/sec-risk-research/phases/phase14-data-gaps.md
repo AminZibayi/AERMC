@@ -1,47 +1,44 @@
-# Phase 14 — Data Gaps & Limitations (Structured Gap Tracking)
+# Phase 14 — Data Gaps & Limitations
 
 ## Purpose
 
-This phase produces a structured, machine-readable log of every data item that could NOT be fully retrieved.
+Write a short, human-readable gaps summary in the report body. All technical detail (retrieval attempts, commands, fills) goes to a separate artifact file.
 
-## Steps
+## Track A — Report Body
 
-1. **Audit each Phase's Required Outputs table** (from Phases 1–13)
-2. For every entry marked "Not found", "Not disclosed in filing", or flagged as partial:
-   - Assign a Gap ID (e.g., GAP-001)
-   - Record the specific data item
-   - Record the file location where it should exist (e.g., `item_3_legal.txt`, `proxy_governance.txt`, Note 30)
-   - Record the exact retrieval command needed (e.g., `edgar_notes topic="litigation"`)
-   - Assign priority: `HIGH` (blocks final report section), `MEDIUM` (section partially complete), `LOW` (nice-to-have)
-3. **Write the "Data Gaps & Limitations" section** at the end of the report using this format:
+Write 2–4 plain-language paragraphs under `## Data Gaps & Limitations` in `ERM_Report.md`. No tool names, no error messages, no causality chains — just state what information could not be retrieved and which report sections are affected.
 
-```markdown
-## Data Gaps & Limitations
+That's it. No Gap ID tables, no Filled Data section, no command references.
 
-| Gap ID | Data Item | Location | Priority | Action Required |
-|--------|-----------|----------|----------|-----------------|
-| GAP-001 | [Specific data] | Item 3: Legal Proceedings | HIGH | `edgar_read` sections=["legal"] retry |
-| GAP-002 | [Specific data] | Note 37 | MEDIUM | `edgar_notes` topic="cybersecurity" |
-```
+## Track B — Artifact File
 
-4. **Also write a "Filled Data" section** for items that were successfully retrieved:
+Write the full technical gap log to `./dist/<TICKER>/artifacts/data_gaps.csv`. This is the only place retrieval trails, commands, fills, and causality appear.
 
-| Data Item | Source | Reference |
-| --------- | ------ | --------- |
-| [Item name] | retrieval command | [^n] |
+**Columns:**
 
-5. Additionally, write the data gap tracking to `./dist/<TICKER>/artifacts/data_gaps.csv` as a structured artifact with columns: Gap_ID, Data_Item, Location, Priority, Action_Required. Reference this artifact path in the report.
+| Column                | Description                                                    |
+| --------------------- | -------------------------------------------------------------- |
+| `Gap_ID`              | Unique identifier                                              |
+| `Data_Item`           | What data is missing                                           |
+| `Filing_Section`      | 10-K Item or Note                                              |
+| `Expected_File`       | Raw data file that should contain it                           |
+| `Priority`            | `HIGH` / `MEDIUM` / `LOW`                                      |
+| `Status`              | `UNRESOLVED` / `PARTIAL` / `FILLED_THIS_RUN` / `UNRETRIEVABLE` |
+| `Retrieval_Attempt_N` | Description of what was tried                                  |
+| `Command_N`           | Exact tool call or script invocation                           |
+| `Result_N`            | Success, timeout, partial, error, etc.                         |
+| `Fill_Status`         | `OPEN` / `PARTIAL` / `FILLED_THIS_RUN`                         |
+| `Notes`               | Context or authoritative filing reference                      |
 
 ## Required Outputs
 
-| Output | Format |
-|--------|--------|
-| Data Gaps Table | Markdown table in report |
-| Filled Data Table | Markdown table in report |
-| Data Gaps CSV | `./dist/<TICKER>/artifacts/data_gaps.csv` |
-| Gap ID count | Log for Phase 16 check |
+| Output                            | Location                                            |
+| --------------------------------- | --------------------------------------------------- |
+| Data Gaps narrative (plain prose) | `ERM_Report.md` — end of document before references |
+| Technical gap trail CSV           | `./dist/<TICKER>/artifacts/data_gaps.csv`           |
 
 ## Critical Rules
-- Do NOT use "timeout", "MCP failed", or "LLM limitation" as reasons — use specific file/section descriptions
-- Every gap MUST map to a concrete retrieval action
-- If a gap is marked HIGH and the report section cannot be completed without it, the report MUST be flagged as "PARTIAL — requires manual completion"
+
+- The **report body** must contain only plain-language paragraph descriptions of gaps. No tool names, no command strings, no Filled Data table.
+- The **artifact CSV** contains everything: retrieval attempts, commands, results, fill status, and notes.
+- Reference the artifact once at the end of the report section: `> Technical gap trail: ./dist/<TICKER>/artifacts/data_gaps.csv`

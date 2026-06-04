@@ -130,9 +130,9 @@ Present 3–5 forward-looking scenario narratives. Each scenario must be anchore
 
 ## 9. Data Gaps & Limitations
 
-[Tables are acceptable here — this is the designated gap-tracking section. Include both Gap IDs and a Filled Data table.]
+[Write 2–4 paragraphs in natural analyst prose describing which sections required additional retrieval, what tools or approaches were attempted, and why certain data points remain unresolved. Do NOT use raw MCP command names or error messages as the primary narrative — describe failures in plain language. Include a GAP-IDs table with short narrative descriptions of each unresolved item. End with a brief Filled Data paragraph noting what was recovered.]
 
-> Write to `./dist/<TICKER>/artifacts/data_gaps.csv` if the gap list exceeds 10 items or if this report is part of a multi-report batch.
+> Technical artifact (audit trail): `./dist/<TICKER>/artifacts/data_gaps.csv` — full retrieval attempt log including tool commands and results.
 
 ---
 
@@ -152,18 +152,14 @@ All `[^n]` numbers used in the report body MUST appear here. Use the academic fi
 
 All structured data artifacts for this report are stored in `./dist/<TICKER>/artifacts/`.
 
-| Artifact                         | Path                                                    |
-| -------------------------------- | ------------------------------------------------------- |
-| Risk Factor Register (full CSV)  | `./dist/<TICKER>/artifacts/risk_register.csv`           |
-| Financial Indicators (CSV)       | `./dist/<TICKER>/artifacts/financial_indicators.csv`    |
-| Credit Concentrations (full CSV) | `./dist/<TICKER>/artifacts/credit_concentrations.csv`   |
-| Peer Comparison (CSV)            | `./dist/<TICKER>/artifacts/peer_comparison.csv`         |
-| Risk Cascade Diagram | Embedded inline in `ERM_Report.md` |
-| Governance Risk Map | Embedded inline in `ERM_Report.md` |
-| Financial Trend Chart | Embedded inline in `ERM_Report.md` |
-| Credit Pie Chart | Embedded inline in `ERM_Report.md` |
-| Scenario Synthesis (CSV)         | `./dist/<TICKER>/artifacts/scenario_synthesis.csv`      |
-| Data Gaps (CSV)                  | `./dist/<TICKER>/artifacts/data_gaps.csv`               |
+| Artifact                         | Path                                                  |
+| -------------------------------- | ----------------------------------------------------- |
+| Risk Factor Register (full CSV)  | `./dist/<TICKER>/artifacts/risk_register.csv`         |
+| Financial Indicators (CSV)       | `./dist/<TICKER>/artifacts/financial_indicators.csv`  |
+| Credit Concentrations (full CSV) | `./dist/<TICKER>/artifacts/credit_concentrations.csv` |
+| Peer Comparison (CSV)            | `./dist/<TICKER>/artifacts/peer_comparison.csv`       |
+| Scenario Synthesis (CSV)         | `./dist/<TICKER>/artifacts/scenario_synthesis.csv`    |
+| Data Gaps (CSV)                  | `./dist/<TICKER>/artifacts/data_gaps.csv`             |
 
 ---
 
