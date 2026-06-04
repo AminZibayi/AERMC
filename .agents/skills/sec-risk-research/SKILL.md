@@ -83,7 +83,7 @@ Once the script completes, use your local file reading tools (`read`) to ingest 
 8. **No meta-commentary in the final report.** Never mention scripts, MCP tools, line numbers, or extraction mechanics. Present data as if manually read from filings.
 9. **Do not fabricate numbers.** If data is absent from the filing, state "Not disclosed in filing." or "Requires manual review."
 10. **No SEC.gov URLs.** Reference only by accession number and form type.
-11. **CSV and Mermaid artifacts go in separate files.** Do NOT embed raw CSV data or Mermaid code blocks directly in `ERM_Report.md`. Write them to `./dist/<TICKER>/artifacts/` and reference artifact file paths in the report.
+11. **CSV and Mermaid artifacts go in separate files.** Do NOT embed raw CSV data or Mermaid code blocks directly in `ERM_Report.md`. Write them to `./dist/<TICKER>/artifacts/` during generation, but **reference them in the final report using paths relative to the report's own location** (e.g., `./artifacts/financial_indicators.csv`, not `./dist/<TICKER>/artifacts/...`).
 12. **Validation results go to terminal ONLY.** Validation checklists, pass/fail tables, and recalculated figures must be logged to the terminal during Phase 15. Do NOT include any validation artifacts in the final report.
 13. **Mermaid diagrams are always embedded inline in the final report.** Do NOT write `.mermaid` files under `./dist/<TICKER>/artifacts/`. Wrap each diagram in ` ```mermaid ` fenced code blocks in `ERM_Report.md` and follow it with a one-sentence plain text caption. (See `references/mermaid-templates.md` for examples.)
 14. Validation results belong in the terminal session only. Do NOT include Phase 15/16 pass/fail tables, recalculated logs, or checklist summaries in the final report.

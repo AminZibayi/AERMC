@@ -10,7 +10,7 @@ MOST IMPORTANT PHASE -- DO NOT MISS ANY RISK FACTORS OR VERBATIM EXCERPTS
 4. Do NOT categorize risks at this stage — list them in extracted order.
 5. Count total risk factors.
 6. Write the Risk Factor Register CSV to `./dist/<TICKER>/artifacts/risk_register.csv` with columns: Risk_Category, Risk_Factor_Title, Verbatim_Excerpt.
-7. In the report, reference the artifact file path instead of embedding the CSV.
+7. In the report, reference the artifact using a path relative to the report's own location (i.e., `./artifacts/risk_register.csv`), not `./dist/<TICKER>/artifacts/risk_register.csv`.
 
 ## Required Outputs
 

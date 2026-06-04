@@ -8,7 +8,7 @@
 4. For banks: additionally extract Net Interest Margin (NIM), CET1 Ratio, Tangible Common Equity.
 5. For lenders: extract Provision for Credit Losses (PCL) or Provision for Loan Losses.
 6. Write the Financial Indicators CSV to `./dist/<TICKER>/artifacts/financial_indicators.csv` with columns: Metric, FY2023, FY2022, FY2021, Unit, Source.
-7. In the report, reference the artifact file path instead of embedding the CSV.
+7. In the report, reference the artifact using a path relative to the report's own location (i.e., `./artifacts/financial_indicators.csv`), not `./dist/<TICKER>/artifacts/financial_indicators.csv`.
 
 ## Required Outputs
 

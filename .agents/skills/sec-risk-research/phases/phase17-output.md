@@ -18,9 +18,9 @@ All structured data (CSV tables, Mermaid diagrams) is written to separate artifa
 
 | Artifact Type         | File Path                                               | Report Usage                                                |
 | --------------------- | ------------------------------------------------------- | ----------------------------------------------------------- |
-| Risk Factor Register  | `./dist/<TICKER>/artifacts/risk_register.csv`           | Header citation + "See artifact: risk_register.csv"         |
-| Financial Indicators  | `./dist/<TICKER>/artifacts/financial_indicators.csv`    | Header citation + "See artifact: financial_indicators.csv"  |
-| Credit Concentrations | `./dist/<TICKER>/artifacts/credit_concentrations.csv`   | Header citation + "See artifact: credit_concentrations.csv" |
+| Risk Factor Register | `./artifacts/risk_register.csv` | Header citation + "See artifact: risk_register.csv" |
+| Financial Indicators | `./artifacts/financial_indicators.csv` | Header citation + "See artifact: financial_indicators.csv" |
+| Credit Concentrations | `./artifacts/credit_concentrations.csv` | Header citation + "See artifact: credit_concentrations.csv" |
 | Risk Cascade Diagram | Embedded inline in `ERM_Report.md` | `graph TD` / `graph LR` with ` ```mermaid ` block |
 | Governance Risk Map | Embedded inline in `ERM_Report.md` | `flowchart LR` or `graph TD` with ` ```mermaid ` block |
 | Financial Trend Chart | Embedded inline in `ERM_Report.md` | `xychart-beta` with ` ```mermaid ` block |
@@ -30,7 +30,7 @@ All structured data (CSV tables, Mermaid diagrams) is written to separate artifa
 
 1. **Dense Citations**: Every factual claim, dollar figure, and risk quote MUST be immediately followed by `[^n]`. Do not save citations for sentence endings.
 
-2. **CSV Tables (Artifact Files)**: Write all CSV content to `./dist/<TICKER>/artifacts/` as separate `.csv` files. In the report, place the citation `[^n]` in the markdown header line before a one-line reference (e.g., `### Financial Risk Indicators [^3]` followed by `> Full data: ./dist/<TICKER>/artifacts/financial_indicators.csv`).
+2. **CSV Tables (Artifact Files)**: Write all CSV content to `./dist/<TICKER>/artifacts/` as separate `.csv` files. In the report, use paths relative to the report's own location (e.g., `### Financial Risk Indicators [^3]` followed by `> Full data: ./artifacts/financial_indicators.csv`).
 
 3. **Mermaid Diagrams (Embedded Inline)**: Embed all Mermaid diagrams directly inline in `ERM_Report.md` using ` ```mermaid ` fenced code blocks. Each diagram must be followed by a one-sentence plain text caption. Do NOT write `.mermaid` artifact files.
 
