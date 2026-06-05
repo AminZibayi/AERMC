@@ -10,55 +10,55 @@
 
 ---
 
-## Part 1: Company Context & Industry Overview
+## Company Context & Industry Overview
 
 ### 1.1 Company Profile [^1]
 
-| Field | Value |
-|---|---|
-| Company Name | JPMorgan Chase & Co. |
-| Ticker | JPM (NYSE) |
-| CIK | 0000019617 |
-| SIC Code | 6021 (National Commercial Banks) |
-| Industry | National Commercial Banks / Banks - Diversified |
-| Sector | Financial Services |
-| Exchange | NYSE |
-| Headquarters | 270 Park Avenue, New York, NY 10017 |
-| Founded | 1799 |
-| Employees | 318,512 (as of December 31, 2025) |
-| Total Assets | $4,424.9 billion (FY2025) |
-| Stockholders' Equity | $362.4 billion (FY2025) |
-| Auditor | PricewaterhouseCoopers LLP |
+| Field                | Value                                           |
+| -------------------- | ----------------------------------------------- |
+| Company Name         | JPMorgan Chase & Co.                            |
+| Ticker               | JPM (NYSE)                                      |
+| CIK                  | 0000019617                                      |
+| SIC Code             | 6021 (National Commercial Banks)                |
+| Industry             | National Commercial Banks / Banks - Diversified |
+| Sector               | Financial Services                              |
+| Exchange             | NYSE                                            |
+| Headquarters         | 270 Park Avenue, New York, NY 10017             |
+| Founded              | 1799                                            |
+| Employees            | 318,512 (as of December 31, 2025)               |
+| Total Assets         | $4,424.9 billion (FY2025)                       |
+| Stockholders' Equity | $362.4 billion (FY2025)                         |
+| Auditor              | PricewaterhouseCoopers LLP                      |
 
 JPMorgan Chase & Co. ("JPMorganChase" or the "Firm") is a leading financial services firm headquartered in the United States, with operations worldwide. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers, predominantly in the U.S., and many of the world's most prominent corporate, institutional and government clients globally. The Firm operates through three principal business segments: Consumer & Community Banking ("CCB"), Commercial & Investment Bank ("CIB"), and Asset & Wealth Management ("AWM"), with the remaining activities in Corporate. JPMorganChase had $4.4 trillion in assets and $362.4 billion in stockholders' equity as of December 31, 2025. [^1]
 
 ### 1.2 Market Snapshot [^14]
 
-| Metric | Value |
-|---|---|
-| Current Price | $310.89 |
-| 52-Week Range | $260.31 – $337.25 |
-| Market Capitalization | ~$833.0 billion |
-| Beta | 1.023 |
-| Trailing P/E | 14.89x |
-| Dividend Yield | 1.99% (annual dividend $6.00/share) |
-| Book Value (per share) | $128.38 |
-| Price-to-Book | 2.42x |
+| Metric                 | Value                               |
+| ---------------------- | ----------------------------------- |
+| Current Price          | $310.89                             |
+| 52-Week Range          | $260.31 – $337.25                   |
+| Market Capitalization  | ~$833.0 billion                     |
+| Beta                   | 1.023                               |
+| Trailing P/E           | 14.89x                              |
+| Dividend Yield         | 1.99% (annual dividend $6.00/share) |
+| Book Value (per share) | $128.38                             |
+| Price-to-Book          | 2.42x                               |
 
-*(Market data as of script execution date: June 5, 2026)*
+_(Market data as of script execution date: June 5, 2026)_
 
 ### 1.3 Institutional Ownership [^15]
 
 The following institutional investors hold the five largest reported positions (as of March 31, 2026):
 
-| Rank | Institution | Shares | % Held | Reported Value |
-|---|---|---|---|---|
-| 1 | BlackRock Inc. | 208,220,293 | 7.77% | $64.7 billion |
-| 2 | Vanguard Capital Management LLC | 165,278,733 | 6.17% | $51.4 billion |
-| 3 | State Street Corporation | 124,276,661 | 4.64% | $38.6 billion |
-| 4 | Morgan Stanley | 68,544,442 | 2.56% | $21.3 billion |
-| 5 | Vanguard Portfolio Management LLC | 65,580,826 | 2.45% | $20.4 billion |
-| **Combined Top 5** | | **631,900,955** | **23.59%** | **$196.4 billion** |
+| Rank               | Institution                       | Shares          | % Held     | Reported Value     |
+| ------------------ | --------------------------------- | --------------- | ---------- | ------------------ |
+| 1                  | BlackRock Inc.                    | 208,220,293     | 7.77%      | $64.7 billion      |
+| 2                  | Vanguard Capital Management LLC   | 165,278,733     | 6.17%      | $51.4 billion      |
+| 3                  | State Street Corporation          | 124,276,661     | 4.64%      | $38.6 billion      |
+| 4                  | Morgan Stanley                    | 68,544,442      | 2.56%      | $21.3 billion      |
+| 5                  | Vanguard Portfolio Management LLC | 65,580,826      | 2.45%      | $20.4 billion      |
+| **Combined Top 5** |                                   | **631,900,955** | **23.59%** | **$196.4 billion** |
 
 Institutional ownership constitutes approximately 75.6% of outstanding shares, indicating high concentration by passive and active institutional managers.
 
@@ -69,12 +69,12 @@ JPMorganChase operates as a U.S. National Commercial Bank (SIC 6021) within the 
 The Firm is part of the peer group of large U.S. money-center banks. Based on SEC-reported financial data:
 
 | Peer | FY2025 Total Assets ($B) | FY2025 Revenue ($B) | FY2025 Net Income ($B) |
-|---|---|---|---|
-| JPM | $4,424.9 | $182.4 | $57.0 |
-| BAC | $3,411.7 | $113.1 | $30.5 |
-| C | $2,657.2 | $85.2 | $14.3 |
-| WFC | $2,148.6 | $85.1 | $21.3 |
-| GS | $1,809.3 | — | $17.2 |
+| ---- | ------------------------ | ------------------- | ---------------------- |
+| JPM  | $4,424.9                 | $182.4              | $57.0                  |
+| BAC  | $3,411.7                 | $113.1              | $30.5                  |
+| C    | $2,657.2                 | $85.2               | $14.3                  |
+| WFC  | $2,148.6                 | $85.1               | $21.3                  |
+| GS   | $1,809.3                 | —                   | $17.2                  |
 
 JPMorganChase is the largest U.S. bank by assets, revenue, and net income, with total assets representing approximately 29.7% more than the nearest peer (Bank of America). The Firm is subject to extensive supervision and regulation by the Federal Reserve as a bank holding company and financial holding company, by the OCC with respect to its national bank subsidiary JPMorgan Chase Bank, N.A., and by the SEC and FINRA for its broker-dealer activities. [^1]
 
@@ -82,7 +82,7 @@ The Firm's global systemic importance is underscored by its status as a systemic
 
 ---
 
-## Part 2: Enterprise Risk Framework & Governance
+## Enterprise Risk Framework & Governance
 
 ### 2.1 ERM Framework Assessment [^8]
 
@@ -106,13 +106,13 @@ The Firm is also subject to the international Basel III capital framework, as im
 
 JPMorganChase's Board of Directors is organized into five independent, principal standing committees: [^20]
 
-| Committee | Key Risk Oversight Responsibilities |
-|---|---|
-| **Audit Committee** | Oversight of compliance with ethical standards, financial reporting controls |
-| **Risk Committee** | Independent Risk Management (IRM), firmwide risk governance framework; climate risk |
+| Committee                                          | Key Risk Oversight Responsibilities                                                       |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Audit Committee**                                | Oversight of compliance with ethical standards, financial reporting controls              |
+| **Risk Committee**                                 | Independent Risk Management (IRM), firmwide risk governance framework; climate risk       |
 | **CMDC** (Conduct, Culture & Reputation Committee) | Firm culture, conduct risk, HR compensation practices, risk integration into compensation |
-| **Governance Committee** | Board composition, shareholder proposals |
-| **PRC** (Public Responsibility Committee) | Community investment, fair lending, consumer practices, sustainability and public policy |
+| **Governance Committee**                           | Board composition, shareholder proposals                                                  |
+| **PRC** (Public Responsibility Committee)          | Community investment, fair lending, consumer practices, sustainability and public policy  |
 
 #### Risk Committee Leadership
 
@@ -122,11 +122,11 @@ The Risk Committee is chaired by **Linda B. Bammann**, who the Board has determi
 
 #### CRO and Risk Management Organization
 
-The CRO name is not explicitly disclosed in the proxy governance excerpt retrieved during this analysis. The Role of Chief Risk Officer is embedded within the Independent Risk Management (IRM) function overseen by the Risk Committee, and the CRO position exists; however, the specific individual holding the title is not named in the governance excerpts available from the DEF 14A proxy at this extraction. *Note: CRO name not disclosed in retrieved proxy excerpts.* [^20]
+The CRO name is not explicitly disclosed in the proxy governance excerpt retrieved during this analysis. The Role of Chief Risk Officer is embedded within the Independent Risk Management (IRM) function overseen by the Risk Committee, and the CRO position exists; however, the specific individual holding the title is not named in the governance excerpts available from the DEF 14A proxy at this extraction. _Note: CRO name not disclosed in retrieved proxy excerpts._ [^20]
 
 #### Risk Committee Meeting Frequency
 
-Meeting count for the Risk Committee is not disclosed in the retrieved proxy governance text. The proxy notes that "Committees meet regularly in conjunction with scheduled Board meetings and hold additional meetings as needed," but specific meeting counts by committee are not itemized. *Meeting count not disclosed in DEF 14A.* [^20]
+Meeting count for the Risk Committee is not disclosed in the retrieved proxy governance text. The proxy notes that "Committees meet regularly in conjunction with scheduled Board meetings and hold additional meetings as needed," but specific meeting counts by committee are not itemized. _Meeting count not disclosed in DEF 14A._ [^20]
 
 #### Risk-Compensation Integration
 
@@ -142,7 +142,7 @@ JPMorganChase's governance structure follows the standard model for large U.S. G
 
 ---
 
-## Part 3: Principal Risk Factors (Item 1A) [^2]
+## Principal Risk Factors (Item 1A) [^2]
 
 > Full detail of all risk factors with verbatim quotes is available in the artifact file: `./artifacts/risk_register.csv`
 
@@ -190,23 +190,23 @@ The 2025 Form 10-K identifies **28 distinct risk factors** organized into 12 cat
 
 ---
 
-## Part 4: Financial & Credit Risk Profile
+## Financial & Credit Risk Profile
 
 ### 4.1 Financial Performance Summary (FY2023–FY2025) [^3]
 
 > Full 3-year financial indicators: `./artifacts/financial_indicators.csv`
 
-| Metric | FY2025 | FY2024 | FY2023 |
-|---|---|---|---|
-| Total Net Revenue | $182,447M | $177,556M | $158,104M |
-| Net Interest Income | $95,443M | $92,583M | $89,267M |
-| Provision for Credit Losses | $14,212M | $10,678M | $9,320M |
-| Net Income | $57,048M | $58,471M | $49,552M |
-| Diluted EPS | $20.02 | $19.75 | $16.23 |
-| Total Assets | $4,424,900M | $4,002,814M | $3,875,393M |
-| ROE (ending balance) | 15.73% | 16.96% | 15.12% |
-| Net Margin | 31.26% | 32.93% | 31.33% |
-| Efficiency Ratio | 52.38% | 51.70% | 55.12% |
+| Metric                      | FY2025      | FY2024      | FY2023      |
+| --------------------------- | ----------- | ----------- | ----------- |
+| Total Net Revenue           | $182,447M   | $177,556M   | $158,104M   |
+| Net Interest Income         | $95,443M    | $92,583M    | $89,267M    |
+| Provision for Credit Losses | $14,212M    | $10,678M    | $9,320M     |
+| Net Income                  | $57,048M    | $58,471M    | $49,552M    |
+| Diluted EPS                 | $20.02      | $19.75      | $16.23      |
+| Total Assets                | $4,424,900M | $4,002,814M | $3,875,393M |
+| ROE (ending balance)        | 15.73%      | 16.96%      | 15.12%      |
+| Net Margin                  | 31.26%      | 32.93%      | 31.33%      |
+| Efficiency Ratio            | 52.38%      | 51.70%      | 55.12%      |
 
 **Revenue Growth:** JPMorganChase's total net revenue has grown from $158,104M in FY2023 to $182,447M in FY2025 (+15.4% over two years), driven primarily by growth in noninterest revenue and net interest income expansion. [^3]
 
@@ -224,13 +224,13 @@ As of December 31, 2025, the Firm's total credit exposure was $3,415.85 billion 
 
 **Top Five Wholesale Exposures:**
 
-| Sector | On-Balance ($M) | Off-Balance ($M) | Total ($M) | % of Total |
-|---|---|---|---|---|
-| Real Estate | $224,858 | $50,204 | $275,062 | 8.05% |
-| Individuals and Individual Entities | $167,700 | $1,079 | $168,779 | 4.94% |
-| Asset Managers | $152,848 | $14,715 | $167,563 | 4.90% |
-| Consumer & Retail | $133,945 | $2,235 | $136,180 | 3.98% |
-| TMT | $97,816 | $1,986 | $99,802 | 2.92% |
+| Sector                              | On-Balance ($M) | Off-Balance ($M) | Total ($M) | % of Total |
+| ----------------------------------- | --------------- | ---------------- | ---------- | ---------- |
+| Real Estate                         | $224,858        | $50,204          | $275,062   | 8.05%      |
+| Individuals and Individual Entities | $167,700        | $1,079           | $168,779   | 4.94%      |
+| Asset Managers                      | $152,848        | $14,715          | $167,563   | 4.90%      |
+| Consumer & Retail                   | $133,945        | $2,235           | $136,180   | 3.98%      |
+| TMT                                 | $97,816         | $1,986           | $99,802    | 2.92%      |
 
 **Consumer Portfolio:** Total consumer credit exposure is $3,742.8 billion (on + off balance), of which credit card represents $1,673.4 billion (44.7% of total exposure). Consumer excluding credit card accounts for $489.4 billion. [^8]
 
@@ -242,7 +242,7 @@ The Firm does not believe that its exposure to any particular loan product or in
 
 ---
 
-## Part 5: Operational, Cyber & Litigation Risk
+## Operational, Cyber & Litigation Risk
 
 ### 5.1 Litigation & Contingencies [^9]
 
@@ -277,6 +277,7 @@ JPMorganChase dedicates extensive disclosure to cyber risk in Item 1A. The 2025 
 Identified threat actors include: (i) individuals or groups **sponsored by, or acting on behalf of, hostile countries or terrorist organizations**; (ii) cyber-criminals; and (iii) **hacktivists** engaged in promoting political or social agendas. The Firm acknowledges that it **"has experienced security breaches due to cyber attacks in the past, and future breaches are inevitable."** [^7]
 
 Key cyber risk exposures explicitly disclosed:
+
 - Unauthorized access to Firm or client systems and confidential information
 - Data manipulation or destruction; disruption of online banking services
 - Ransomware demands; system manipulation through compromised AI systems
@@ -290,7 +291,7 @@ Key cyber risk exposures explicitly disclosed:
 
 ---
 
-## Part 6: Economic & Systemic Risk Landscape
+## Economic & Systemic Risk Landscape
 
 ### 6.1 Macro Risk Factors
 
@@ -304,7 +305,7 @@ Key cyber risk exposures explicitly disclosed:
 
 ---
 
-## Part 7: Scenario-Based Emerging Risk Analysis
+## Scenario-Based Emerging Risk Analysis
 
 Full scenario synthesis: `./artifacts/scenario_synthesis.csv`
 
@@ -324,6 +325,177 @@ Full scenario synthesis: `./artifacts/scenario_synthesis.csv`
 
 **Mechanism:** The attack exploits interconnectedness across JPMorganChase's operational systems, third-party vendors, and financial market infrastructure. The Firm acknowledges that disruption to one entity could cause industry-wide operational disruptions. An AI-enabled attack could autonomously map and exploit network vulnerabilities, adapt to defensive countermeasures in real time, and conduct social engineering at scale. The Firm's own COSO 2013 framework controls could be circumvented before detection.
 
-**Impact:** Extended suspension of payment processing; potential data exfiltration of client confidential information; regulatory investigation from OCC/CFPB; potential material weakness finding under COSO 2013; litig
+**Impact:** Extended suspension of payment processing; potential data exfiltration of client confidential information; regulatory investigation from OCC/CFPB; potential material weakness finding under COSO 2013; litigation; –+ estimated losses under business interruption scenarios. [^7]
 
-Response too long (max 20000 symbols). Truncating output.
+**Source anchors:** [^7] (Item 1A: cyber attack threat actor language; AI-enhanced threat context); [^8] (Note 4/Interconnection framework)
+
+### Scenario 3: Capital Rule Change — Basel III Endgame Finalization
+
+**Trigger:** The Federal Reserve, OCC, and FDIC finalize revised U.S. risk-based capital requirements incorporating the Basel III "endgame" proposals, raising RWA requirements for large GSIBs including JPMorganChase.
+
+**Mechanism:** The February 2026 Federal Reserve announcement that SCB requirements will remain flat through September 30, 2027 implies the calibration models are under active review. A final rule revising output floors or adding new risk-weight categories (particularly for operational risk, credit risk, or market risk) could raise JPMorganChase's risk-weighted assets by a meaningful percentage. This would increase CET1 ratio requirements under the current 4.5% minimum plus GSIB surcharge plus SCB, potentially constraining capital distributions and loan growth.
+
+**Impact:** Reduction in Common Equity Tier 1 ratio. A 100bps increase in RWA on a multi-trillion-dollar base could imply + of incremental capital requirements. This would reduce distributable capital and ROE, potentially requiring curtailment of share repurchases (FY2025: .6B) or dividend growth. Management has stated the Firm continues to monitor developments and potential impacts.
+
+**Source anchors:** [^1] (Business: Capital and Liquidity Requirements; Basel III endgame reference); [^3] (Financial data)
+
+### Scenario 4: Systemic Credit Cycle — U.S. Recession with CRE Systemic Stress
+
+**Trigger:** A U.S. recession characterized by unemployment above 6.5% and sustained office vacancy rates above 25% in major metropolitan areas, leading to material deterioration in JPMorganChase's .1B wholesale real estate portfolio and .67T credit card portfolio.
+
+**Mechanism:** The FY2025 PCL of .2B represents a +33% YoY increase from FY2024's .7B. A systemic recession could push the allowance to –25B. CRE deterioration — already noted in the 10-K as a key concern — would cascade through: (1) increased allowance and net charge-offs reduce earnings and capital; (2) deleveraging to preserve CET1 ratios constricts credit supply (pro-cyclical effect); (3) reduced dividend capacity impacts institutional investor demand. Widespread defaults on consumer debt could lead to recessionary conditions.
+
+**Impact:** Net income decline of 20–30% (–45B range under stressed scenario); PCL approaching –25B; potential CET1 ratio approaching regulatory minimums; constrained capital distributions; and exposure to litigation from CRE borrowers.
+
+**Source anchors:** [^3] (PCL: .2B FY2025, +33% YoY); [^8] (Note 4 Real Estate .1B); [^2] (Consumer businesses and CRE risk language)
+
+### Scenario 5: Climate / Physical Risk — Severe Weather Disrupting Key Operations
+
+**Trigger:** A Category 4–5 hurricane making landfall in the Northeast U.S., affecting JPMorganChase's headquarters and primary data center operations in the New York metropolitan area, combined with concurrent severe flooding in London affecting J.P. Morgan Securities plc.
+
+**Mechanism:** JPMorganChase acknowledges that climate change physical risks include "increased frequency or severity of acute weather events and shifting climate patterns, which may lead to lower asset values, increased insurance costs, and business and supply chain disruptions." A simultaneous disruption to primary and secondary operational centers would activate the Firmwide resiliency framework, potentially exceeding its design parameters — "there can be no assurance that the Firmwide resiliency framework will mitigate all potential resiliency risks."
+
+**Impact:** Business continuity disruption to trading, settlement, and client services for 24–72+ hours; potential data loss; regulatory scrutiny for failed contingency arrangements; reputational harm; and annual resilience investment costs rising by 20–30% in response to identified gaps.
+
+**Source anchors:** [^2] (Item 1A: Operational; Climate Change; Extraordinary events); [^20] (Board-level climate risk oversight by Risk Committee)
+
+### Cross-Scenario Synthesis
+
+| Scenario                                | Trigger                                             | Primary Risk Channel                     | Severity | Source      |
+| --------------------------------------- | --------------------------------------------------- | ---------------------------------------- | -------- | ----------- |
+| Geopolitical / Trade Shock              | U.S.-China escalation or broad tariffs              | Market → Credit → Capital                | High     | [^2], [^9]  |
+| Technology Disruption — AI Cyber Attack | State-sponsored AI-enabled attack on infrastructure | Cyber/Operational → Regulatory → Capital | High     | [^7], [^8]  |
+| Regulatory / Capital Rule Change        | Basel III endgame finalization                      | Capital → Distributions → ROE            | High     | [^1], [^3]  |
+| Systemic Credit Cycle / CRE             | Recession with CRE systemic stress                  | Credit → PCL → CET1 → Liquidity          | High     | [^8], [^3]  |
+| Climate / Physical Risk                 | Severe weather disrupting key operations            | Operational → Business continuity        | Medium   | [^2], [^20] |
+
+---
+
+## Risk Interconnections
+
+### Risk Cascade Map
+
+```mermaid
+graph LR
+    A["Geopolitical Escalation / Trade Shock"] --> B["Market Disruption"]
+    B --> C["Credit Deterioration"]
+    C --> D["Higher PCL / Capital Compression"]
+    D --> E["Reduced Distributions / Liquidity Stress"]
+    F["AI-Enabled Cyber Attack"] --> G["Operational Systems Failure"]
+    G --> H["Data Exfiltration / Fraud"]
+    H --> I["Regulatory Enforcement / Litigation"]
+    I --> E
+    J["Interest Rate Stress (High for Long)"] --> C
+    J --> K["AFS Securities Losses / Deposit Flight"]
+    K --> E
+    E --> L["Reputational Harm / Creditor Confidence"]
+```
+
+_Cascading risk chains from Item 1A and Note 4 showing how geopolitical, operational, market, and credit risks interact through feedback loops._
+
+### Governance Risk Map
+
+```mermaid
+graph TD
+    A["Board of Directors"] --> B["Risk Committee (Chair: L. Bammann)"]
+    A --> C["Audit Committee"]
+    A --> D["CMDC (Conduct & Reputation)"]
+    B --> E["Independent Risk Management / CRO"]
+    E --> F["CCB Risk Management"]
+    E --> G["CIB Risk Management"]
+    E --> H["AWM Risk Management"]
+    C --> I["Financial Reporting Controls"]
+    C --> J["Compliance & Ethics Oversight"]
+    D --> K["Compensation / Incentive Alignment"]
+    F --> L["Consumer Credit Risk / AML"]
+    G --> M["Market Risk / Capital Risk / Model Risk"]
+    H --> N["Asset Management Risk / Fiduciary Obligations"]
+```
+
+_Board governance structure showing the five principal standing committees and their risk oversight lines. The Risk Committee holds primary oversight of firmwide risk governance and IRM._
+
+### Financial Trend Chart
+
+```mermaid
+xychart-beta
+    title "JPMorgan Chase: Key Financial Metrics (FY2023–FY2025)"
+    x-axis [FY2023, FY2024, FY2025]
+    y-axis "USD Billions" 0 --> 200
+    line [158.1, 177.6, 182.4]
+    line [49.6, 58.5, 57.0]
+    line [9.3, 10.7, 14.2]
+```
+
+_Total Net Revenue (top line, rising), Net Income (middle line, +15% over two years), and Provision for Credit Losses (bottom line, accelerating to +52% over two years)._
+
+### Credit Concentration Chart
+
+```mermaid
+pie title JPMorganChase Credit Exposure Distribution (FY2025 — Top 5 + Other)
+    "Credit Card" : 1673
+    "Consumer ex. CCB" : 489
+    "Real Estate" : 275
+    "Loans held-for-sale / FV" : 203
+    "Receivables / Margin" : 180
+    "All other wholesale" : 597
+```
+
+_Credit card is the dominant exposure at 48.98% of total. Real Estate (8.05%) is the most concentrated sectoral risk._
+
+### Cascade Narrative: Most Significant Risk Chains
+
+**Cascade 1 — Geopolitical Event → Market Shock → Credit Deterioration → Capital Compression:** An escalation of hostilities in the Middle East or involving China could trigger a sharp rise in energy prices, a global sell-off in equity and credit markets, and a flight-to-safety dynamic that narrows credit spreads for high-quality issuers while widening them for all others. JPMorganChase's market-making positions would face mark-to-market losses. Client stress — particularly among energy and commodity sector borrowers — would translate into higher credit migration rates and PCL. The resulting drag on earnings and capital could require drawdowns on contingent liquidity buffers, raising funding costs simultaneously.
+
+**Cascade 2 — AI-Enhanced Cyber Attack → Operational Failure → Regulatory Action → Reputational Damage → Liquidity Stress:** An AI-enabled attack exploiting zero-day vulnerabilities in the Firm's payment processing or core banking systems could cause extended service disruption. This would trigger immediate disclosure obligations, regulatory investigation, and potential class action litigation. A material weakness finding under COSO 2013 controls could follow, restricting new product launches. Simultaneous reputational harm amplified through social media could trigger deposit outflows as customers seek alternative providers, compounding the liquidity impact through both deposit loss and elevated funding costs.
+
+---
+
+## Data Gaps & Limitations
+
+During the preparation of this report, the following data limitations were encountered:
+
+**Note 37 (Item 106) — Cybersecurity Risk Management and Strategy Disclosure:** The data extract returned "None" for the cybersecurity section in relevant_notes.txt, and a direct edgar_edgar_notes query returned no result. This disclosure is mandatory for fiscal years ending on or after January 15, 2025. The qualitative cyber risk analysis in Parts 5 and 7 was derived entirely from Item 1A narrative disclosures rather than the Item 106 narrative.
+
+**CET1 Ratio:** The Common Equity Tier 1 ratio — a key regulatory capital metric for global systemically important banks — is not extractable from the raw financial_statements.txt. CET1 data typically appears in Note 21 (Regulatory Capital). Without this figure, comments on JPMorganChase's capital adequacy relative to its 4.5% minimum plus GSIB surcharge are based on qualitative disclosure only.
+
+**Risk Committee Meeting Count:** The exact number of Risk Committee meetings held in FY2025 is not disclosed in the DEF 14A proxy excerpt retrieved.
+
+**CRO Name:** The Chief Risk Officer's name is not disclosed in the proxy governance excerpt; the position exists within the Independent Risk Management function but the individual's identity was not extractable from the retrieved governance text.
+
+**NIM (Net Interest Margin):** Net Interest Income (.4B FY2025) is disclosed, but NIM as a percentage of average earning assets is not directly available in the extracted financial data without the denominator, which appears in the MD&A.
+
+> Technical gap trail: ./dist/JPM/artifacts/data_gaps.csv
+
+---
+
+## References
+
+[^1]: JPMorgan Chase & Co. (2025). Form 10-K for the Year Ended December 31, 2025. Item 1. Business. Accession Number: 0001628280-26-008131. (Ticker: JPM; CIK: 0000019617; Auditor: PricewaterhouseCoopers LLP.)
+
+[^2]: JPMorgan Chase & Co. (2025). Form 10-K for the Year Ended December 31, 2025. Item 1A. Risk Factors. Accession Number: 0001628280-26-008131.
+
+[^3]: JPMorgan Chase & Co. (2025). Form 10-K for the Year Ended December 31, 2025. Item 8. Financial Statements and Supplementary Data (Consolidated Statements of Income; Consolidated Balance Sheets). Accession Number: 0001628280-26-008131.
+
+[^5]: JPMorgan Chase & Co. (2025). Form 10-K for the Year Ended December 31, 2025. Item 1. Business — Supervision and Regulation: Capital and Liquidity Requirements; Basel III. Accession Number: 0001628280-26-008131.
+
+[^6]: JPMorgan Chase & Co. (2025). Form 10-K for the Year Ended December 31, 2025. Item 1. Business — Sustainability: CSRD, CSDDD. Accession Number: 0001628280-26-008131.
+
+[^7]: JPMorgan Chase & Co. (2025). Form 10-K for the Year Ended December 31, 2025. Item 1A. Risk Factors (Operational — Cyber section, AI/Technology section); Note 37 (not retrievable — data gap flagged). Accession Number: 0001628280-26-008131.
+
+[^8]: JPMorgan Chase & Co. (2025). Form 10-K for the Year Ended December 31, 2025. Note 4: Credit Risk Concentrations. Accession Number: 0001628280-26-008131.
+
+[^9]: JPMorgan Chase & Co. (2025). Form 10-K for the Year Ended December 31, 2025. Item 3. Legal Proceedings; Note 30: Litigation and Contingencies. Accession Number: 0001628280-26-008131.
+
+[^12]: JPMorgan Chase & Co. (2025). Form 10-K Risk Factor Synthesis (derived from Phases 11–12 analysis per Item 1A and EDGAR 8-K search).
+
+[^14]: Yahoo Finance. JPMorgan Chase & Co. (JPM) Ticker Information. Retrieved June 5, 2026 (market data from risk_research.py extract).
+
+[^15]: risk_research.py institutional holders extract (JPM). Data as of March 31, 2026 (Q1 2026 13-F reporting date).
+
+[^16]: SEC EDGAR — edgartools_edgar_compare: JPM/BAC/WFC/C/GS peer comparison data (FY2025, annual).
+
+[^20]: JPMorgan Chase & Co. (2026). DEF 14A — Proxy Statement for the 2026 Annual Meeting of Stockholders. Risk Committee, CMDC, Governance excerpts. Accession: reference in metadata via risk_research.py.
+
+---
+
+_All factual claims in this report are sourced from JPMorgan Chase & Co.'s fiscal year 2025 Form 10-K (accession 0001628280-26-008131), its 2026 Proxy Statement (DEF 14A), and verified through direct fiscal extraction. No SEC.gov URLs are used; filings are referenced solely by accession number and form type as required._
